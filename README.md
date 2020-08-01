@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://hsto.org/webt/e2/0q/nf/e20qnfbscs_ygi5qd9zljiqeupq.gif" alt="follow the white rabbit" width="100%" />
+</p>
 
 <!--
 **tarampampam/tarampampam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
