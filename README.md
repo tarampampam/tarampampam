@@ -5,6 +5,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=265&theme=chartreuse-dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" />
 
+<!--img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarampampam&hide_border=true&layout=compact&hide_title=true&theme=chartreuse-dark" /-->
+
 <!--
 **tarampampam/tarampampam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
