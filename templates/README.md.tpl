@@ -5,17 +5,22 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=265&theme=chartreuse-dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" />
 
+---
+
 #### 👷 Check out what I'm currently working on
+
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 👨‍💻 Repositories I created recently
+
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
+
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
