@@ -5,14 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/nginx-docker](https://github.com/tarampampam/nginx-docker) - :whale: nginx (a little bit customized) (4 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (4 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (today)
+- [tarampampam/guzzle-url-mock](https://github.com/tarampampam/guzzle-url-mock) - :ghost: URLs (fixed and regexps-based) mock handler for Guzzle 6&amp;7 (4 days ago)
 - [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (4 days ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (4 days ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (4 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Static server error pages in the docker image (4 days ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (4 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - :rocket: This GitHub action allows receiving the secrets from the doppler.com (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -21,8 +19,6 @@
 - [tarampampam/arduino-elscooter-lighting](https://github.com/tarampampam/arduino-elscooter-lighting) - :nut_and_bolt: My electric scooter lighting firmware
 - [tarampampam/arduino-deps-installer](https://github.com/tarampampam/arduino-deps-installer) - :dart: Arduino sketch dependencies installer
 - [tarampampam/arduino-playground](https://github.com/tarampampam/arduino-playground) - :nut_and_bolt: Arduino playground
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
 
 #### 🚀 Latest releases I've contributed to
 
