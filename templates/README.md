@@ -4,13 +4,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 8}}
+{{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 👨‍💻 Repositories I created recently
 
-{{range recentRepos 6}}
+{{range recentRepos 4}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
