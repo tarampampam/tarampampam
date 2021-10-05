@@ -20,7 +20,7 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### 📊 Weekly development breakdown
+#### 📊 Weekly development breakdown!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
