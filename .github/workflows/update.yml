@@ -24,10 +24,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 
-#      - uses: stefanzweifel/git-auto-commit-action@v4
-#        if: github.event_name != 'pull_request'
-#        with:
-#          commit_message: 'Update generated README'
-#          branch: master
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: github.event_name != 'pull_request'
+        with:
+          commit_message: 'Update generated README'
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
