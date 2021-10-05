@@ -19,11 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
-      - uses: athul/waka-readme@v0.1.5
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: github.event_name != 'pull_request'
         with:

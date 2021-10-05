@@ -20,11 +20,6 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### 📊 Weekly development breakdown!
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">&nbsp;</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=265&theme=chartreuse-dark" />
