@@ -22,12 +22,12 @@ jobs:
       - uses: athul/waka-readme@v0.1.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 
-#      - uses: stefanzweifel/git-auto-commit-action@v4
-#        if: github.event_name != 'pull_request'
-#        with:
-#          commit_message: 'Update generated README'
-#          branch: master
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        if: github.event_name != 'pull_request'
+        with:
+          commit_message: 'Update generated README'
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
