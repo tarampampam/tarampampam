@@ -20,6 +20,18 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
+#### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+Markdown   5 hrs 58 mins   ███████████████████▓░░░░░   78.28 %
+GoLang     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+HTML       34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+CSS        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Lua        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```
+<!--END_SECTION:waka-->
+
 <p align="center">&nbsp;</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=265&theme=chartreuse-dark" />
