@@ -5,12 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Static server error pages in the docker image (1 day ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (1 day ago)
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (2 days ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (2 days ago)
-- [tarampampam/guzzle-url-mock](https://github.com/tarampampam/guzzle-url-mock) - :ghost: URLs (fixed and regexps-based) mock handler for Guzzle 6&amp;7 (6 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (6 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Static server error pages in the docker image (2 days ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (2 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (3 days ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (3 days ago)
+- [tarampampam/guzzle-url-mock](https://github.com/tarampampam/guzzle-url-mock) - :ghost: URLs (fixed and regexps-based) mock handler for Guzzle 6&amp;7 (1 week ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -23,12 +23,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.1.0](https://github.com/tarampampam/error-pages/releases/tag/v2.1.0), 1 day ago) - :construction: Static server error pages in the docker image
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.4.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.4.0), 1 day ago) - RoadRunner ⇆ Laravel bridge
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.13](https://github.com/laravel/octane/releases/tag/v1.0.13), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.4.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.4.0), 2 days ago) - :scissors: Mikrotik hosts parser
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.5.0-beta.1](https://github.com/spiral/roadrunner-binary/releases/tag/v2.5.0-beta.1), 6 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([1.7.3](https://github.com/jetexe/cookiecutter-docker/releases/tag/1.7.3), 6 days ago) - Unofficial docker image for Cookiecutter
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.5.0-beta.2](https://github.com/spiral/roadrunner/releases/tag/v2.5.0-beta.2), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([1.7.3](https://github.com/jetexe/cookiecutter-docker/releases/tag/1.7.3), 1 day ago) - Unofficial docker image for Cookiecutter
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.1.0](https://github.com/tarampampam/error-pages/releases/tag/v2.1.0), 2 days ago) - :construction: Static server error pages in the docker image
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.4.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.4.0), 2 days ago) - RoadRunner ⇆ Laravel bridge
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.13](https://github.com/laravel/octane/releases/tag/v1.0.13), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.4.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.4.0), 3 days ago) - :scissors: Mikrotik hosts parser
 
 
 <details>
