@@ -5,10 +5,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (5 days ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (5 days ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (6 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (6 days ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (6 days ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (1 week ago)
 - [tarampampam/guzzle-url-mock](https://github.com/tarampampam/guzzle-url-mock) - :ghost: URLs (fixed and regexps-based) mock handler for Guzzle 6&amp;7 (1 week ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
 
@@ -23,12 +23,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.5.0-beta.2](https://github.com/spiral/roadrunner/releases/tag/v2.5.0-beta.2), 4 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([1.7.3](https://github.com/jetexe/cookiecutter-docker/releases/tag/1.7.3), 4 days ago) - Unofficial docker image for Cookiecutter
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.1.0](https://github.com/tarampampam/error-pages/releases/tag/v2.1.0), 5 days ago) - :construction: Server error pages in the docker image
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.4.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.4.0), 5 days ago) - RoadRunner ⇆ Laravel bridge
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.13](https://github.com/laravel/octane/releases/tag/v1.0.13), 6 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.4.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.4.0), 6 days ago) - :scissors: Mikrotik hosts parser
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.5.0-beta.2](https://github.com/spiral/roadrunner-binary/releases/tag/v2.5.0-beta.2), 1 day ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.5.0-beta.3](https://github.com/spiral/roadrunner/releases/tag/v2.5.0-beta.3), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([1.7.3](https://github.com/jetexe/cookiecutter-docker/releases/tag/1.7.3), 5 days ago) - Unofficial docker image for Cookiecutter
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.1.0](https://github.com/tarampampam/error-pages/releases/tag/v2.1.0), 6 days ago) - :construction: Server error pages in the docker image
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.4.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.4.0), 6 days ago) - RoadRunner ⇆ Laravel bridge
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.13](https://github.com/laravel/octane/releases/tag/v1.0.13), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 
 
 <details>
