@@ -5,11 +5,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - :sunglasses: Google chrome browser extension (1 day ago)
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (4 days ago)
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (5 days ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (6 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (6 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - :sunglasses: Google chrome browser extension (2 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (5 days ago)
+- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (6 days ago)
+- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 week ago)
 - [Annsh21/portfolio](https://github.com/Annsh21/portfolio) -  (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -23,10 +23,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.5.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.5.0), 1 day ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.5.0](https://github.com/spiral/roadrunner/releases/tag/v2.5.0), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) ([v9.2.0](https://github.com/tarampampam/hydra-docker/releases/tag/v9.2.0), 6 days ago) - :octopus: Dockerized hydra application
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 6 days ago) - :construction: Server error pages in the docker image
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.5.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.5.0), 2 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.5.0](https://github.com/spiral/roadrunner/releases/tag/v2.5.0), 3 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) ([v9.2.0](https://github.com/tarampampam/hydra-docker/releases/tag/v9.2.0), 1 week ago) - :octopus: Dockerized hydra application
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 week ago) - :construction: Server error pages in the docker image
 - [laravel/octane](https://github.com/laravel/octane) ([v1.0.15](https://github.com/laravel/octane/releases/tag/v1.0.15), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.5.0), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 
