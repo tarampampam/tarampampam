@@ -30,5 +30,5 @@
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) ([v9.2.0](https://github.com/tarampampam/hydra-docker/releases/tag/v9.2.0), 1 week ago) - :octopus: Dockerized hydra application
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.2.0](https://github.com/tarampampam/error-pages/releases/tag/v2.2.0), 1 week ago) - :construction: Server error pages in the docker image
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=260&theme=chartreuse-dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=250&theme=chartreuse-dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" />
