@@ -5,12 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 week ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 days ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (1 week ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (1 week ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (2 weeks ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (2 weeks ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (3 weeks ago)
+- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -23,8 +23,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 4 days ago) - F&#39; - A flight software and embedded systems framework
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.19](https://github.com/laravel/octane/releases/tag/v1.0.19), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 5 days ago) - F&#39; - A flight software and embedded systems framework
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.19](https://github.com/laravel/octane/releases/tag/v1.0.19), 6 days ago) - Supercharge your Laravel application&#39;s performance.
 - [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.5.7](https://github.com/spiral/roadrunner-binary/releases/tag/v2.5.7), 1 week ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.5.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.5.0), 1 week ago) - RoadRunner ⇆ Laravel bridge
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.3.1), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
