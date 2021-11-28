@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (6 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 weeks ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (2 weeks ago)
@@ -23,9 +23,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.0-rc.1), 1 day ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner/releases/tag/v2.6.0-rc.1), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.20](https://github.com/laravel/octane/releases/tag/v1.0.20), 4 days ago) - Supercharge your Laravel application&#39;s performance.
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.0-rc.1), 2 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner/releases/tag/v2.6.0-rc.1), 3 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.20](https://github.com/laravel/octane/releases/tag/v1.0.20), 5 days ago) - Supercharge your Laravel application&#39;s performance.
 - [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.5.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.5.0), 2 weeks ago) - RoadRunner ⇆ Laravel bridge
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.3.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
