@@ -5,12 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (2 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (3 days ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 weeks ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (2 weeks ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (4 weeks ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (4 weeks ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 month ago)
+- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -23,10 +23,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.0-rc.1), 4 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.0-rc.1](https://github.com/spiral/roadrunner/releases/tag/v2.6.0-rc.1), 5 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.20](https://github.com/laravel/octane/releases/tag/v1.0.20), 1 week ago) - Supercharge your Laravel application&#39;s performance.
-- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 1 week ago) - F&#39; - A flight software and embedded systems framework
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.0), 1 day ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.21](https://github.com/laravel/octane/releases/tag/v1.0.21), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.0](https://github.com/spiral/roadrunner/releases/tag/v2.6.0), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 2 weeks ago) - F&#39; - A flight software and embedded systems framework
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.5.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.5.0), 2 weeks ago) - RoadRunner ⇆ Laravel bridge
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.3.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
