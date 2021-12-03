@@ -5,12 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (4 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - :rocket: GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (5 days ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 weeks ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - RoadRunner ⇆ Laravel bridge (2 weeks ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 month ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -23,12 +23,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.0), 2 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [laravel/octane](https://github.com/laravel/octane) ([v1.0.21](https://github.com/laravel/octane/releases/tag/v1.0.21), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.0](https://github.com/spiral/roadrunner/releases/tag/v2.6.0), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0-RC2](https://github.com/nasa/fprime/releases/tag/v3.0.0-RC2), 2 weeks ago) - F&#39; - A flight software and embedded systems framework
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.5.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.5.0), 2 weeks ago) - RoadRunner ⇆ Laravel bridge
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.3.1), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.2](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.2), 1 day ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.4.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.4.0), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.4.0](https://github.com/tarampampam/tinifier/releases/tag/v3.4.0), 1 day ago) - 🐼 CLI client for images compressing using tinypng.com API
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.80.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.80.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.1.1](https://github.com/gacts/github-slug/releases/tag/v1.1.1), 1 day ago) - :rocket: GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [laravel/octane](https://github.com/laravel/octane) ([v1.0.21](https://github.com/laravel/octane/releases/tag/v1.0.21), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=230&theme=chartreuse-dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" />
