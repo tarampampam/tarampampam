@@ -23,9 +23,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.6](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.6), 5 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.2](https://github.com/spiral/roadrunner/releases/tag/v2.6.2), 5 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [laravel/octane](https://github.com/laravel/octane) ([v1.1.0](https://github.com/laravel/octane/releases/tag/v1.1.0), 6 days ago) - Supercharge your Laravel application&#39;s performance.
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.6](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.6), 6 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.2](https://github.com/spiral/roadrunner/releases/tag/v2.6.2), 6 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [laravel/octane](https://github.com/laravel/octane) ([v1.1.0](https://github.com/laravel/octane/releases/tag/v1.1.0), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [nasa/fprime](https://github.com/nasa/fprime) ([v2.1.0](https://github.com/nasa/fprime/releases/tag/v2.1.0), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.4.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.4.0), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.4.0](https://github.com/tarampampam/tinifier/releases/tag/v3.4.0), 2 weeks ago) - 🐼 CLI client for images compressing using tinypng.com API
