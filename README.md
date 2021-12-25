@@ -23,9 +23,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.3](https://github.com/spiral/roadrunner/releases/tag/v2.6.3), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0](https://github.com/nasa/fprime/releases/tag/v3.0.0), 2 days ago) - F&#39; - A flight software and embedded systems framework
-- [laravel/octane](https://github.com/laravel/octane) ([v1.1.1](https://github.com/laravel/octane/releases/tag/v1.1.1), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.6.3](https://github.com/spiral/roadrunner/releases/tag/v2.6.3), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0](https://github.com/nasa/fprime/releases/tag/v3.0.0), 3 days ago) - F&#39; - A flight software and embedded systems framework
+- [laravel/octane](https://github.com/laravel/octane) ([v1.1.1](https://github.com/laravel/octane/releases/tag/v1.1.1), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 - [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.6.6](https://github.com/spiral/roadrunner-binary/releases/tag/v2.6.6), 1 week ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.4.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.4.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.4.0](https://github.com/tarampampam/tinifier/releases/tag/v3.4.0), 3 weeks ago) - 🐼 CLI client for images compressing using tinypng.com API
