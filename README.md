@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (3 weeks ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (4 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - :rocket: GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
@@ -23,7 +23,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.7.0-beta.2](https://github.com/spiral/roadrunner-binary/releases/tag/v2.7.0-beta.2), 5 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
+- [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.7.0-beta.2](https://github.com/spiral/roadrunner-binary/releases/tag/v2.7.0-beta.2), 6 days ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
 - [spiral/roadrunner](https://github.com/spiral/roadrunner) ([v2.7.0-beta.1](https://github.com/spiral/roadrunner/releases/tag/v2.7.0-beta.1), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [nasa/fprime](https://github.com/nasa/fprime) ([v3.0.0](https://github.com/nasa/fprime/releases/tag/v3.0.0), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [laravel/octane](https://github.com/laravel/octane) ([v1.1.1](https://github.com/laravel/octane/releases/tag/v1.1.1), 1 week ago) - Supercharge your Laravel application&#39;s performance.
