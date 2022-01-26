@@ -23,11 +23,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.7.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.7.4), 4 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.7.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.7.4), 5 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.7.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.7.0), 1 week ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.6.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.6.0), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge
 - [spiral/goridge-php](https://github.com/spiral/goridge-php) ([v3.1.2](https://github.com/spiral/goridge-php/releases/tag/v3.1.2), 1 week ago) - PHP Goridge Protocol implementation
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.0](https://github.com/laravel/octane/releases/tag/v1.2.0), 1 week ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.0](https://github.com/laravel/octane/releases/tag/v1.2.0), 2 weeks ago) - Supercharge your Laravel application&#39;s performance.
 - [avtocod/b2b-api-php](https://github.com/avtocod/b2b-api-php) ([v4.4.0](https://github.com/avtocod/b2b-api-php/releases/tag/v4.4.0), 2 weeks ago) - PHP client for a working with B2B API
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=230&theme=chartreuse-dark" />
