@@ -5,12 +5,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - :construction: Server error pages in the docker image (1 day ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [tarampampam/guzzle-url-mock](https://github.com/tarampampam/guzzle-url-mock) - :ghost: URLs (fixed and regexps-based) mock handler for Guzzle 6&amp;7 (1 day ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (4 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 days ago)
 - [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (2 weeks ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge (2 weeks ago)
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -18,13 +18,13 @@
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/arduino-elscooter-lighting](https://github.com/tarampampam/arduino-elscooter-lighting) - :nut_and_bolt: My electric scooter lighting firmware
 - [tarampampam/arduino-deps-installer](https://github.com/tarampampam/arduino-deps-installer) - :dart: Arduino sketch dependencies installer
-- [tarampampam/arduino-playground](https://github.com/tarampampam/arduino-playground) - :nut_and_bolt: Arduino playground
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.5.0](https://github.com/tarampampam/error-pages/releases/tag/v2.5.0), 1 day ago) - :construction: Server error pages in the docker image
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.6.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.6.0), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.6.0](https://github.com/tarampampam/error-pages/releases/tag/v2.6.0), 1 day ago) - :construction: Server error pages in the docker image
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.6.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.6.0), 4 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.7.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.7.4), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [spiral/roadrunner-binary](https://github.com/spiral/roadrunner-binary) ([v2.7.0](https://github.com/spiral/roadrunner-binary/releases/tag/v2.7.0), 2 weeks ago) - 💾 High-performance PHP application server, load-balancer and process manager written in Golang. RR2 releases repository.
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.6.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.6.0), 2 weeks ago) - 🌉 RoadRunner ⇆ Laravel bridge
