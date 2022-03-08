@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 day ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image (3 days ago)
-- [tarampampam/prize-drawing-test-app](https://github.com/tarampampam/prize-drawing-test-app) - App for prize drawing (test task solution) (4 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (2 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image (4 days ago)
+- [tarampampam/prize-drawing-test-app](https://github.com/tarampampam/prize-drawing-test-app) - App for prize drawing (test task solution) (5 days ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang (2 weeks ago)
 
@@ -28,7 +28,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.82.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.82.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.82.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.82.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.3](https://github.com/laravel/octane/releases/tag/v1.2.3), 2 weeks ago) - Supercharge your Laravel application&#39;s performance.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.2), 2 weeks ago) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
