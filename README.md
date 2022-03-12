@@ -10,9 +10,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (5 days ago)
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (5 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (6 days ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (6 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image (1 week ago)
 - [tarampampam/prize-drawing-test-app](https://github.com/tarampampam/prize-drawing-test-app) - App for prize drawing (test task solution) (1 week ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
@@ -28,9 +28,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.7.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.7.0), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.4](https://github.com/laravel/octane/releases/tag/v1.2.4), 3 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.82.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.82.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.7.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.7.0), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.4](https://github.com/laravel/octane/releases/tag/v1.2.4), 4 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.82.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.82.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.7.0](https://github.com/tarampampam/error-pages/releases/tag/v2.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.2), 2 weeks ago) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
 - [GyverLibs/GyverOLED](https://github.com/GyverLibs/GyverOLED) ([1.4](https://github.com/GyverLibs/GyverOLED/releases/tag/1.4), 3 weeks ago) - Лёгкая и быстрая библиотека для OLED дисплея
