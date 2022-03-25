@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image (today)
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image (1 day ago)
+- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (5 days ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
@@ -28,10 +28,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.0-alpha.1), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.10.0](https://github.com/tarampampam/error-pages/releases/tag/v2.10.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image
-- [spiral/roadrunner-http](https://github.com/spiral/roadrunner-http) ([v2.1.0](https://github.com/spiral/roadrunner-http/releases/tag/v2.1.0), 2 days ago) - PSR7 Worker Client for RoadRunner 2.0 application server.
-- [spiral/goridge-php](https://github.com/spiral/goridge-php) ([v3.2.0](https://github.com/spiral/goridge-php/releases/tag/v3.2.0), 3 days ago) - PHP Goridge Protocol implementation
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.7](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.7), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.10.1](https://github.com/tarampampam/error-pages/releases/tag/v2.10.1), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image
+- [spiral/roadrunner-http](https://github.com/spiral/roadrunner-http) ([v2.1.0](https://github.com/spiral/roadrunner-http/releases/tag/v2.1.0), 3 days ago) - PSR7 Worker Client for RoadRunner 2.0 application server.
+- [spiral/goridge-php](https://github.com/spiral/goridge-php) ([v3.2.0](https://github.com/spiral/goridge-php/releases/tag/v3.2.0), 4 days ago) - PHP Goridge Protocol implementation
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.7.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.7.0), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.4](https://github.com/laravel/octane/releases/tag/v1.2.4), 2 weeks ago) - Supercharge your Laravel application&#39;s performance.
 
