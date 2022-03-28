@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [hook-sh/blog](https://github.com/hook-sh/blog) - :pencil: Blog with discussions, hosted on github (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (today)
+
 - [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (3 days ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (2 weeks ago)
@@ -28,7 +28,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.11.0](https://github.com/tarampampam/error-pages/releases/tag/v2.11.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.0](https://github.com/tarampampam/error-pages/releases/tag/v2.12.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.5.0](https://github.com/tarampampam/tinifier/releases/tag/v3.5.0), 3 days ago) - 🐼 CLI client for images compressing using tinypng.com API
 - [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) ([v0.5.0](https://github.com/tarampampam/http-proxy-daemon/releases/tag/v0.5.0), 3 days ago) - :gem: Http Proxy Daemon
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.7](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.7), 4 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
