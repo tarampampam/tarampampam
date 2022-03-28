@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🇺🇦 Слава Україні! <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! 🇷🇺 Привет Хабаровск!<br />
+  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; 🇷🇺 Привет Хабаровск!<br />
   Freedom for political prisoners!
 </p>
   
@@ -27,13 +27,13 @@
 
 #### 🔨 Latest Pull Requests I published
 
-{{ range recentPullRequests 5 }}
+{{ range recentPullRequests 4 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }}) ({{ humanize .CreatedAt }})
 {{- end }}
 
 #### ⭐ Recent stars
 
-{{ range recentStars 5 }}
+{{ range recentStars 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
 
