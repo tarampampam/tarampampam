@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🇺🇦 Слава Україні! <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! 🇷🇺 Привет Хабаровск!<br />
+  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; 🇷🇺 Привет Хабаровск!<br />
   Freedom for political prisoners!
 </p>
   
@@ -42,7 +42,6 @@
 - [l10n file formatted, CI updated](https://github.com/tarampampam/error-pages/pull/83) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (today)
 - [Template `matrix`](https://github.com/tarampampam/error-pages/pull/81) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
 - [Translated in 🇺🇦 and 🇷🇺 languages](https://github.com/tarampampam/error-pages/pull/80) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
-- [New template `connection` added](https://github.com/tarampampam/error-pages/pull/79) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (6 days ago)
 
 #### ⭐ Recent stars
 
@@ -50,8 +49,6 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (4 days ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 week ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (2 weeks ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 month ago)
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (1 month ago)
 
 #### 💬 Feedback
 
