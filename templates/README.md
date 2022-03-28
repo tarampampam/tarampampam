@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 {{ range recentContributions 6 }}
-{{ if ne .Repo.Name "hook-sh/blog" }}- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }}){{- end }}
+{{- if ne .Repo.Name "hook-sh/blog" }}- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }}){{ end -}}
 {{- end }}
 
 #### 👨‍💻 Repositories I created recently
