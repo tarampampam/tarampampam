@@ -9,21 +9,21 @@
   
 #### 👷 Check out what I'm currently working on
 
-{{range recentContributions 6}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+{{ range recentContributions 6 }}
+{{ if not eq .Repo.Name "hook-sh/blog" }}- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }}){{ end }}
+{{- end }}
 
 #### 👨‍💻 Repositories I created recently
 
-{{range recentRepos 4}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
+{{ range recentRepos 4 }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
 
 #### 🚀 Latest releases I've contributed to
 
-{{range recentReleases 6}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
+{{ range recentReleases 6 }}
+- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&layout=compact&hide_border=true&langs_count=8&card_width=230&theme=chartreuse-dark" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&theme=chartreuse-dark" />
