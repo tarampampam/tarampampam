@@ -10,9 +10,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (today)
-- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (3 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (4 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (2 weeks ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (2 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
@@ -28,25 +28,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.0](https://github.com/tarampampam/error-pages/releases/tag/v2.12.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.5.0](https://github.com/tarampampam/tinifier/releases/tag/v3.5.0), 3 days ago) - 🐼 CLI client for images compressing using tinypng.com API
-- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) ([v0.5.0](https://github.com/tarampampam/http-proxy-daemon/releases/tag/v0.5.0), 3 days ago) - :gem: Http Proxy Daemon
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.7](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.7), 4 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [spiral/roadrunner-http](https://github.com/spiral/roadrunner-http) ([v2.1.0](https://github.com/spiral/roadrunner-http/releases/tag/v2.1.0), 6 days ago) - PSR7 Worker Client for RoadRunner 2.0 application server.
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.0](https://github.com/tarampampam/error-pages/releases/tag/v2.12.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.5.0](https://github.com/tarampampam/tinifier/releases/tag/v3.5.0), 4 days ago) - 🐼 CLI client for images compressing using tinypng.com API
+- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) ([v0.5.0](https://github.com/tarampampam/http-proxy-daemon/releases/tag/v0.5.0), 4 days ago) - :gem: Http Proxy Daemon
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.7](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.7), 5 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [spiral/roadrunner-http](https://github.com/spiral/roadrunner-http) ([v2.1.0](https://github.com/spiral/roadrunner-http/releases/tag/v2.1.0), 1 week ago) - PSR7 Worker Client for RoadRunner 2.0 application server.
 - [spiral/goridge-php](https://github.com/spiral/goridge-php) ([v3.2.0](https://github.com/spiral/goridge-php/releases/tag/v3.2.0), 1 week ago) - PHP Goridge Protocol implementation
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [CI now purges the CDN cache](https://github.com/tarampampam/error-pages/pull/84) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (today)
-- [l10n file formatted, CI updated](https://github.com/tarampampam/error-pages/pull/83) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (today)
-- [Template `matrix`](https://github.com/tarampampam/error-pages/pull/81) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
-- [Translated in 🇺🇦 and 🇷🇺 languages](https://github.com/tarampampam/error-pages/pull/80) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
+- [CI now purges the CDN cache](https://github.com/tarampampam/error-pages/pull/84) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
+- [l10n file formatted, CI updated](https://github.com/tarampampam/error-pages/pull/83) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
+- [Template `matrix`](https://github.com/tarampampam/error-pages/pull/81) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
+- [Translated in 🇺🇦 and 🇷🇺 languages](https://github.com/tarampampam/error-pages/pull/80) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (6 days ago)
 
 #### ⭐ Recent stars
 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (4 days ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (5 days ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 week ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (2 weeks ago)
 
