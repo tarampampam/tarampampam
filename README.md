@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
-- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (6 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (6 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
+- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (1 week ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (2 weeks ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (2 weeks ago)
 
@@ -28,20 +28,20 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 1 day ago) - 🚀 GitHub action for the jsDelivr cache purging
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.5](https://github.com/laravel/octane/releases/tag/v1.2.5), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.5.0](https://github.com/tarampampam/tinifier/releases/tag/v3.5.0), 6 days ago) - 🐼 CLI client for images compressing using tinypng.com API
-- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) ([v0.5.0](https://github.com/tarampampam/http-proxy-daemon/releases/tag/v0.5.0), 6 days ago) - :gem: Http Proxy Daemon
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.7](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.7), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.8](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.8), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 2 days ago) - 🚀 GitHub action for the jsDelivr cache purging
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.5](https://github.com/laravel/octane/releases/tag/v1.2.5), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v3.5.0](https://github.com/tarampampam/tinifier/releases/tag/v3.5.0), 1 week ago) - 🐼 CLI client for images compressing using tinypng.com API
+- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) ([v0.5.0](https://github.com/tarampampam/http-proxy-daemon/releases/tag/v0.5.0), 1 week ago) - :gem: Http Proxy Daemon
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [CI updated](https://github.com/tarampampam/error-pages/pull/87) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
-- [Basic code wrote](https://github.com/gacts/purge-jsdelivr-cache/pull/7) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (1 day ago)
-- [CI now purges the CDN cache](https://github.com/tarampampam/error-pages/pull/84) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
-- [l10n file formatted, CI updated](https://github.com/tarampampam/error-pages/pull/83) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [CI updated](https://github.com/tarampampam/error-pages/pull/87) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
+- [Basic code wrote](https://github.com/gacts/purge-jsdelivr-cache/pull/7) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (2 days ago)
+- [CI now purges the CDN cache](https://github.com/tarampampam/error-pages/pull/84) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [l10n file formatted, CI updated](https://github.com/tarampampam/error-pages/pull/83) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
 
 #### ⭐ Recent stars
 
