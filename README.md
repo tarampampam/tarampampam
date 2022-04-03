@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (3 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (4 days ago)
 - [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (1 week ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
 
@@ -28,27 +28,27 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 1 day ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.8](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.8), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 3 days ago) - 🚀 GitHub action for the jsDelivr cache purging
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.5](https://github.com/laravel/octane/releases/tag/v1.2.5), 4 days ago) - Supercharge your Laravel application&#39;s performance.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 2 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 2 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.8](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.8), 3 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 4 days ago) - 🚀 GitHub action for the jsDelivr cache purging
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.5](https://github.com/laravel/octane/releases/tag/v1.2.5), 5 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update to node 16](https://github.com/gacts/fetch-doppler-secret/pull/16) on [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) (1 day ago)
-- [Update to node 16](https://github.com/gacts/github-slug/pull/29) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 day ago)
-- [CI updated](https://github.com/tarampampam/error-pages/pull/87) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
-- [Basic code wrote](https://github.com/gacts/purge-jsdelivr-cache/pull/7) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (3 days ago)
+- [Update to node 16](https://github.com/gacts/fetch-doppler-secret/pull/16) on [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) (2 days ago)
+- [Update to node 16](https://github.com/gacts/github-slug/pull/29) on [gacts/github-slug](https://github.com/gacts/github-slug) (2 days ago)
+- [CI updated](https://github.com/tarampampam/error-pages/pull/87) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [Basic code wrote](https://github.com/gacts/purge-jsdelivr-cache/pull/7) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (4 days ago)
 
 #### ⭐ Recent stars
 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (1 week ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 week ago)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (2 weeks ago)
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (3 weeks ago)
 
 #### 💬 Feedback
 
