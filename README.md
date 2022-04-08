@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (6 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (6 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (6 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 week ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 week ago)
-- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (1 week ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
+- [tarampampam/http-proxy-daemon](https://github.com/tarampampam/http-proxy-daemon) - :gem: Http Proxy Daemon (2 weeks ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,20 +28,20 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.6](https://github.com/laravel/octane/releases/tag/v1.2.6), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 6 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 6 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.8.8](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.8.8), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.0](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.0), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.6](https://github.com/laravel/octane/releases/tag/v1.2.6), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 1 week ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 1 week ago) - 🚀 GitHub action for the jsDelivr cache purging
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.12.1](https://github.com/tarampampam/error-pages/releases/tag/v2.12.1), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Added possibility to disable error pages auto-localization](https://github.com/tarampampam/error-pages/pull/94) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
-- [Changing UID/GID to the numeric values](https://github.com/tarampampam/error-pages/pull/93) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
-- [Update to node 16](https://github.com/gacts/fetch-doppler-secret/pull/16) on [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) (6 days ago)
-- [Update to node 16](https://github.com/gacts/github-slug/pull/29) on [gacts/github-slug](https://github.com/gacts/github-slug) (6 days ago)
+- [Added possibility to disable error pages auto-localization](https://github.com/tarampampam/error-pages/pull/94) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [Changing UID/GID to the numeric values](https://github.com/tarampampam/error-pages/pull/93) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [Update to node 16](https://github.com/gacts/fetch-doppler-secret/pull/16) on [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) (1 week ago)
+- [Update to node 16](https://github.com/gacts/github-slug/pull/29) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 
 #### ⭐ Recent stars
 
