@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 weeks ago)
@@ -28,9 +28,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.7](https://github.com/laravel/octane/releases/tag/v1.2.7), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.1), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-alpha.1), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.7](https://github.com/laravel/octane/releases/tag/v1.2.7), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 1 week ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.0](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.0), 2 weeks ago) - 🚀 GitHub action for the jsDelivr cache purging
@@ -46,7 +46,7 @@
 #### ⭐ Recent stars
 
 
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (2 weeks ago)
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (3 weeks ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (3 weeks ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (1 month ago)
 
