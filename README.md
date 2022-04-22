@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (5 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 week ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 weeks ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 weeks ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (3 weeks ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 weeks ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,27 +28,27 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 4 days ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 5 days ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-alpha.1), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.7](https://github.com/laravel/octane/releases/tag/v1.2.7), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 2 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 2 weeks ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 3 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.0](https://github.com/gacts/github-slug/releases/tag/v1.2.0), 3 weeks ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Test fixes](https://github.com/tarampampam/webhook-tester/pull/152) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
-- [Internal healthcheck in logs disabled](https://github.com/tarampampam/webhook-tester/pull/151) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [Test fixes](https://github.com/tarampampam/webhook-tester/pull/152) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
+- [Internal healthcheck in logs disabled](https://github.com/tarampampam/webhook-tester/pull/151) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
 - [Added possibility to disable error pages auto-localization](https://github.com/tarampampam/error-pages/pull/94) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [Changing UID/GID to the numeric values](https://github.com/tarampampam/error-pages/pull/93) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services (6 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard (4 weeks ago)
+- [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (1 day ago)
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services (1 week ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 
 #### 💬 Feedback
 
