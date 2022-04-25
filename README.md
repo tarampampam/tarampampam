@@ -12,8 +12,8 @@
 
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 week ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 weeks ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (3 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
 
@@ -46,7 +46,7 @@
 #### ⭐ Recent stars
 
 
-- [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (3 days ago)
+- [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (4 days ago)
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 
