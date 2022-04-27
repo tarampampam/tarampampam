@@ -14,7 +14,7 @@
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 weeks ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (3 weeks ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (4 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 1 week ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-alpha.1), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-alpha.1), 2 weeks ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.7](https://github.com/laravel/octane/releases/tag/v1.2.7), 2 weeks ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 3 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple (1 day ago)
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (1 day ago)
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (1 day ago)
+- [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple (2 days ago)
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (2 days ago)
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (2 days ago)
 
 #### 💬 Feedback
 
