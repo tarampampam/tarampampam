@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (4 weeks ago)
@@ -28,9 +28,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.2), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.8](https://github.com/laravel/octane/releases/tag/v1.2.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.2), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.8](https://github.com/laravel/octane/releases/tag/v1.2.8), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 1 week ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 4 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (4 days ago)
-- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (4 days ago)
-- [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (1 week ago)
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (1 day ago)
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible (5 days ago)
+- [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (5 days ago)
 
 #### 💬 Feedback
 
