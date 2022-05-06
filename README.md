@@ -46,7 +46,7 @@
 #### ⭐ Recent stars
 
 
-- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (6 days ago)
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (1 week ago)
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (1 week ago)
 - [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (2 weeks ago)
 
