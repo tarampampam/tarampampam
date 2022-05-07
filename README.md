@@ -10,9 +10,9 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (2 weeks ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (3 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 month ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 month ago)
@@ -28,11 +28,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.2), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.14.0](https://github.com/tarampampam/error-pages/releases/tag/v2.14.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.9.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.9.4), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.8](https://github.com/laravel/octane/releases/tag/v1.2.8), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 2 weeks ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.13.0](https://github.com/tarampampam/error-pages/releases/tag/v2.13.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.1.0](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.1.0), 1 month ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (1 day ago)
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (1 week ago)
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (1 week ago)
-- [ChappIO/git-backup](https://github.com/ChappIO/git-backup) - Backup all your github &amp; gitlab repositories (2 weeks ago)
 
 #### 💬 Feedback
 
