@@ -10,12 +10,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acriob for running zricethezav/gitleaks (today)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (3 days ago)
-- [512k/.github](https://github.com/512k/.github) - Community health files for the @512k organization (5 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (5 days ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (5 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 weeks ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,26 +29,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-rc.3](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-rc.3), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.9](https://github.com/laravel/octane/releases/tag/v1.2.9), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.0.0](https://github.com/gacts/install-nomad/releases/tag/v1.0.0), 3 days ago) - 🚀 Installs nomad binary file into your actions workflow
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.15.0](https://github.com/tarampampam/error-pages/releases/tag/v2.15.0), 5 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.1](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.1), 3 weeks ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0-rc.5](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0-rc.5), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 1 day ago) - 🚀 Installs nomad binary file into your actions workflow
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.1](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.2](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.2), 1 day ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.0.0](https://github.com/gacts/gitleaks/releases/tag/v1.0.0), 1 day ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.9](https://github.com/laravel/octane/releases/tag/v1.2.9), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Action prototype wrote](https://github.com/gacts/gitleaks/pull/1) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (today)
-- [Prototype wrote](https://github.com/gacts/install-nomad/pull/8) on [gacts/install-nomad](https://github.com/gacts/install-nomad) (3 days ago)
+- [Added Nomad binary file caching](https://github.com/gacts/install-nomad/pull/9) on [gacts/install-nomad](https://github.com/gacts/install-nomad) (1 day ago)
+- [Action prototype wrote](https://github.com/gacts/gitleaks/pull/1) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
+- [Prototype wrote](https://github.com/gacts/install-nomad/pull/8) on [gacts/install-nomad](https://github.com/gacts/install-nomad) (4 days ago)
 - [Test fixes](https://github.com/tarampampam/webhook-tester/pull/152) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
-- [Internal healthcheck in logs disabled](https://github.com/tarampampam/webhook-tester/pull/151) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (6 days ago)
-- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (1 week ago)
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (1 week ago)
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (2 weeks ago)
 - [antonmedv/expr](https://github.com/antonmedv/expr) - Expression language for Go (2 weeks ago)
 
 #### 💬 Feedback
