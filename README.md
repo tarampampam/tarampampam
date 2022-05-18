@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (3 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (5 days ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (5 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (5 days ago)
+- [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) -  (today)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (4 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (5 days ago)
+- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,20 +28,20 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0), 1 day ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 3 days ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 4 days ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 5 days ago) - 🚀 Installs nomad binary file into your actions workflow
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.83.1](https://github.com/tarampampam/curl-docker/releases/tag/v7.83.1), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.2](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.2), 5 days ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 1 day ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.10](https://github.com/laravel/octane/releases/tag/v1.2.10), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.0](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.0), 2 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 4 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 5 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 6 days ago) - 🚀 Installs nomad binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Action prototype wrote](https://github.com/gacts/install-mmock/pull/1) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (3 days ago)
-- [Prototype wrote](https://github.com/gacts/install-hurl/pull/1) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (4 days ago)
-- [Added Nomad binary file caching](https://github.com/gacts/install-nomad/pull/9) on [gacts/install-nomad](https://github.com/gacts/install-nomad) (5 days ago)
-- [Action prototype wrote](https://github.com/gacts/gitleaks/pull/1) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (5 days ago)
+- [Alternative config lookup fixed](https://github.com/gacts/gitleaks/pull/3) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
+- [Searching for config file inside .github dir added](https://github.com/gacts/gitleaks/pull/2) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
+- [Action prototype wrote](https://github.com/gacts/install-mmock/pull/1) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (4 days ago)
+- [Prototype wrote](https://github.com/gacts/install-hurl/pull/1) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (5 days ago)
 
 #### ⭐ Recent stars
 
