@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hsto.org/webt/e2/0q/nf/e20qnfbscs_ygi5qd9zljiqeupq.gif" alt="follow the white rabbit" width="100%" />
+  <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
 </p>
 
 <p align="center">
