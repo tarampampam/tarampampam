@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) -  (3 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (5 days ago)
+- [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) -  (4 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (6 days ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
@@ -28,9 +28,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.1), 3 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 5 days ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.10](https://github.com/laravel/octane/releases/tag/v1.2.10), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.1), 4 days ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 6 days ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.10](https://github.com/laravel/octane/releases/tag/v1.2.10), 6 days ago) - Supercharge your Laravel application&#39;s performance.
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs mmock binary file into your actions workflow
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 1 week ago) - 🚀 Installs nomad binary file into your actions workflow
@@ -38,15 +38,15 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Action prototype wrote](https://github.com/gacts/docker-image-exists/pull/1) on [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) (3 days ago)
-- [Alternative config lookup fixed](https://github.com/gacts/gitleaks/pull/3) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (5 days ago)
-- [Searching for config file inside .github dir added](https://github.com/gacts/gitleaks/pull/2) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (5 days ago)
+- [Action prototype wrote](https://github.com/gacts/docker-image-exists/pull/1) on [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) (4 days ago)
+- [Alternative config lookup fixed](https://github.com/gacts/gitleaks/pull/3) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (6 days ago)
+- [Searching for config file inside .github dir added](https://github.com/gacts/gitleaks/pull/2) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (6 days ago)
 - [Action prototype wrote](https://github.com/gacts/install-mmock/pull/1) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [minghsu0107/check-docker-image](https://github.com/minghsu0107/check-docker-image) - A tool to check whether docker images exist in the remote registry. (3 days ago)
+- [minghsu0107/check-docker-image](https://github.com/minghsu0107/check-docker-image) - A tool to check whether docker images exist in the remote registry. (4 days ago)
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (2 weeks ago)
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (3 weeks ago)
 
