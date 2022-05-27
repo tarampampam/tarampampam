@@ -14,7 +14,7 @@
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 weeks ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.11](https://github.com/laravel/octane/releases/tag/v1.2.11), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.1), 1 week ago) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.2), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.11](https://github.com/laravel/octane/releases/tag/v1.2.11), 3 days ago) - Supercharge your Laravel application&#39;s performance.
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 1 week ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 2 weeks ago) - 🚀 Installs nomad binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (2 days ago)
-- [minghsu0107/check-docker-image](https://github.com/minghsu0107/check-docker-image) - A tool to check whether docker images exist in the remote registry. (1 week ago)
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (2 weeks ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (3 days ago)
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (3 weeks ago)
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. (4 weeks ago)
 
 #### 💬 Feedback
 
