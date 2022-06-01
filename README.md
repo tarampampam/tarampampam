@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (4 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (4 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (4 days ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (4 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (4 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (5 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (5 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (5 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (5 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (5 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.2), 5 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.11](https://github.com/laravel/octane/releases/tag/v1.2.11), 1 week ago) - Supercharge your Laravel application&#39;s performance.
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.0](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.0), 1 day ago) - Unofficial docker image for Cookiecutter
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.2), 6 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 2 weeks ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs mmock binary file into your actions workflow
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.0](https://github.com/gacts/install-nomad/releases/tag/v1.1.0), 2 weeks ago) - 🚀 Installs nomad binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
