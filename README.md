@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (6 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (6 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (6 days ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (6 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (6 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (6 days ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 week ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 week ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 2 days ago) - Supercharge your Laravel application&#39;s performance.
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.0](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.0), 2 days ago) - Unofficial docker image for Cookiecutter
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.2), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.3](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.3), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 3 days ago) - Supercharge your Laravel application&#39;s performance.
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.0](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.0), 3 days ago) - Unofficial docker image for Cookiecutter
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 2 weeks ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 3 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (1 day ago)
+- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (2 days ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (3 weeks ago)
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447 (4 weeks ago)
 
 #### 💬 Feedback
 
