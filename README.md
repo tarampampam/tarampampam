@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 week ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 week ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.3](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.3), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 4 days ago) - Supercharge your Laravel application&#39;s performance.
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.0](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.0), 4 days ago) - Unofficial docker image for Cookiecutter
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.3](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.3), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 5 days ago) - Supercharge your Laravel application&#39;s performance.
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.0](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.0), 5 days ago) - Unofficial docker image for Cookiecutter
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 2 weeks ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 3 weeks ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.0](https://github.com/gacts/install-hurl/releases/tag/v1.0.0), 3 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC (1 day ago)
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (1 day ago)
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (3 days ago)
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。 (2 days ago)
+- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (4 days ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 week ago)
 
 #### 💬 Feedback
 
