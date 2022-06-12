@@ -6,6 +6,10 @@ on:
   push:
     branches: [master, main]
 
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-20.04
