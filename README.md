@@ -10,26 +10,26 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (1 day ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/renovate-docker-compose-test](https://github.com/tarampampam/renovate-docker-compose-test) -  (1 day ago)
+- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 week ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 weeks ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (2 weeks ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
 
+- [tarampampam/renovate-docker-compose-test](https://github.com/tarampampam/renovate-docker-compose-test)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/arduino-elscooter-lighting](https://github.com/tarampampam/arduino-elscooter-lighting) - :nut_and_bolt: My electric scooter lighting firmware
 - [tarampampam/arduino-deps-installer](https://github.com/tarampampam/arduino-deps-installer) - :dart: Arduino sketch dependencies installer
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.4), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.1](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.1), 5 days ago) - Unofficial docker image for Cookiecutter
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.4), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.1](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.1), 6 days ago) - Unofficial docker image for Cookiecutter
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 3 weeks ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [DariuszPorowski/github-action-gitleaks](https://github.com/DariuszPorowski/github-action-gitleaks) - GitHub Action for Gitleaks (1 day ago)
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (1 day ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 day ago)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 day ago)
+- [DariuszPorowski/github-action-gitleaks](https://github.com/DariuszPorowski/github-action-gitleaks) - GitHub Action for Gitleaks (2 days ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 days ago)
 
 #### 💬 Feedback
 
