@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (today)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (today)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (today)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (today)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (today)
-- [tarampampam/arduino-elscooter-lighting](https://github.com/tarampampam/arduino-elscooter-lighting) - :nut_and_bolt: My electric scooter lighting firmware (today)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 day ago)
+- [tarampampam/arduino-elscooter-lighting](https://github.com/tarampampam/arduino-elscooter-lighting) - :nut_and_bolt: My electric scooter lighting firmware (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,12 +28,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.4), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.1](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.1), 6 days ago) - Unofficial docker image for Cookiecutter
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.8.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.8.0), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.4), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.1](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.1), 1 week ago) - Unofficial docker image for Cookiecutter
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.16.0](https://github.com/tarampampam/error-pages/releases/tag/v2.16.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.12](https://github.com/laravel/octane/releases/tag/v1.2.12), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.2](https://github.com/gacts/gitleaks/releases/tag/v1.1.2), 3 weeks ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.0](https://github.com/gacts/install-mmock/releases/tag/v1.0.0), 4 weeks ago) - 🚀 Installs mmock binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -41,14 +41,14 @@
 - [Action prototype wrote](https://github.com/gacts/docker-image-exists/pull/1) on [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) (3 weeks ago)
 - [Alternative config lookup fixed](https://github.com/gacts/gitleaks/pull/3) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (3 weeks ago)
 - [Searching for config file inside .github dir added](https://github.com/gacts/gitleaks/pull/2) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (3 weeks ago)
-- [Action prototype wrote](https://github.com/gacts/install-mmock/pull/1) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (4 weeks ago)
+- [Action prototype wrote](https://github.com/gacts/install-mmock/pull/1) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (1 day ago)
-- [DariuszPorowski/github-action-gitleaks](https://github.com/DariuszPorowski/github-action-gitleaks) - GitHub Action for Gitleaks (2 days ago)
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (2 days ago)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing (2 days ago)
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers. (3 days ago)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 days ago)
 
 #### 💬 Feedback
 
