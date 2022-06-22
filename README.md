@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (5 days ago)
-- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (5 days ago)
+- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (6 days ago)
+- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (6 days ago)
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra (1 week ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
@@ -28,7 +28,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) ([v0.10.6](https://github.com/tarampampam/evans-docker/releases/tag/v0.10.6), 5 days ago) - 🛠 Docker image with evans - more expressive universal gRPC client
+- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) ([v0.10.6](https://github.com/tarampampam/evans-docker/releases/tag/v0.10.6), 6 days ago) - 🛠 Docker image with evans - more expressive universal gRPC client
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.8.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.8.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.4), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) ([2.1.1](https://github.com/jetexe/cookiecutter-docker/releases/tag/2.1.1), 2 weeks ago) - Unofficial docker image for Cookiecutter
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep Docker registries in sync (2 days ago)
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (4 days ago)
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. (4 days ago)
+- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep Docker registries in sync (3 days ago)
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go (5 days ago)
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. (5 days ago)
 
 #### 💬 Feedback
 
