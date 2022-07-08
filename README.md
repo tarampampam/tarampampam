@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (6 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (1 week ago)
 - [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (2 weeks ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (3 weeks ago)
@@ -28,10 +28,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.6](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.6), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [nasa/fprime](https://github.com/nasa/fprime) ([v3.1.0](https://github.com/nasa/fprime/releases/tag/v3.1.0), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.0.0](https://github.com/gacts/install-geth-tools/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.14](https://github.com/laravel/octane/releases/tag/v1.2.14), 1 week ago) - Supercharge your Laravel application&#39;s performance.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.5](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.5), 2 weeks ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) ([v0.10.6](https://github.com/tarampampam/evans-docker/releases/tag/v0.10.6), 3 weeks ago) - 🛠 Docker image with evans - more expressive universal gRPC client
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.8.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.8.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (3 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 days ago)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 days ago)
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (4 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
 
 #### 💬 Feedback
 
