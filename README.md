@@ -28,7 +28,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.6](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.6), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.6](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.6), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [nasa/fprime](https://github.com/nasa/fprime) ([v3.1.0](https://github.com/nasa/fprime/releases/tag/v3.1.0), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.0.0](https://github.com/gacts/install-geth-tools/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.14](https://github.com/laravel/octane/releases/tag/v1.2.14), 1 week ago) - Supercharge your Laravel application&#39;s performance.
@@ -46,9 +46,9 @@
 #### ⭐ Recent stars
 
 
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 days ago)
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (4 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (3 days ago)
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (5 days ago)
 
 #### 💬 Feedback
 
