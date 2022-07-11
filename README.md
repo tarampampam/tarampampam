@@ -15,7 +15,7 @@
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (1 week ago)
 - [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (2 weeks ago)
 - [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (3 weeks ago)
-- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra (3 weeks ago)
+- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.6](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.6), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.10.6](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.10.6), 4 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [nasa/fprime](https://github.com/nasa/fprime) ([v3.1.0](https://github.com/nasa/fprime/releases/tag/v3.1.0), 1 week ago) - F&#39; - A flight software and embedded systems framework
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.0.0](https://github.com/gacts/install-geth-tools/releases/tag/v1.0.0), 1 week ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow
 - [laravel/octane](https://github.com/laravel/octane) ([v1.2.14](https://github.com/laravel/octane/releases/tag/v1.2.14), 1 week ago) - Supercharge your Laravel application&#39;s performance.
@@ -39,16 +39,16 @@
 
 
 - [Proto](https://github.com/gacts/install-geth-tools/pull/1) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (1 week ago)
-- [Hydra docker image](https://github.com/vanhauser-thc/thc-hydra/pull/767) on [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) (3 weeks ago)
+- [Hydra docker image](https://github.com/vanhauser-thc/thc-hydra/pull/767) on [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) (4 weeks ago)
 - [Action prototype wrote](https://github.com/gacts/docker-image-exists/pull/1) on [gacts/docker-image-exists](https://github.com/gacts/docker-image-exists) (1 month ago)
 - [Alternative config lookup fixed](https://github.com/gacts/gitleaks/pull/3) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (4 days ago)
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (6 days ago)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1 (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (5 days ago)
 
 #### 💬 Feedback
 
