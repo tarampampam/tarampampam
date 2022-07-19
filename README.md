@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (5 days ago)
-- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (5 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (2 weeks ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (2 weeks ago)
-- [tarampampam/hydra-docker](https://github.com/tarampampam/hydra-docker) - :octopus: Dockerized hydra application (1 month ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (3 days ago)
+- [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) - 🛠 Docker image with evans - more expressive universal gRPC client (2 weeks ago)
+- [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client (2 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 weeks ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (4 weeks ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,27 +28,27 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.11.0-beta.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.11.0-beta.1), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.8](https://github.com/ktr0731/evans/releases/tag/v0.10.8), 3 days ago) - Evans: more expressive universal gRPC client
-- [laravel/octane](https://github.com/laravel/octane) ([v1.2.15](https://github.com/laravel/octane/releases/tag/v1.2.15), 6 days ago) - Supercharge your Laravel application&#39;s performance.
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.0.0](https://github.com/gacts/install-geth-tools/releases/tag/v1.0.0), 2 weeks ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.11.0-beta.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.11.0-beta.2), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.17.0](https://github.com/tarampampam/error-pages/releases/tag/v2.17.0), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [laravel/octane](https://github.com/laravel/octane) ([v1.2.16](https://github.com/laravel/octane/releases/tag/v1.2.16), 1 week ago) - Supercharge your Laravel application&#39;s performance.
+- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.8](https://github.com/ktr0731/evans/releases/tag/v0.10.8), 1 week ago) - Evans: more expressive universal gRPC client
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.0.0](https://github.com/gacts/install-geth-tools/releases/tag/v1.0.0), 1 month ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow
 - [tarampampam/evans-docker](https://github.com/tarampampam/evans-docker) ([v0.10.6](https://github.com/tarampampam/evans-docker/releases/tag/v0.10.6), 1 month ago) - 🛠 Docker image with evans - more expressive universal gRPC client
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.8.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.8.0), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [WIP: V4](https://github.com/tarampampam/tinifier/pull/96) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (1 day ago)
-- [Evans distribution using docker](https://github.com/ktr0731/evans/pull/559) on [ktr0731/evans](https://github.com/ktr0731/evans) (6 days ago)
-- [Proto](https://github.com/gacts/install-geth-tools/pull/1) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (3 weeks ago)
+- [WIP: V4](https://github.com/tarampampam/tinifier/pull/96) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (1 week ago)
+- [Evans distribution using docker](https://github.com/ktr0731/evans/pull/559) on [ktr0731/evans](https://github.com/ktr0731/evans) (2 weeks ago)
+- [Proto](https://github.com/gacts/install-geth-tools/pull/1) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (1 month ago)
 - [Hydra docker image](https://github.com/vanhauser-thc/thc-hydra/pull/767) on [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1 (1 week ago)
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 week ago)
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now! (2 weeks ago)
+- [ttacon/chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk (2 days ago)
+- [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces. (2 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (5 days ago)
 
 #### 💬 Feedback
 

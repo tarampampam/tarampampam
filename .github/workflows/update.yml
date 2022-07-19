@@ -15,7 +15,10 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
-
+        with:
+          # Fetch the last 2 commits instead of just 1 (fetching just 1 commit would overwrite the whole history)
+          fetch-depth: 2
+    
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
           template: templates/README.md
@@ -23,10 +26,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
 
+      - name: Get last commit message
+        id: last-commit-message
+        run: echo "::set-output name=msg::$(git log -1 --pretty=%s)"
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: github.event_name != 'pull_request'
         with:
-          commit_message: 'Update generated README'
+          commit_message: ${{ steps.last-commit-message.outputs.msg }}
+          commit_options: '--amend --no-edit'
+          push_options: '--force'
+          skip_fetch: true
           branch: master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
