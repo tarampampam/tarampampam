@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; 🇷🇺 Привет Хабаровск!<br />
+  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; <img src="https://habrastorage.org/webt/jz/7w/uj/jz7wujkypc2dfrijkkfwqy5_up0.png" width="18" alt="ru" /> Привет Хабаровск!<br />
   Freedom for political prisoners!
 </p>
-  
+
 #### 👷 Check out what I'm currently working on
 
 {{ range recentContributions 7 }}{{ if ne .Repo.Name "hook-sh/blog" }}
