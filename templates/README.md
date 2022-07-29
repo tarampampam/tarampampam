@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; <img src="data:image/webp;base64,UklGRiIBAABXRUJQVlA4TBYBAAAv/IrUAQ9wwv/9//X//McDzLRtUyblj3IUdtUR/Z+A8D//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8/8mf99d/uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//uM//huNwv/8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z//8z/+bPA==" alt="ru" width="18"> Привет Хабаровск!<br />
+  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; <img src="https://habrastorage.org/webt/jz/7w/uj/jz7wujkypc2dfrijkkfwqy5_up0.png" width="18" alt="ru" /> Привет Хабаровск!<br />
   Freedom for political prisoners!
 </p>
 
