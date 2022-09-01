@@ -16,5 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: actions/upload-pages-artifact@v1
-        with: {path: ./cv}
+      - run: tar --dereference --hard-dereference -C ./cv -cvf ${{ runner.temp }}/artifact.tar .
+
+      - uses: actions/upload-artifact@main
+        with:
+          name: github-pages # don't change this
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+
+      - uses: actions/deploy-pages@v1
