@@ -1,0 +1,23 @@
+name: cv
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [master, main]
+    paths: [cv/**]
+
+concurrency:
+  group: ${{ github.ref }}-cv
+  cancel-in-progress: true
+
+jobs:
+  update-cv-page:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./cv
+          #cname: TODO

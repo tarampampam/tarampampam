@@ -1,24 +1,25 @@
-name: update
+name: readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
   schedule: [cron: '0 0 */1 * *']
   push:
     branches: [master, main]
+    paths: [templates/README.md]
 
 concurrency:
-  group: ${{ github.ref }}
+  group: ${{ github.ref }}-readme
   cancel-in-progress: true
 
 jobs:
   update-readme:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
           # Fetch the last 2 commits instead of just 1 (fetching just 1 commit would overwrite the whole history)
           fetch-depth: 2
-    
+
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
           template: templates/README.md
