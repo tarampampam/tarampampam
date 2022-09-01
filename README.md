@@ -10,13 +10,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/blog](https://github.com/iddqd-uk/blog) - :green_book: Blog with discussions, hosted on github (3 days ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (6 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (6 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 week ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (1 week ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 weeks ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (2 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (2 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -29,17 +29,17 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.85.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.85.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.7.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.7.0), 6 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.9](https://github.com/ktr0731/evans/releases/tag/v0.10.9), 6 days ago) - Evans: more expressive universal gRPC client
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.0](https://github.com/tarampampam/mustpl/releases/tag/v0.1.0), 6 days ago) - 🧰 Logic-less CLI templating tool
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.85.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.85.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.7.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.7.0), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.9](https://github.com/ktr0731/evans/releases/tag/v0.10.9), 1 week ago) - Evans: more expressive universal gRPC client
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.0](https://github.com/tarampampam/mustpl/releases/tag/v0.1.0), 1 week ago) - 🧰 Logic-less CLI templating tool
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.11.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.11.1), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.18.0](https://github.com/tarampampam/error-pages/releases/tag/v2.18.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Entrypoint script replaced with mustpl](https://github.com/tarampampam/3proxy-docker/pull/24) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (6 days ago)
+- [Entrypoint script replaced with mustpl](https://github.com/tarampampam/3proxy-docker/pull/24) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [Refactor build process](https://github.com/tarampampam/mustpl/pull/3) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (1 week ago)
 - [Static/dynamic build](https://github.com/tarampampam/mustpl/pull/1) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (1 week ago)
 - [Action cleanup state, actions toolkit sync](https://github.com/gacts/fetch-doppler-secret/pull/33) on [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) (3 weeks ago)
@@ -47,9 +47,9 @@
 #### ⭐ Recent stars
 
 
-- [somratpro/somrat](https://github.com/somratpro/somrat) - A Hugo portfolio theme (archived) (1 day ago)
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 (2 weeks ago)
-- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server &amp; client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) (2 weeks ago)
+- [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [somratpro/somrat](https://github.com/somratpro/somrat) - A Hugo portfolio theme (archived) (4 days ago)
 
 #### 💬 Feedback
 
