@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+  <!--
+  <meta name="description" content="TODO">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="images/backgrounds/about-me.jpg" />
+  <meta property="og:image" content="images/backgrounds/about-me.jpg" />
+  <meta property="og:title" content="TODO" />
+  <meta property="og:description" content="TODO" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="TODO URL" />
+  <base href="https://TODO URL/">
+  <link rel="canonical" href="https://TODO URL/" itemprop="url" />
+  <meta name="twitter:title" content="TODO" />
+  <meta name="twitter:description" content="TODO" />
+  -->
+  <title>TODO</title>
+
+  <meta name="color-scheme" content="light dark">
+
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
+  <link rel="dns-prefetch" href="https://fonts.bunny.net">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+        media="none" onload="this.media='all'">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.91.1/iconfont/tabler-icons.min.css"
+        media="none" onload="this.media='all'">
+  <link rel="stylesheet"
+        href="https://fonts.bunny.net/css2?family=Asap:wght@400;500;600;700&family=Josefin+Sans:wght@300;400;500;600;700&display=swap"
+        media="none" onload="this.media='all'">
+
+  <noscript>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons@1.91.1/iconfont/tabler-icons.min.css"
+          crossorigin="anonymous">
+    <link rel="stylesheet"
+          href="https://fonts.bunny.net/css2?family=Asap:wght@400;500;600;700&family=Josefin+Sans:wght@300;400;500;600;700&display=swap">
+  </noscript>
+
+  <style>
+    :root {
+      --color-bg-primary: #fff;
+      --color-bg-light: #f2f2f2;
+      --color-bg-inverted: #3a3a3a;
+
+      --color-text-primary: #454545;
+      --color-text-light: #aaa;
+      --color-text-inverted: #fff;
+
+      --color-border-primary: #454545;
+      --color-border-light: #aaa;
+      --color-border-inverted: #fff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --color-bg-primary: #2f2f2f;
+        --color-bg-light: #3a3a3a;
+        --color-bg-inverted: #eaeaea;
+
+        --color-text-primary: #eaeaea;
+        --color-text-light: #666;
+        --color-text-inverted: #2f2f2f;
+
+        --color-border-primary: #eaeaea;
+        --color-border-light: #666;
+        --color-border-inverted: #2f2f2f;
+      }
+    }
+
+    body {
+      font-family: 'Asap', sans-serif;
+      background-color: var(--color-bg-primary);
+      color: var(--color-text-primary);
+    }
+
+    a, a:hover {
+      color: var(--color-text-primary);
+    }
+
+    h1, h2, h3 {
+      position: relative;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+
+    h1:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: -.15em;
+      width: 1em;
+      height: .15em;
+      background: var(--color-text-primary);
+    }
+
+    /* About */
+
+    .about-me > .container {
+      padding-top: 13vh;
+    }
+
+    .about-me .photo {
+      filter: grayscale(100%);
+      transition: all linear .3s;
+    }
+
+    .about-me .photo:hover {
+      filter: grayscale(0%);
+    }
+
+    /* Experience & Skill */
+
+    .experience, .skill {
+      padding-top: 4vh;
+    }
+
+    .experience .list li {
+      position: relative;
+      border-left: 2px solid var(--color-border-primary);
+      padding-left: 30px;
+      padding-bottom: 10px;
+    }
+
+    .experience .list li:last-child {
+      padding-bottom: 0;
+    }
+
+    .experience .list li:after {
+      position: absolute;
+      top: 0;
+      left: -.69em;
+      width: 1.2em;
+      height: 1.2em;
+      border-radius: 50%;
+      border: 2px solid;
+      background: var(--color-border-inverted);
+      content: '';
+      transition: background-color 300ms;
+    }
+
+    .experience .list li:hover:after {
+      background: var(--color-border-primary);
+    }
+
+    .experience .list li h4 {
+      position: relative;
+      top: -.15em;
+      font-weight: 600;
+    }
+
+    .experience .list li span,
+    .experience .list li data {
+      font-weight: 600;
+    }
+
+    .skill span {
+      font-weight: 600;
+    }
+
+    .skill .percent:after {
+      content: "%";
+    }
+
+    .skill .bar {
+      border: 2px solid var(--color-border-primary);
+    }
+
+    .skill .bar > div {
+      height: .7em;
+      margin: 4px;
+      background-color: var(--color-border-primary);
+    }
+
+    /* Contact */
+
+    .contact {
+      background: #463d3e url("images/backgrounds/contact.jpg") no-repeat fixed center;
+      background-size: cover;
+      position: relative;
+    }
+
+    .contact h1 {
+      letter-spacing: 2px;
+      color: #2f2f2f;
+      text-shadow: 0 0 6px rgba(100, 100, 100, 0.15);
+    }
+
+    .contact h1:before {
+      background: #2f2f2f;
+    }
+  </style>
+</head>
+<body>
+
+<section class="about-me">
+  <div class="container col-lg-8">
+    <div class="row">
+      <div class="col-lg-7 col-sm-7">
+        <h1 class="text-uppercase">Know more <br/> about me</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+          magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+          est laborum.</p>
+      </div>
+      <div class="col-lg-5 col-sm-5">
+        <img class="img-fluid photo" src="images/about-me.jpg" alt="photo">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-7 col-sm-7 col-11 experience">
+        <h3 class="pb-5 text-uppercase">Experience</h3>
+        <ul class="list list-unstyled ps-1">
+          <li>
+            <h4 class="my-0">Go Dev, DevOps</h4>
+            <span><a href="https://yetanotherdefi.com/" rel="nofollow">YetAnotherDeFi</a></span>
+            <data>2022-2022</data>
+            <p>Solutions research and microservices development in Go. Development and deployment of fault-tolerance
+              infrastructure using HashiStack. CI/CD processes bootstrapping.</p>
+          </li>
+          <li>
+            <h4 class="my-0">Solution Architect, SRE</h4>
+            <span><a href="https://spiralscout.com/" rel="nofollow">SpiralScout</a></span>
+            <data>2021-2021</data>
+            <p>Projects estimation & solutions preparing. Development of services (Go), solutions research for the
+              infrastructure.</p>
+          </li>
+          <li>
+            <h4 class="my-0">Go/PHP Dev, Solution Architect</h4>
+            <span><a href="https://spectrumdata.ru/" rel="nofollow">SpectrumData</a></span>
+            <data>2017-2021</data>
+            <p>Development of microservice architecture for a high load projects, and services development. Moved all
+              work with applications to the Docker environment. Creating the RnD unit for solving unsolvable
+              problems.</p>
+          </li>
+          <li>
+            <h4 class="my-0">Individual business</h4>
+            <span></span>
+            <data>2012-2017</data>
+            <p>Maintenance of organizations, development of automation systems.</p>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-5 col-sm-5 col-11 skill">
+        <h3 class="text-uppercase pb-5">Skill</h3>
+        <div class="pb-4">
+          <div class="d-flex">
+            <span class="flex-fill">Go (GoLang)</span>
+            <span class="flex-fill text-end percent">90</span>
+          </div>
+          <div class="rounded-pill mt-2 bar">
+            <div class="rounded-pill" style="width: 90%"></div>
+          </div>
+        </div>
+        <div class="pb-4">
+          <div class="d-flex">
+            <span class="flex-fill">Docker</span>
+            <span class="flex-fill text-end percent">90</span>
+          </div>
+          <div class="rounded-pill mt-2 bar">
+            <div class="rounded-pill" style="width: 90%"></div>
+          </div>
+        </div>
+        <div class="pb-4">
+          <div class="d-flex">
+            <span class="flex-fill">CI/CD</span>
+            <span class="flex-fill text-end percent">75</span>
+          </div>
+          <div class="rounded-pill mt-2 bar">
+            <div class="rounded-pill" style="width: 75%"></div>
+          </div>
+        </div>
+        <div class="pb-4">
+          <div class="d-flex">
+            <span class="flex-fill">Ansible & Infrastructure</span>
+            <span class="flex-fill text-end percent">55</span>
+          </div>
+          <div class="rounded-pill mt-2 bar">
+            <div class="rounded-pill" style="width: 55%"></div>
+          </div>
+        </div>
+        <div class="pb-4">
+          <div class="d-flex">
+            <span class="flex-fill">NodeJS / VueJS</span>
+            <span class="flex-fill text-end percent">45</span>
+          </div>
+          <div class="rounded-pill mt-2 bar">
+            <div class="rounded-pill" style="width: 45%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="mt-5 contact">
+  <div class="container col-lg-6">
+    <div class="py-5">
+      <div class="d-flex justify-content-center">
+        <h1 class="text-uppercase text-center">Message me</h1>
+      </div>
+      <form method="POST" action="https://formspree.io/f/mqkjavza">
+        <div class="form-container row mt-3">
+          <div class="form-group col-lg-12 my-2">
+              <textarea class="form-control border-0 py-2" name="message" id="message" rows="5" required
+                        placeholder="Your message"></textarea>
+          </div>
+          <div class="form-group col-lg-9 my-2">
+            <input class="form-control border-0 py-2" type="email" id="email" name="email" required
+                   placeholder="your@email.here">
+          </div>
+          <div class="form-group col-lg-3 my-2">
+            <button class="submit form-control fw-bold border-0 py-2 w-100" type="submit" value="send">
+              Send
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
