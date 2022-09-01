@@ -1,4 +1,4 @@
-name: cv
+name: update-cv
 
 on:
   workflow_dispatch: {}
