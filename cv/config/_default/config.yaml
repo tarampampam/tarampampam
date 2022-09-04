@@ -13,7 +13,7 @@ defaultContentLanguage: en
 noChmod: true
 
 # Don’t sync modification time of files
-noTimes: false
+noTimes: true
 
 # Hugo will, by default, inject a generator meta tag in the HTML head on the home page only
 disableHugoGeneratorInject: true

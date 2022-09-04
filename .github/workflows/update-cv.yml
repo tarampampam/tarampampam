@@ -22,7 +22,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: tar --dereference --hard-dereference -C ./cv -cvf ${{ runner.temp }}/artifact.tar .
+      - uses: peaceiris/actions-hugo@v2
+        with: {hugo-version: 0.101.0, extended: true}
+
+      - run: hugo --minify --environment production --baseURL "https://tarampamp.am/" -d ./dist
+        working-directory: ./cv
+
+      - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
 
       - uses: actions/upload-artifact@main
         with:
