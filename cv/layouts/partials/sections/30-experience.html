@@ -2,7 +2,7 @@
   <div class="container col-lg-12 col-xl-10 col-xxl-8">
     <div class="row">
       <div class="col-12 col-lg-7 experience">
-        <h3 class="pb-5 text-uppercase">Experience</h3>
+        <h3 class="pb-5 text-uppercase">{{ i18n "experience.experience" }}</h3>
         <ul class="list list-unstyled ps-1">
           {{ range sort (where .Site.Pages "Section" "experience") "Weight" "desc" }}
           {{- if .Params.title }}
@@ -15,7 +15,9 @@
             {{- end -}}</span>
             {{if .Params.period -}}<span class="data">{{ .Params.period }}</span>{{- end }}
             {{if .Params.location -}}<span><i class="ti ti-map-pin"></i> {{ .Params.location }}</span>{{- end }}
-            {{ .Content }}
+            <div class="content">
+              {{ .Content }}
+            </div>
             {{ if .Params.stack }}
             <ul class="list-inline">
               <li class="list-inline-item">Stack:</li>
@@ -31,7 +33,7 @@
       </div>
       <div class="col-12 col-lg-5">
         <div class="skill">
-          <h3 class="text-uppercase pb-5">Skills</h3>
+          <h3 class="text-uppercase pb-5">{{ i18n "skills.skills" }}</h3>
           {{ range sort (where .Site.Pages "Section" "skills") "Weight" "desc" }}
           {{- if .Params.title }}
           <div class="pb-4">
@@ -52,7 +54,7 @@
           {{- end }}
         </div>
         <div class="projects">
-          <h3 class="pb-5 text-uppercase">Open-source projects</h3>
+          <h3 class="pb-5 text-uppercase">{{ i18n "projects.oss-projects" }}</h3>
           {{ range sort (where .Site.Pages "Section" "projects") "Weight" "desc" }}
           {{- if .Params.title }}
           <div class="project">

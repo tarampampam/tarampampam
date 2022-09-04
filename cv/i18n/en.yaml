@@ -1,6 +1,18 @@
+translations:
+  also-available-in: This CV is also available in the following languages
+
 about:
   know-more: Know more
   about-me: about me
+
+experience:
+  experience: Experience
+
+skills:
+  skills: Skills
+
+projects:
+  oss-projects: Open-source projects
 
 contact:
   message-me: Message me

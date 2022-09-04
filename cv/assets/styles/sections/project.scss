@@ -5,3 +5,9 @@
 .project picture img {
   height: 1.3em;
 }
+
+@media print {
+  .project picture img {
+    display: none;
+  }
+}

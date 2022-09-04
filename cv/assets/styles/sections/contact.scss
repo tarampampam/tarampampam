@@ -16,3 +16,9 @@
   background-color: var(--color-bg-primary);
   color: var(--color-text-primary);
 }
+
+@media print {
+  .contact {
+    display: none;
+  }
+}

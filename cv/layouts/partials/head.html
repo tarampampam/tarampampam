@@ -25,3 +25,9 @@
 </noscript>
 
 <style>{{ ((resources.Get "styles/style.scss") | resources.ToCSS | minify).Content | safeCSS }}</style>
+
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  {{ end }}
+{{ end }}

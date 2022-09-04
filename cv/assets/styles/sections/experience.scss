@@ -37,6 +37,11 @@
   font-weight: 600;
 }
 
+.experience .list > li .content {
+  padding-top: .7em;
+  padding-bottom: .7em;
+}
+
 .experience .list .badge {
   font-size: .85em;
   background-color: var(--color-bg-light);
