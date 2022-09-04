@@ -1,0 +1,16 @@
+.about-me > .container {
+  padding-top: 13vh;
+}
+
+.about-me .photo {
+  filter: grayscale(100%);
+  transition: all linear .3s;
+}
+
+.about-me .photo:hover {
+  filter: grayscale(0%);
+}
+
+.experience, .skill, .projects {
+  padding-top: 4vh;
+}

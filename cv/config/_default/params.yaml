@@ -1,0 +1,35 @@
+skills:
+  - title: Go (GoLang)
+    percent: 90
+  - title: Docker
+    percent: 90
+  - title: CI/CD
+    percent: 75
+  - title: Ansible & Infrastructure
+    percent: 55
+  - title: NodeJS / VueJS
+    percent: 45
+
+projects:
+  - title: /go/error-pages
+    link: https://github.com/tarampampam/error-pages
+    description: Pretty server's error pages in the docker image & git repository
+    gitHubRepo: tarampampam/error-pages
+  - title: /go/webhook-tester
+    link: https://github.com/tarampampam/webhook-tester
+    description: Allows you to easily test webhooks and other types of HTTP requests
+    gitHubRepo: tarampampam/webhook-tester
+  - title: /js/random-user-agent
+    link: https://github.com/tarampampam/random-user-agent
+    description: Browser extension that automatically replaces the User-Agent with a randomized one
+    gitHubRepo: tarampampam/random-user-agent
+  - title: /c/mustpl
+    link: https://github.com/tarampampam/mustpl
+    description: Logic-less CLI templating tool
+    gitHubRepo: tarampampam/mustpl
+  - title: /gacts
+    link: https://github.com/gacts
+    description: GitHub actions for all occasions
+  - title: /iddqd-uk
+    link: https://github.com/iddqd-uk
+    description: Infrastructure as a game (pet projects' home)

@@ -1,0 +1,17 @@
+.skill span {
+  font-weight: 600;
+}
+
+.skill .percent:after {
+  content: "%";
+}
+
+.skill .bar {
+  border: 2px solid var(--color-border-primary);
+}
+
+.skill .bar > div {
+  height: .7em;
+  margin: 4px;
+  background-color: var(--color-border-primary);
+}
