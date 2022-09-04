@@ -1,0 +1,21 @@
+languageCode: en-us
+title: TODO TITLE
+
+enableRobotsTXT: true
+
+# Enable Emoji emoticons support for page content; see the <https://www.webpagefx.com/tools/emoji-cheat-sheet/>
+enableEmoji: true
+
+# <https://gohugo.io/content-management/multilingual/#configure-languages>
+defaultContentLanguage: en
+
+# Don’t sync permission mode of files
+noChmod: true
+
+# Don’t sync modification time of files
+noTimes: false
+
+# Hugo will, by default, inject a generator meta tag in the HTML head on the home page only
+disableHugoGeneratorInject: true
+
+disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm']
