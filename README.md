@@ -10,23 +10,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-<<<<<<< HEAD
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
-- [iddqd-uk/blog](https://github.com/iddqd-uk/blog) - :green_book: Blog with discussions, hosted on github (4 days ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 week ago)
-=======
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 days ago)
+- [iddqd-uk/blog](https://github.com/iddqd-uk/blog) - :green_book: Blog with discussions, hosted on github (today)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 days ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (2 days ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (2 days ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 days ago)
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 days ago)
->>>>>>> a072f4b4290986a8fce0cb29a6f618464aa6b811
 
 #### 🌱 My latest projects
 
@@ -39,11 +29,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-<<<<<<< HEAD
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.85.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.85.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-=======
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.85.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.85.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
->>>>>>> a072f4b4290986a8fce0cb29a6f618464aa6b811
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.7.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.7.0), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.9](https://github.com/ktr0731/evans/releases/tag/v0.10.9), 1 week ago) - Evans: more expressive universal gRPC client
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.0](https://github.com/tarampampam/mustpl/releases/tag/v0.1.0), 1 week ago) - 🧰 Logic-less CLI templating tool
@@ -61,15 +47,9 @@
 #### ⭐ Recent stars
 
 
-<<<<<<< HEAD
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [somratpro/somrat](https://github.com/somratpro/somrat) - A Hugo portfolio theme (archived) (2 days ago)
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 (2 weeks ago)
-=======
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex (1 day ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
 - [somratpro/somrat](https://github.com/somratpro/somrat) - A Hugo portfolio theme (archived) (4 days ago)
->>>>>>> a072f4b4290986a8fce0cb29a6f618464aa6b811
 
 #### 💬 Feedback
 
