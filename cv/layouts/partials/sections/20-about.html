@@ -1,9 +1,12 @@
+{{ $about := .Site.GetPage "about" }}
+
+{{ if $about }}
 <section class="about-me">
   <div class="container col-lg-12 col-xl-10 col-xxl-8">
     <div class="row">
       <div class="col-lg-7 col-sm-7">
         <h1 class="text-uppercase">{{ i18n "about.know-more" }}<br />{{ i18n "about.about-me" }}</h1>
-        <p>{{ i18n "about.text" }}</p>
+        <p>{{ $about.Content }}</p>
       </div>
       <div class="col-lg-5 col-sm-5">
         {{ $image := .Resources.Get "images/about-me.jpg" }}
@@ -12,3 +15,4 @@
     </div>
   </div>
 </section>
+{{ end }}

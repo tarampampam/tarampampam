@@ -4,96 +4,73 @@
       <div class="col-12 col-lg-7 experience">
         <h3 class="pb-5 text-uppercase">Experience</h3>
         <ul class="list list-unstyled ps-1">
+          {{ range sort (where .Site.Pages "Section" "experience") "Weight" "desc" }}
+          {{- if .Params.title }}
           <li>
-            <h4 class="my-0">Go Dev, DevOps</h4>
-            <span><a href="https://yetanotherdefi.com/" rel="nofollow">YetAnotherDeFi</a></span>
-            <span class="data">2022-2022</span>
-            <span><i class="ti ti-map-pin"></i> Georgia, Tbilisi</span>
-            <ul class="py-2">
-              <li>
-                Developed services in Go - blockchain state changes' watcher (pub/sub model, GRPC streaming as a
-                transport), dynamic proxy service, etc
-              </li>
-              <li>
-                Developed and deployed fault-tolerance infrastructure using HashiStack (Consul, Nomad, Traefik)
-                with monitoring and logs aggregation (Prometheus, Promtail, Grafana)
-              </li>
-              <li>
-                Built up all project CI/CD processes and integrations with 3rd party services using GitHub Actions
-              </li>
-            </ul>
+            <h4 class="my-0">{{ .Params.title }}</h4>
+            <span>{{- if .Params.link -}}
+            <a href="{{ .Params.link }}" rel="nofollow">{{ .Params.project }}</a>
+            {{- else -}}
+            {{- .Params.project -}}
+            {{- end -}}</span>
+            {{if .Params.period -}}<span class="data">{{ .Params.period }}</span>{{- end }}
+            {{if .Params.location -}}<span><i class="ti ti-map-pin"></i> {{ .Params.location }}</span>{{- end }}
+            {{ .Content }}
+            {{ if .Params.stack }}
             <ul class="list-inline">
               <li class="list-inline-item">Stack:</li>
-              <li class="list-inline-item"><span class="badge">YouTrack</span></li>
-              <li class="list-inline-item"><span class="badge">Go</span></li>
-              <li class="list-inline-item"><span class="badge">GRPC</span></li>
-              <li class="list-inline-item"><span class="badge">GitHub Actions</span></li>
-              <li class="list-inline-item"><span class="badge">HashiStack</span></li>
-              <li class="list-inline-item"><span class="badge">Ansible</span></li>
+              {{- range .Params.stack }}
+              <li class="list-inline-item"><span class="badge">{{ . }}</span></li>
+              {{- end -}}
             </ul>
-            <!--            <p>Solutions research and microservices development in Go. Development and deployment of fault-tolerance-->
-            <!--              infrastructure using HashiStack. CI/CD processes bootstrapping.</p>-->
+            {{ end -}}
           </li>
-          <li>
-            <h4 class="my-0">Solution Architect, SRE</h4>
-            <span><a href="https://spiralscout.com/" rel="nofollow">SpiralScout</a></span>
-            <span class="data">2021-2021</span>
-            <span><i class="ti ti-map-pin"></i> USA, San Francisco (remote)</span>
-            <p>Projects estimation & solutions preparing. Development of services (Go), solutions research for the
-              infrastructure.</p>
-          </li>
-          <li>
-            <h4 class="my-0">Go/PHP Dev, Solution Architect</h4>
-            <span><a href="https://spectrumdata.ru/" rel="nofollow">SpectrumData</a></span>
-            <span class="data">2017-2021</span>
-            <span><i class="ti ti-map-pin"></i> Russia, Ekaterinburg</span>
-            <p>Development of microservice architecture for a high load projects, and services development. Moved all
-              work with applications to the Docker environment. Creating the RnD unit for solving unsolvable
-              problems.</p>
-          </li>
-          <li>
-            <h4 class="my-0">Individual business</h4>
-            <span class="data">2012-2017</span>
-            <span><i class="ti ti-map-pin"></i> Russia, Tyumen</span>
-            <p>Maintenance of organizations, development of automation systems.</p>
-          </li>
+          {{- end }}
+          {{- end }}
         </ul>
       </div>
       <div class="col-12 col-lg-5">
         <div class="skill">
           <h3 class="text-uppercase pb-5">Skills</h3>
-          {{- range .Site.Params.skills }}
+          {{ range sort (where .Site.Pages "Section" "skills") "Weight" "desc" }}
+          {{- if .Params.title }}
           <div class="pb-4">
             <div class="d-flex">
-              <span class="flex-fill">{{ .title }}</span>
-              <span class="flex-fill text-end percent">{{ .percent }}</span>
+              <span class="flex-fill">{{ .Params.title }}</span>
+              <span class="flex-fill text-end percent">{{ .Params.progress | default 0 }}</span>
             </div>
             <div class="rounded-pill mt-2 bar">
-              <div class="rounded-pill" style="width: {{ .percent }}%"></div>
+              <div class="rounded-pill" style="width: {{ .Params.progress | default 0 }}%"></div>
             </div>
+            {{- if .Content }}
+            <div class="row">
+              {{ .Content }}
+            </div>
+            {{- end }}
           </div>
+          {{- end }}
           {{- end }}
         </div>
         <div class="projects">
           <h3 class="pb-5 text-uppercase">Open-source projects</h3>
-
-          {{- range .Site.Params.projects }}
+          {{ range sort (where .Site.Pages "Section" "projects") "Weight" "desc" }}
+          {{- if .Params.title }}
           <div class="project">
             <h4 class="mb-2">
-              <a href="{{ .link }}" target="_blank">{{ .title }}</a>
-              {{- if .gitHubRepo }}
+              <a href="{{ .Params.link }}" target="_blank">{{ .Params.title }}</a>
+              {{- if .Params.gitHubRepo }}
               <picture>
                 <source
-                  srcset="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=2f2f2f&labelColor=2f2f2f&label=%E2%AD%90&style=flat-square"
+                  srcset="https://img.shields.io/github/stars/{{ .Params.gitHubRepo }}?color=2f2f2f&labelColor=2f2f2f&label=%E2%AD%90&style=flat-square"
                   media="(prefers-color-scheme: dark)">
                 <img alt="stargazers"
-                     src="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=fff&labelColor=fff&label=%E2%AD%90&style=flat-square">
+                     src="https://img.shields.io/github/stars/{{ .Params.gitHubRepo }}?color=fff&labelColor=fff&label=%E2%AD%90&style=flat-square">
               </picture>
               {{- end }}
             </h4>
-
-            <p class="mb-0">{{ .description }}</p>
+            {{ .Content }}
           </div>
+          {{- end }}
           {{- end }}
         </div>
       </div>

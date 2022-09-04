@@ -4,7 +4,7 @@
       <div class="d-flex justify-content-center">
         <h2 class="text-uppercase text-center">{{ i18n "contact.message-me" }}</h2>
       </div>
-      <form method="POST" action="https://formspree.io/f/mqkjavza">
+      <form method="POST" action="{{ .Site.Params.formspree.url }}">
         <div class="form-container row mt-3">
           <div class="form-group col-lg-12 my-2">
               <textarea class="form-control border-0 py-2" name="message" id="message" rows="5" required
