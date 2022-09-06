@@ -4,8 +4,7 @@ translations:
   ru: russian language
 
 about:
-  know-more: Know more
-  about-me: about me
+  about-me: About me
   contact: Contacts
 
 experience:
@@ -15,7 +14,7 @@ skills:
   skills: Skills
 
 projects:
-  oss-projects: Open-source projects
+  my-projects: Projects
 
 contact:
   message-me: Message me

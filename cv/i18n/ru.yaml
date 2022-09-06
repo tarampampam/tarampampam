@@ -4,8 +4,7 @@ translations:
   ru: русском языке
 
 about:
-  know-more: Коротко
-  about-me: обо мне
+  about-me: Обо мне
   contact: Контакты
 
 experience:
@@ -15,7 +14,7 @@ skills:
   skills: Навыки
 
 projects:
-  oss-projects: Проекты
+  my-projects: Проекты
 
 contact:
   message-me: Написать

@@ -1,15 +1,12 @@
 @import "variables";
 @import "colors";
 
-body {
+html, body {
   font-family: 'Raleway', sans-serif;
+  font-weight: 500;
   background-color: var(--color-bg-primary);
   color: var(--color-text-primary);
 }
-
-//a, a:hover {
-//  color: var(--color-text-primary);
-//}
 
 a {
   $underline-width: .13em;
