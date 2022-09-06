@@ -1,4 +1,4 @@
 /resources
-/data
 /public
+/dist
 /.hugo_build.lock

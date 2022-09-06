@@ -32,49 +32,49 @@
         </ul>
       </div>
       <div class="col-12 col-lg-5">
+        {{ if .Site.Data.skills.items }}
         <div class="skill">
           <h3 class="text-uppercase pb-5">{{ i18n "skills.skills" }}</h3>
-          {{ range sort (where .Site.Pages "Section" "skills") "Weight" "desc" }}
-          {{- if .Params.title }}
+          {{ range .Site.Data.skills.items }}
           <div class="pb-4">
             <div class="d-flex">
-              <span class="flex-fill">{{ .Params.title }}</span>
-              <span class="flex-fill text-end percent">{{ .Params.progress | default 0 }}</span>
+              <span class="flex-fill">{{ .title }}</span>
+              <span class="flex-fill text-end percent">{{ .progress | default 0 }}</span>
             </div>
             <div class="rounded-pill mt-2 bar">
-              <div class="rounded-pill" style="width: {{ .Params.progress | default 0 }}%"></div>
+              <div class="rounded-pill" style="width: {{ .progress | default 0 }}%"></div>
             </div>
-            {{- if .Content }}
-            <div class="row">
-              {{ .Content }}
+            {{- if .description }}
+            <div class="row pt-2 opacity-75">
+              <p>{{ .description }}</p>
             </div>
             {{- end }}
           </div>
           {{- end }}
-          {{- end }}
         </div>
+        {{- end }}
+        {{ if .Site.Data.projects.items }}
         <div class="projects">
           <h3 class="pb-5 text-uppercase">{{ i18n "projects.oss-projects" }}</h3>
-          {{ range sort (where .Site.Pages "Section" "projects") "Weight" "desc" }}
-          {{- if .Params.title }}
+          {{ range .Site.Data.projects.items }}
           <div class="project">
             <h4 class="mb-2">
-              <a href="{{ .Params.link }}" target="_blank">{{ .Params.title }}</a>
-              {{- if .Params.gitHubRepo }}
+              <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+              {{- if .gitHubRepo }}
               <picture>
                 <source
-                  srcset="https://img.shields.io/github/stars/{{ .Params.gitHubRepo }}?color=2f2f2f&labelColor=2f2f2f&label=%E2%AD%90&style=flat-square"
+                  srcset="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=2f2f2f&labelColor=2f2f2f&label=%E2%AD%90&style=flat-square"
                   media="(prefers-color-scheme: dark)">
                 <img alt="stargazers"
-                     src="https://img.shields.io/github/stars/{{ .Params.gitHubRepo }}?color=fff&labelColor=fff&label=%E2%AD%90&style=flat-square">
+                     src="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=fff&labelColor=fff&label=%E2%AD%90&style=flat-square">
               </picture>
               {{- end }}
             </h4>
-            {{ .Content }}
+            {{ .description }}
           </div>
           {{- end }}
-          {{- end }}
         </div>
+        {{- end }}
       </div>
     </div>
   </div>

@@ -1,0 +1,12 @@
+items:
+  - title: Go (Golang)
+    progress: 90
+  - title: Docker
+    progress: 90
+  - title: CI/CD
+    progress: 75
+  - title: Ansible & Infrastructure
+    progress: 55
+  - title: NodeJS / VueJS
+    progress: 45
+    #description: Foo bar

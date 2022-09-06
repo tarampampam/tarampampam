@@ -16,7 +16,7 @@
           </div>
           <div class="form-group col-lg-3 my-2">
             <button class="submit form-control fw-bold border-0 py-2 w-100" type="submit" value="send">
-              <i class="ti ti-send"></i> {{ i18n "contact.send" }}
+              {{ (resources.Get "icons/send.svg").Content | safeHTML }} {{ i18n "contact.send" }}
             </button>
           </div>
         </div>

@@ -17,6 +17,10 @@
   color: var(--color-text-primary);
 }
 
+.contact button .icon {
+  height: 1.3em;
+}
+
 @media print {
   .contact {
     display: none;

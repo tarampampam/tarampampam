@@ -1,0 +1,24 @@
+enableEmoji: true
+noChmod: true # Don’t sync permission mode of files
+noTimes: true # Don’t sync modification time of files
+disableHugoGeneratorInject: true
+
+enableRobotsTXT: true
+disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm', 'section', 'term']
+
+title: Tarampampam's CV
+
+params:
+  formspree:
+    url: https://formspree.io/f/mqkjavza
+
+languageCode: en-us
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 10
+
+  ru:
+    languageName: Русский
+    weight: 5

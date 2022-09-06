@@ -1,5 +1,7 @@
 translations:
-  also-available-in: This CV is also available in the following languages
+  also-available-in: This CV is also available in
+  en: english language
+  ru: russian language
 
 about:
   know-more: Know more

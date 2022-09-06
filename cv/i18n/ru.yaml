@@ -1,5 +1,7 @@
 translations:
-  also-available-in: Это резюме так же доступно на следующих языках
+  also-available-in: Это резюме так же доступно на
+  en: английском языке
+  ru: русском языке
 
 about:
   know-more: Коротко

@@ -6,14 +6,14 @@
       <div class="col-lg-7 col-sm-7">
         {{ if $about }}
         <h1 class="text-uppercase">{{ i18n "about.know-more" }}<br />{{ i18n "about.about-me" }}</h1>
-        <p>{{ $about.Content }}</p>
+        <div class="mb-3 content">{{ $about.Content }}</div>
         {{ end }}
 
         {{ if .IsTranslated }}
-        <div class="opacity-50">
-          {{ i18n "translations.also-available-in" }}:
+        <div class="alt-languages opacity-50">
+          {{ i18n "translations.also-available-in" }}
           {{ range .Translations }}
-            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>
           {{ end }}
         </div>
         {{ end }}

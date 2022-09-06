@@ -1,0 +1,23 @@
+items:
+  - title: /go/error-pages
+    link: https://github.com/tarampampam/error-pages
+    gitHubRepo: tarampampam/error-pages
+    description: Pretty server's error pages in the docker image & git repository
+  - title: /js/random-user-agent
+    link: https://github.com/tarampampam/random-user-agent
+    gitHubRepo: tarampampam/random-user-agent
+    description: Browser extension that automatically replaces the User-Agent with a randomized one
+  - title: /go/webhook-tester
+    link: https://github.com/tarampampam/webhook-tester
+    gitHubRepo: tarampampam/webhook-tester
+    description: Allows you to easily test webhooks and other types of HTTP requests
+  - title: /c/mustpl
+    link: https://github.com/tarampampam/mustpl
+    gitHubRepo: tarampampam/mustpl
+    description: Logic-less CLI templating tool
+  - title: /gacts
+    link: https://github.com/gacts
+    description: GitHub actions for all occasions
+  - title: /iddqd-uk
+    link: https://github.com/iddqd-uk
+    description: Infrastructure as a game (pet projects' home)
