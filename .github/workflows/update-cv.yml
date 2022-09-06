@@ -2,6 +2,7 @@ name: update-cv
 
 on:
   workflow_dispatch: {}
+  schedule: [cron: '0 0 */1 * *']
   push:
     branches: [master, main]
     paths: [cv/**, .github/workflows/update-cv.yml]

@@ -1,18 +1,24 @@
-.skill span {
-  font-weight: 600;
-}
+.skill {
+  span {
+    font-weight: 600;
+  }
 
-.skill .percent:after {
-  content: "%";
-}
+  .icon svg {
+    height: 1.3em;
+  }
 
-.skill .bar {
-  border: 2px solid var(--color-border-primary);
-}
+  .percent:after {
+    content: "%";
+  }
 
-.skill .bar > div {
-  height: .7em;
-  margin: 4px;
-  background-color: var(--color-border-primary);
-  -webkit-print-color-adjust: exact;
+  .bar {
+    border: 2px solid var(--color-border-primary);
+
+    & > div {
+      height: .7em;
+      margin: 4px;
+      background-color: var(--color-border-primary);
+      -webkit-print-color-adjust: exact;
+    }
+  }
 }

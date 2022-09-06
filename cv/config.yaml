@@ -3,10 +3,19 @@ noChmod: true # Don’t sync permission mode of files
 noTimes: true # Don’t sync modification time of files
 disableHugoGeneratorInject: true
 
+caches:
+  getJson: {maxAge: 6h}
+  getResource: {maxAge: 6h}
+
 enableRobotsTXT: true
 disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm', 'section', 'term']
 
 params:
+  keywords:
+    - tarampampam
+    - cv
+  description: Tarampampam's CV
+  #analytics: {google: {SiteVerificationTag: 'change-me'}}
   formspree:
     url: https://formspree.io/f/mqkjavza
 

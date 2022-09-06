@@ -2,23 +2,23 @@
   margin-top: 2rem;
   padding-top: 4rem;
   background-image: linear-gradient(180.7deg, var(--color-bg-primary) 10%, var(--color-bg-light) 10.5%);
-}
 
-.contact textarea,
-.contact textarea:focus,
-.contact textarea::placeholder,
-.contact input,
-.contact input:focus,
-.contact input::placeholder,
-.contact button,
-.contact button:focus {
-  font-weight: 500;
-  background-color: var(--color-bg-primary);
-  color: var(--color-text-primary);
-}
+  textarea,
+  textarea:focus,
+  textarea::placeholder,
+  input,
+  input:focus,
+  input::placeholder,
+  button,
+  button:focus {
+    font-weight: 500;
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+  }
 
-.contact button .icon svg {
-  height: 1.3em;
+  button .icon svg {
+    height: 1.3em;
+  }
 }
 
 @media print {

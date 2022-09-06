@@ -1,6 +1,7 @@
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
 <link rel="preconnect" href="https://fonts.bunny.net/" crossorigin>
 
@@ -11,6 +12,24 @@
 <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#3a3a3a">
 <meta name="theme-color" content="#ffffff">
+
+{{- if .IsHome }}
+{{ with .Site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
+{{- else }}
+<meta name="keywords" content="{{ if .Params.keywords -}}
+    {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
+    {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
+{{- end }}
+
+<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
+    {{- .Summary | default (printf "%s - %s" .Title .Site.Title) }}{{- else }}
+{{- with .Site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
+
+<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
+
+{{- if site.Params.analytics.google.SiteVerificationTag }}
+<meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}">
+{{- end }}
 
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/opengraph.html" . }}

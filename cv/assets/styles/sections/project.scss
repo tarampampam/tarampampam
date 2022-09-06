@@ -1,13 +1,16 @@
-.project {
-  margin-bottom: 1.5rem;
-}
+.projects {
+  .project {
+    margin-bottom: 1.5rem;
 
-.project picture img {
-  height: 1.3em;
-}
+    .stargazers {
+      font-size: .7em;
+      font-weight: 600;
+      padding-left: .5em;
 
-@media print {
-  .projects {
-    display: none;
+      .icon svg {
+        height: 1.1em;
+        margin-bottom: .15em;
+      }
+    }
   }
 }

@@ -1,23 +1,24 @@
-.about-me > .container {
-  padding-top: 13vh;
-}
+.about-me {
+  & > .container {
+    padding-top: 13vh;
+  }
 
-.about-me .content p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
+  .content p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 
-.about-me .photo {
-  filter: grayscale(100%);
-  transition: all linear .3s;
-}
+  .alt-languages {
+    .icon svg {
+      height: 1.3em;
+    }
+  }
 
-.about-me .photo:hover {
-  filter: grayscale(0%);
-}
-
-.about-me .icon svg {
-  height: 3em;
+  .extra {
+    .icon svg {
+      height: 3em;
+    }
+  }
 }
 
 @media print {

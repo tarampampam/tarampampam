@@ -38,7 +38,14 @@
           {{ range .Site.Data.skills.items }}
           <div class="pb-4">
             <div class="d-flex">
-              <span class="flex-fill">{{ .title }}</span>
+              <span class="flex-fill">{{- if .icon }}
+                {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) -}}
+                {{- if $iconFile -}}
+                <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
+                {{- else -}}
+                {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
+                {{- end -}}
+              {{ end -}}{{ .title }}</span>
               <span class="flex-fill text-end percent">{{ .progress | default 0 }}</span>
             </div>
             <div class="rounded-pill mt-2 bar">
@@ -61,13 +68,15 @@
             <h4 class="mb-2">
               <a href="{{ .link }}" target="_blank">{{ .title }}</a>
               {{- if .gitHubRepo }}
-              <picture>
-                <source
-                  srcset="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=2f2f2f&labelColor=2f2f2f&label=%E2%AD%90&style=flat-square"
-                  media="(prefers-color-scheme: dark)">
-                <img alt="stargazers" height="30px"
-                     src="https://img.shields.io/github/stars/{{ .gitHubRepo }}?color=fff&labelColor=fff&label=%E2%AD%90&style=flat-square">
-              </picture>
+              {{- with getJSON (printf "https://api.github.com/repos/%s" .gitHubRepo) -}}
+              {{ with .Err }}
+              {{ warnf "%s" . }}
+              {{- else -}}
+              <span class="stargazers">
+                <span class="icon">{{ (resources.Get "icons/star.svg").Content | safeHTML }}</span> {{ .stargazers_count }}
+              </span>
+              {{- end -}}
+              {{- end -}}
               {{- end }}
             </h4>
             {{ .description }}

@@ -11,14 +11,13 @@
 
         {{ if .IsTranslated }}
         <div class="alt-languages fw-semibold">
+          <span class="icon">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
           {{ i18n "translations.also-available-in" }}
-          {{ range .Translations }}
-            <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>
-          {{ end }}
+          {{- range .Translations }} <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>{{- end -}} .
         </div>
         {{ end }}
       </div>
-      <div class="col-lg-5 col-sm-5">
+      <div class="extra col-lg-5 col-sm-5 pt-4 pt-sm-0">
         <h2 class="text-uppercase">Contacts & Links</h2>
 
         <span class="icon">{{ (resources.Get "icons/habr.svg").Content | safeHTML }}</span>
