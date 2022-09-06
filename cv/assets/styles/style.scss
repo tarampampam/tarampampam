@@ -7,8 +7,41 @@ body {
   color: var(--color-text-primary);
 }
 
-a, a:hover {
-  color: var(--color-text-primary);
+//a, a:hover {
+//  color: var(--color-text-primary);
+//}
+
+a {
+  $underline-width: .13em;
+
+  &, &:hover {
+    color: var(--color-text-primary);
+  }
+
+  &:not(.no-underline) {
+    border-bottom: $underline-width solid var(--color-text-primary);
+    transition: 150ms linear;
+    position: relative;
+    text-decoration: none;
+
+    &:before {
+      content: "";
+      display: block;
+      width: 100%;
+      height: $underline-width;
+      background-color: var(--color-text-light);
+      position: absolute;
+      left: 0;
+      bottom: -$underline-width;
+      transform-origin: left;
+      transform: scale(0);
+      transition: 150ms linear;
+    }
+
+    &:hover:before {
+      transform: scale(1);
+    }
+  }
 }
 
 h1, h2, h3 {

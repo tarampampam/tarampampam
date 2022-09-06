@@ -7,7 +7,7 @@
     position: relative;
     border-left: 2px solid var(--color-border-primary);
     padding-left: 30px;
-    padding-bottom: 3rem;
+    padding-bottom: 2.3rem;
 
     &:last-child {
       padding-bottom: 0;
@@ -43,6 +43,10 @@
     .content {
       padding-top: .7em;
       padding-bottom: .7em;
+
+      p {
+        margin-bottom: 0;
+      }
 
       ul {
         padding-left: 1em;

@@ -1,6 +1,6 @@
 <section>
   <div class="container col-lg-12 col-xl-10 col-xxl-8">
-    <div class="row">
+    <div class="row justify-content-between">
       <div class="col-12 col-lg-7 experience">
         <h3 class="pb-5 text-uppercase">{{ i18n "experience.experience" }}</h3>
         <ul class="list list-unstyled ps-1">
@@ -31,10 +31,10 @@
           {{- end }}
         </ul>
       </div>
-      <div class="col-12 col-lg-5">
+      <div class="col-12 col-lg-4">
         {{ if .Site.Data.skills.items }}
         <div class="skill">
-          <h3 class="text-uppercase pb-5">{{ i18n "skills.skills" }}</h3>
+          <h3 class="text-uppercase pb-5 text-lg-end">{{ i18n "skills.skills" }}</h3>
           {{ range .Site.Data.skills.items }}
           <div class="pb-4">
             <div class="d-flex">
@@ -62,10 +62,10 @@
         {{- end }}
         {{ if .Site.Data.projects.items }}
         <div class="projects">
-          <h3 class="pb-5 text-uppercase">{{ i18n "projects.oss-projects" }}</h3>
+          <h3 class="pb-5 text-uppercase text-lg-end">{{ i18n "projects.oss-projects" }}</h3>
           {{ range .Site.Data.projects.items }}
-          <div class="project">
-            <h4 class="mb-2">
+          <div class="project text-lg-end">
+            <h5 class="mb-2">
               <a href="{{ .link }}" target="_blank">{{ .title }}</a>
               {{- if .gitHubRepo }}
               {{- with getJSON (printf "https://api.github.com/repos/%s" .gitHubRepo) -}}
@@ -78,7 +78,7 @@
               {{- end -}}
               {{- end -}}
               {{- end }}
-            </h4>
+            </h5>
             {{ .description }}
           </div>
           {{- end }}

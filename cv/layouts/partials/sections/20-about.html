@@ -27,7 +27,7 @@
           {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
           {{- if $iconFile -}}
           <div class="align-self-center ps-sm-3 ps-0 pe-3 pe-sm-0">
-            {{- if .link }}<a href="{{ .link }}">{{ end -}}
+            {{- if .link }}<a href="{{ .link }}" class="no-underline">{{ end -}}
             <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
             {{- if .link }}</a>{{ end -}}
           </div>
