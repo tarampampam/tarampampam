@@ -17,7 +17,6 @@ a {
 
   &:not(.no-underline) {
     border-bottom: $underline-width solid var(--color-text-primary);
-    transition: 150ms linear;
     position: relative;
     text-decoration: none;
 
@@ -25,11 +24,11 @@ a {
       content: "";
       display: block;
       width: 100%;
-      height: $underline-width;
-      background-color: var(--color-text-light);
+      height: $underline-width*2;
+      background-color: var(--color-link-underline);
       position: absolute;
       left: 0;
-      bottom: -$underline-width;
+      bottom: -$underline-width*2;
       transform-origin: left;
       transform: scale(0);
       transition: 150ms linear;

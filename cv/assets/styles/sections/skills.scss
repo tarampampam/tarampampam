@@ -17,12 +17,23 @@
 
   .bar {
     border: 2px solid var(--color-border-primary);
+    min-height: 1.3em;
+
+    @keyframes animateBar {
+      0% {transform: scaleX(0); opacity: 0}
+      100% {transform: scaleX(1); opacity: 1}
+    }
 
     & > div {
       height: .7em;
       margin: 4px;
       background-color: var(--color-border-primary);
       -webkit-print-color-adjust: exact;
+
+      animation-name: animateBar;
+      animation-iteration-count: 1;
+      animation-timing-function: ease-in;
+      animation-duration: 150ms;
     }
   }
 }

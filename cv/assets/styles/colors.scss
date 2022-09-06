@@ -10,6 +10,8 @@
   --color-border-primary: #454545;
   --color-border-light: #aaa;
   --color-border-inverted: #fff;
+
+  --color-link-underline: #74bae1;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,5 +27,7 @@
     --color-border-primary: #eaeaea;
     --color-border-light: #666;
     --color-border-inverted: #2f2f2f;
+
+    --color-link-underline: #006da9;
   }
 }
