@@ -1,5 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-est laborum.
+Меня зовут Николай, и я профессионально занимаюсь разработкой программного обеспечения более 10 лет.
+
+Имею глубокие познания в **Go**, **контейнеризации**, лучших практиках разработки **маштабируемых** и **отказоустойчивых** приложений. Кроме того, имею опыт описания и разворачивания **инфраструктуры** как кода (IaC).
+
+Имею богатый опыт работы с различными СУБД ([PostgreSQL](https://www.postgresql.org/)/[MySQL](https://www.mysql.com/), [Redis](https://redis.io/)/[KeyDB](https://docs.keydb.dev/), [ElasticSearch](https://www.elastic.co/)/[ZincSearch](https://zincsearch.com/)), шинами сообщений ([RabbitMQ](https://www.rabbitmq.com/), [Dapr](https://dapr.io/)), и тулингом для тестирования и обеспечения наблюдаемости сервисов. Разработку всегда начинаю (_если это возможно_) со спецификации и описания тестов.
+
+Всё, что связано с инфраструктурой всегда готовлю с помощью [Ansible](https://www.ansible.com/). Своими руками разворачивал "облака" для приложений под управлением [Consul](https://www.consul.io/) + [Nomad](https://www.nomadproject.io/) со всей сопутствующей обвязкой. Выстраивание и оптимизация CI/CD процессов - неотъемлемая часть.
+
+Имею опыт управления командами и выстраивания процессов взаимодействия между различными юнитами в компании. Применял и бутстрапил как Agile, так и WaterFall методологии.
+
+Linux для меня является основной ОС, быстро обучаюсь и разбираюсь в технологиях, с которыми ранее не имел опыта. Из увлечений - практическая стрельба прогулки на свежем воздухе.

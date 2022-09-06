@@ -8,6 +8,10 @@ html, body {
   color: var(--color-text-primary);
 }
 
+code {
+  color: var(--color-text-primary);
+}
+
 a {
   $underline-width: .13em;
 
@@ -16,7 +20,7 @@ a {
   }
 
   &:not(.no-underline) {
-    border-bottom: $underline-width solid var(--color-text-primary);
+    border-bottom: $underline-width solid var(--color-text-light);
     position: relative;
     text-decoration: none;
 
