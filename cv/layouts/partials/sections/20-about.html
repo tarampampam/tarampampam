@@ -10,7 +10,7 @@
         {{ end }}
 
         {{ if .IsTranslated }}
-        <div class="alt-languages opacity-50">
+        <div class="alt-languages fw-semibold">
           {{ i18n "translations.also-available-in" }}
           {{ range .Translations }}
             <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>
@@ -19,8 +19,9 @@
         {{ end }}
       </div>
       <div class="col-lg-5 col-sm-5">
-        {{ $image := .Resources.Get "images/about-me.jpg" }}
-        <img class="img-fluid photo" src="{{ "images/about-me.jpg" | relURL }}">
+        <h2 class="text-uppercase">Contacts & Links</h2>
+
+        <span class="icon">{{ (resources.Get "icons/habr.svg").Content | safeHTML }}</span>
       </div>
     </div>
   </div>

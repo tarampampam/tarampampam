@@ -26,6 +26,10 @@ h1:before, h2:before {
   background: var(--color-text-primary);
 }
 
+.experience, .skill, .projects {
+  padding-top: 4vh;
+}
+
 @import "sections/about";
 @import "sections/experience";
 @import "sections/skills";
