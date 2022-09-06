@@ -17,10 +17,33 @@
         </div>
         {{ end }}
       </div>
-      <div class="extra col-lg-5 col-sm-5 pt-4 pt-sm-0">
-        <h2 class="text-uppercase">Contacts & Links</h2>
+      <div class="extra col-lg-5 col-sm-5 pt-5 pt-sm-0 pb-4 text-sm-end">
+        {{ if .Site.Data.projects.items }}
+        <h2 class="text-uppercase pb-2 pb-sm-4 mb-0 mb-sm-3">{{ i18n "about.contact" }}</h2>
 
-        <span class="icon">{{ (resources.Get "icons/habr.svg").Content | safeHTML }}</span>
+        {{ range .Site.Data.contacts.items }}
+        <div class="d-flex flex-row flex-sm-row-reverse">
+          {{ if .icon }}
+          {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
+          {{- if $iconFile -}}
+          <div class="align-self-center ps-sm-3 ps-0 pe-3 pe-sm-0">
+            {{- if .link }}<a href="{{ .link }}">{{ end -}}
+            <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
+            {{- if .link }}</a>{{ end -}}
+          </div>
+          {{- else -}}
+          {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
+          {{- end -}}
+          {{- end }}
+          <div class="align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}">{{ end -}}{{ .title }}{{- if .link }}</a>{{ end -}}</div>
+        </div>
+        {{- end }}
+
+<!--        <ul class="list-unstyled">-->
+<!--          <li>Habrahabr <span class="icon">{{ (resources.Get "icons/habr.svg").Content | safeHTML }}</span></li>-->
+<!--          <li><span class="icon">{{ (resources.Get "icons/telegram.svg").Content | safeHTML }}</span></li>-->
+<!--        </ul>-->
+        {{- end }}
       </div>
     </div>
   </div>

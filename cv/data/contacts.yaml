@@ -1,0 +1,14 @@
+items:
+  - title: Habrahabr
+    icon: habr
+    link: https://habr.com/users/paramtamtam
+  - title: Telegram
+    icon: telegram
+    link: https://t.me/purumtumtum
+  - title: GitHub
+    icon: github
+    link: https://github.com/tarampampam
+
+  - title: cv@tarampamp.am
+    icon: email
+    link: 'mailto:cv@tarampamp.am'

@@ -4,7 +4,7 @@ project: YetAnotherDeFi
 period: 2022-2022
 link: https://yetanotherdefi.com/
 location: Georgia, Tbilisi
-stack: [YouTrack, Go, GRPC, GitHub Actions, HashiStack, Ansible]
+stack: [YouTrack, Go, GRPC, HashiStack, Ansible, GitHub Actions]
 weight: 50
 ---
 

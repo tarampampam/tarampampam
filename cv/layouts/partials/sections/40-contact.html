@@ -10,11 +10,11 @@
               <textarea class="form-control border-0 py-2" name="message" id="message" rows="5" required
                         placeholder="{{ i18n "contact.your-message" }}"></textarea>
           </div>
-          <div class="form-group col-lg-9 my-2">
+          <div class="form-group col-lg-8 my-2">
             <input class="form-control border-0 py-2" type="email" id="email" name="email" required
                    placeholder="{{ i18n "contact.your-email" }}">
           </div>
-          <div class="form-group col-lg-3 my-2">
+          <div class="form-group col-lg-4 my-2">
             <button class="submit form-control fw-bold border-0 py-2 w-100" type="submit" value="send">
               <span class="icon">{{ (resources.Get "icons/send.svg").Content | safeHTML }}</span> {{ i18n "contact.send" }}
             </button>

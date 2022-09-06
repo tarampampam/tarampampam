@@ -1,4 +1,8 @@
+@import "../variables";
+
 .experience {
+  padding-top: $block-top-offset;
+
   .list > li {
     position: relative;
     border-left: 2px solid var(--color-border-primary);
@@ -39,6 +43,14 @@
     .content {
       padding-top: .7em;
       padding-bottom: .7em;
+
+      ul {
+        padding-left: 1em;
+
+        li {
+          list-style-type: square;
+        }
+      }
     }
   }
 

@@ -6,6 +6,7 @@ translations:
 about:
   know-more: Коротко
   about-me: обо мне
+  contact: Контакты
 
 experience:
   experience: Опыт работы
@@ -17,7 +18,7 @@ projects:
   oss-projects: Проекты
 
 contact:
-  message-me: Написать мне
-  your-message: Ваше сообщение
+  message-me: Написать
+  your-message: Текст сообщения
   your-email: your@email.here
   send: Отправить

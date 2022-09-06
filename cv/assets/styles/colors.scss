@@ -11,9 +11,7 @@
   --color-border-light: #aaa;
   --color-border-inverted: #fff;
 
-  --color-lang-go: #008aad;
-  --color-lang-c: #7c7c7c;
-  --color-lang-js: #dcbc30;
+  --color-link: #61a3ff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,8 +28,6 @@
     --color-border-light: #666;
     --color-border-inverted: #2f2f2f;
 
-    --color-lang-go: #00add8;
-    --color-lang-c: #b4b4b4;
-    --color-lang-js: #f1e05a;
+    --color-link: #61a3ff;
   }
 }

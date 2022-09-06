@@ -15,7 +15,6 @@ params:
     - tarampampam
     - cv
   description: Tarampampam's CV
-  #analytics: {google: {SiteVerificationTag: 'change-me'}}
   formspree:
     url: https://formspree.io/f/mqkjavza
 

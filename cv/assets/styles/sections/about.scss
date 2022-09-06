@@ -15,8 +15,12 @@
   }
 
   .extra {
+    h1:before, h2:before {
+      display: none;
+    }
+
     .icon svg {
-      height: 3em;
+      height: 2em;
     }
   }
 }

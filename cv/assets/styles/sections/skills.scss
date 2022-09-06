@@ -1,4 +1,8 @@
+@import "../variables";
+
 .skill {
+  padding-top: $block-top-offset;
+
   span {
     font-weight: 600;
   }
