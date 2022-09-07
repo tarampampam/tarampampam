@@ -12,13 +12,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update-cv-page:
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: cv
-      url: ${{ steps.deployment.outputs.page_url }}
+  generate-pdf:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -33,17 +27,38 @@ jobs:
         working-directory: ./cv
 
       - run: wkhtmltopdf ./4pdf/index.html ./en.pdf
+
       - run: wkhtmltopdf ./4pdf/ru/index.html ./ru.pdf
+
+      - uses: actions/upload-artifact@v3
+        with: {name: en.pdf, path: ./en.pdf, retention-days: 1}
+
+      - uses: actions/upload-artifact@v3
+        with: {name: ru.pdf, path: ./ru.pdf, retention-days: 1}
+
+      - {uses: actions/deploy-pages@v1, id: deployment}
+
+  update-cv-page:
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: cv
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: [generate-pdf]
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: peaceiris/actions-hugo@v2
+        with: {hugo-version: 0.101.0, extended: true}
 
       - run: hugo --minify --baseURL "https://tarampamp.am/" -d ./dist
         working-directory: ./cv
 
-      - run: mv ./en.pdf ./cv/dist/cv.pdf
-      - run: mv ./ru.pdf ./cv/dist/ru/cv.pdf
-
       - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
 
-      - uses: actions/upload-artifact@main
+      - uses: actions/upload-artifact@v3
         with:
           name: github-pages # don't change this
           path: ${{ runner.temp }}/artifact.tar
