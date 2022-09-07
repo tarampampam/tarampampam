@@ -23,7 +23,7 @@ jobs:
       - run: sudo apt install wkhtmltopdf # https://wkhtmltopdf.org/
 
       - run: hugo --minify -d ./../4pdf
-        env: {HUGO_RELATIVEURLS: true}
+        env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
         working-directory: ./cv
 
       - run: wkhtmltopdf ./4pdf/index.html ./en.pdf
@@ -35,8 +35,6 @@ jobs:
 
       - uses: actions/upload-artifact@v3
         with: {name: ru.pdf, path: ./ru.pdf, retention-days: 1}
-
-      - {uses: actions/deploy-pages@v1, id: deployment}
 
   update-cv-page:
     permissions:
@@ -55,6 +53,14 @@ jobs:
 
       - run: hugo --minify --baseURL "https://tarampamp.am/" -d ./dist
         working-directory: ./cv
+
+      - uses: actions/download-artifact@v3
+        with: {name: en.pdf, path: ./cv/dist}
+
+      - uses: actions/download-artifact@v3
+        with: {name: ru.pdf, path: ./cv/dist/ru}
+
+      - run: ls -l ./cv/dist ./cv/dist/ru
 
       - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
 
