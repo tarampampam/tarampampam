@@ -26,6 +26,8 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with: {hugo-version: 0.101.0, extended: true}
 
+      - run: sudo apt install wkhtmltopdf
+
       - run: hugo --minify --environment production --baseURL "https://tarampamp.am/" -d ./dist
         working-directory: ./cv
 

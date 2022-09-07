@@ -44,13 +44,16 @@ a {
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -.035em;
+}
+
 h1, h2, h3 {
   position: relative;
   font-weight: 700;
-  letter-spacing: 2px;
 }
 
-h1:before, h2:before {
+h1:before {
   content: "";
   position: absolute;
   left: 0;
