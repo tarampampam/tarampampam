@@ -5,15 +5,18 @@
 
   textarea,
   textarea:focus,
-  textarea::placeholder,
   input,
   input:focus,
-  input::placeholder,
   button,
   button:focus {
     font-weight: 500;
     background-color: var(--color-bg-primary);
     color: var(--color-text-primary);
+  }
+
+  textarea::placeholder,
+  input::placeholder {
+    color: var(--color-text-light);
   }
 
   button .icon svg {

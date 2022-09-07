@@ -11,6 +11,8 @@ enableRobotsTXT: true
 disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm', 'section', 'term']
 
 params:
+  googleAnalytics: G-5SHWL5FG06
+  noindex: true
   keywords:
     - tarampampam
     - cv

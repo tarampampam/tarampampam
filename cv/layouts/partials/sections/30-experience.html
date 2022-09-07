@@ -1,7 +1,7 @@
-<section>
+<section class="experience">
   <div class="container col-lg-12 col-xl-10 col-xxl-8">
     <div class="row justify-content-between">
-      <div class="col-12 col-lg-7 experience">
+      <div class="col-12 col-lg-7 working-experience">
         <h3 class="pb-5 text-uppercase">{{ i18n "experience.experience" }}</h3>
         <ul class="list list-unstyled ps-1">
           {{ range sort (where .Site.Pages "Section" "experience") "Weight" "desc" }}
@@ -20,7 +20,7 @@
             </div>
             {{ if .Params.stack }}
             <ul class="list-inline">
-              <li class="list-inline-item">Stack:</li>
+              <li class="list-inline-item">{{ i18n "experience.stack" }}:</li>
               {{- range .Params.stack }}
               <li class="list-inline-item"><span class="badge">{{ . }}</span></li>
               {{- end -}}

@@ -32,7 +32,16 @@
 }
 
 @media print {
-  .about-me .alt-languages {
-    display: none !important;
+  .about-me {
+    & > .container {
+      margin-left: 10%;
+      margin-right: 5%;
+      width: 85%;
+      max-width: 85%;
+    }
+
+    .alt-languages {
+      display: none !important;
+    }
   }
 }

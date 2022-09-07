@@ -1,66 +1,79 @@
 @import "../variables";
 
 .experience {
-  padding-top: $block-top-offset;
+  .working-experience {
+    padding-top: $block-top-offset;
 
-  .list > li {
-    position: relative;
-    border-left: 2px solid var(--color-border-primary);
-    padding-left: 30px;
-    padding-bottom: 2.3rem;
-
-    &:last-child {
-      padding-bottom: 0;
-    }
-
-    &:after {
-      position: absolute;
-      top: 0;
-      left: -.69em;
-      width: 1.2em;
-      height: 1.2em;
-      border-radius: 50%;
-      border: 2px solid;
-      background: var(--color-border-inverted);
-      content: '';
-      transition: background-color 300ms;
-    }
-
-    &:hover:after {
-      background: var(--color-border-primary);
-    }
-
-    h4 {
+    .list > li {
       position: relative;
-      top: -.15em;
-      font-weight: 600;
-    }
+      border-left: 2px solid var(--color-border-primary);
+      padding-left: 30px;
+      padding-bottom: 2.3rem;
 
-    span, .data {
-      font-weight: 600;
-    }
-
-    .content {
-      padding-top: .7em;
-      padding-bottom: .7em;
-
-      p {
-        margin-bottom: 0;
+      &:last-child {
+        padding-bottom: 0;
       }
 
-      ul {
-        padding-left: 1em;
+      &:after {
+        position: absolute;
+        top: 0;
+        left: -.69em;
+        width: 1.2em;
+        height: 1.2em;
+        border-radius: 50%;
+        border: 2px solid;
+        background: var(--color-border-inverted);
+        content: '';
+        transition: background-color 300ms;
+      }
 
-        li {
-          list-style-type: square;
+      &:hover:after {
+        background: var(--color-border-primary);
+      }
+
+      h4 {
+        position: relative;
+        top: -.15em;
+        font-weight: 600;
+      }
+
+      span, .data {
+        font-weight: 600;
+      }
+
+      .content {
+        padding-top: .7em;
+        padding-bottom: .7em;
+
+        p {
+          margin-bottom: 0;
+        }
+
+        ul {
+          padding-left: 1em;
+
+          li {
+            list-style-type: square;
+          }
         }
       }
     }
-  }
 
-  .list .badge {
-    font-size: .85em;
-    background-color: var(--color-bg-light);
-    color: var(--color-text-primary);
+    .list .badge {
+      font-size: .85em;
+      background-color: var(--color-bg-light);
+      color: var(--color-text-primary);
+    }
+  }
+}
+
+@media print {
+  .experience {
+    & > .container {
+      margin-left: 10%;
+      margin-right: 5%;
+      width: 85%;
+      max-width: 85%;
+    }
   }
 }

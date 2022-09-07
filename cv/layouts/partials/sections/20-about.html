@@ -38,11 +38,6 @@
           <div class="align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}" target="_blank">{{ end -}}{{ .title }}{{- if .link }}</a>{{ end -}}</div>
         </div>
         {{- end }}
-
-<!--        <ul class="list-unstyled">-->
-<!--          <li>Habrahabr <span class="icon">{{ (resources.Get "icons/habr.svg").Content | safeHTML }}</span></li>-->
-<!--          <li><span class="icon">{{ (resources.Get "icons/telegram.svg").Content | safeHTML }}</span></li>-->
-<!--        </ul>-->
         {{- end }}
       </div>
     </div>
