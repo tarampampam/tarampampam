@@ -26,15 +26,17 @@ jobs:
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
         working-directory: ./cv
 
-      - run: wkhtmltopdf ./4pdf/index.html ./en.pdf
-
-      - run: wkhtmltopdf ./4pdf/ru/index.html ./ru.pdf
+      - run: wkhtmltopdf ./4pdf/index.html ./cv.pdf
 
       - uses: actions/upload-artifact@v3
-        with: {name: en.pdf, path: ./en.pdf, retention-days: 1}
+        with: {name: cv-en.pdf, path: ./cv.pdf, retention-days: 1}
+
+      - run: rm -v ./cv.pdf
+
+      - run: wkhtmltopdf ./4pdf/ru/index.html ./cv.pdf
 
       - uses: actions/upload-artifact@v3
-        with: {name: ru.pdf, path: ./ru.pdf, retention-days: 1}
+        with: {name: cv-ru.pdf, path: ./cv.pdf, retention-days: 1}
 
   update-cv-page:
     permissions:
@@ -55,12 +57,12 @@ jobs:
         working-directory: ./cv
 
       - uses: actions/download-artifact@v3
-        with: {name: en.pdf, path: ./cv/dist}
+        with: {name: cv-en.pdf, path: ./cv/dist}
 
       - uses: actions/download-artifact@v3
-        with: {name: ru.pdf, path: ./cv/dist/ru}
+        with: {name: cv-ru.pdf, path: ./cv/dist/ru}
 
-      - run: ls -l ./cv/dist ./cv/dist/ru
+      - run: ls -l ./cv/dist/cv.pdf ./cv/dist/ru/cv.pdf
 
       - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
 
