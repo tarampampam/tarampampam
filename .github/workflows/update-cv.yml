@@ -28,8 +28,17 @@ jobs:
 
       - run: sudo apt install wkhtmltopdf
 
+      - run: hugo --minify --environment production -d ./../4pdf
+        working-directory: ./cv
+
+      - run: wkhtmltopdf ./4pdf/index.html ./en.pdf
+      - run: wkhtmltopdf ./4pdf/ru/index.html ./ru.pdf
+
       - run: hugo --minify --environment production --baseURL "https://tarampamp.am/" -d ./dist
         working-directory: ./cv
+
+      - run: mv ./en.pdf ./cv/dist/cv.pdf
+      - run: mv ./ru.pdf ./cv/dist/ru/cv.pdf
 
       - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
 
