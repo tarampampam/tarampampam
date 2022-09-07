@@ -26,14 +26,14 @@ jobs:
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
         working-directory: ./cv
 
-      - run: wkhtmltopdf ./4pdf/index.html ./cv.pdf
+      - run: wkhtmltopdf --lowquality ./4pdf/index.html ./cv.pdf
 
       - uses: actions/upload-artifact@v3
         with: {name: cv-en.pdf, path: ./cv.pdf, retention-days: 1}
 
       - run: rm -v ./cv.pdf
 
-      - run: wkhtmltopdf ./4pdf/ru/index.html ./cv.pdf
+      - run: wkhtmltopdf --lowquality ./4pdf/ru/index.html ./cv.pdf
 
       - uses: actions/upload-artifact@v3
         with: {name: cv-ru.pdf, path: ./cv.pdf, retention-days: 1}
