@@ -20,20 +20,28 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with: {hugo-version: 0.101.0, extended: true}
 
-      - run: sudo apt install wkhtmltopdf # https://wkhtmltopdf.org/
+      - run: sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
 
       - run: hugo --minify -d ./../4pdf
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
         working-directory: ./cv
 
-      - run: wkhtmltopdf --lowquality ./4pdf/index.html ./cv.pdf
+      - run: wkhtmltopdf --lowquality ./4pdf/index.html ./cv-uncompressed.pdf
+
+      - run: |
+          gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
+            -sOutputFile=./cv.pdf ./cv-uncompressed.pdf
 
       - uses: actions/upload-artifact@v3
         with: {name: cv-en.pdf, path: ./cv.pdf, retention-days: 1}
 
-      - run: rm -v ./cv.pdf
+      - run: rm -v ./cv-uncompressed.pdf ./cv.pdf
 
-      - run: wkhtmltopdf --lowquality ./4pdf/ru/index.html ./cv.pdf
+      - run: wkhtmltopdf --lowquality ./4pdf/ru/index.html ./cv-uncompressed.pdf
+
+      - run: |
+          gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
+            -sOutputFile=./cv.pdf ./cv-uncompressed.pdf
 
       - uses: actions/upload-artifact@v3
         with: {name: cv-ru.pdf, path: ./cv.pdf, retention-days: 1}
