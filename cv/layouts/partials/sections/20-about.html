@@ -1,7 +1,7 @@
 {{ $about := .Site.GetPage "about" }}
 
 <section class="about-me">
-  <div class="container col-lg-12 col-xl-10 col-xxl-8">
+  <div class="container col-lg-12 col-xl-10 col-xxl-8 mb-2">
     <div class="row">
       <div class="col-lg-8">
         {{ if $about }}
@@ -16,7 +16,7 @@
                {{- if .Site.Params.cvDownload.downloadFileName }}
                  download="{{ .Site.Params.cvDownload.downloadFileName | urlize }}"
                {{- end -}}>
-              <span class="icon">{{ (resources.Get "icons/download.svg").Content | safeHTML }}</span>
+              <span class="icon pe-1">{{ (resources.Get "icons/download.svg").Content | safeHTML }}</span>
               {{ i18n "about.download-cv" }}
             </a>
             {{- end }}
@@ -24,7 +24,7 @@
           <div class="align-self-center">
             {{ if .IsTranslated }}
             <div class="alt-languages fw-semibold">
-              <span class="icon">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
+              <span class="icon pe-1">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
               {{ i18n "translations.also-available-in" }}
               {{- range .Translations }} <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>{{- end -}} .
             </div>
@@ -32,9 +32,9 @@
           </div>
         </div>
       </div>
-      <div class="extra col-lg-4 pt-5 pt-lg-0 pb-4 text-lg-end">
+      <div class="extra col-lg-4 pt-4 mt-3 pt-lg-0 pm-lg-0 pb-1 text-lg-end">
         {{ if .Site.Data.projects.items }}
-        <h2 class="text-uppercase pb-3 mb-0">{{ i18n "about.contact" }}</h2>
+        <h2 class="text-uppercase pb-3 mb-3 mb-lg-0">{{ i18n "about.contact" }}</h2>
 
         {{ range .Site.Data.contacts.items }}
         <div class="d-flex flex-row flex-lg-row-reverse">

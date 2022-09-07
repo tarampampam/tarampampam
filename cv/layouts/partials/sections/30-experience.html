@@ -8,13 +8,14 @@
           {{- if .Params.title }}
           <li>
             <h4 class="my-0">{{ .Params.title }}</h4>
-            <span>{{- if .Params.link -}}
-            <a href="{{ .Params.link }}" rel="nofollow">{{ .Params.project }}</a>
+            {{- if .Params.project -}}<span>{{- if .Params.link -}}
+            <a href="{{ .Params.link }}" rel="nofollow">{{ .Params.project }}</a> &bull;
             {{- else -}}
-            {{- .Params.project -}}
+            {{- .Params.project -}} &bull;
             {{- end -}}</span>
-            {{if .Params.period -}}<span class="data">{{ .Params.period }}</span>{{- end }}
-            {{if .Params.location -}}<span><i class="ti ti-map-pin"></i> {{ .Params.location }}</span>{{- end }}
+            {{- end -}}
+            {{ if .Params.period }} <span class="data">{{ .Params.period }}</span>{{- end }}
+            {{ if .Params.location -}} &bull; <span><i class="ti ti-map-pin"></i> {{ .Params.location }}</span>{{- end }}
             <div class="content">
               {{ .Content }}
             </div>
