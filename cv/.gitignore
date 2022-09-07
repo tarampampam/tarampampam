@@ -2,3 +2,4 @@
 /public
 /dist
 /.hugo_build.lock
+/*.pdf

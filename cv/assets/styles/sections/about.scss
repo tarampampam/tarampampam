@@ -63,5 +63,9 @@
     .alt-languages {
       display: none;
     }
+
+    .extra {
+      padding-bottom: 40px !important; // needed for pdf version
+    }
   }
 }
