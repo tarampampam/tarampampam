@@ -16,6 +16,16 @@
     }
   }
 
+  .download-cv {
+    color: var(--color-text-primary);
+    border-color: var(--color-border-primary);
+
+    .icon svg {
+      height: 1.5em;
+      padding-bottom: .3em;
+    }
+  }
+
   .alt-languages {
     .icon svg {
       height: 1.3em;
@@ -46,8 +56,12 @@
       max-width: 85%;
     }
 
+    .download-cv {
+      display: none;
+    }
+
     .alt-languages {
-      display: none !important;
+      display: none;
     }
   }
 }

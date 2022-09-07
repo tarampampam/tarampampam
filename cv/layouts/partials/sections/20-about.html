@@ -3,30 +3,45 @@
 <section class="about-me">
   <div class="container col-lg-12 col-xl-10 col-xxl-8">
     <div class="row">
-      <div class="col-lg-8 col-sm-8">
+      <div class="col-lg-8">
         {{ if $about }}
         <h1 class="text-uppercase pb-3">{{ i18n "about.about-me" }}</h1>
         <div class="mb-3 content">{{ $about.Content }}</div>
         {{ end }}
-
-        {{ if .IsTranslated }}
-        <div class="alt-languages fw-semibold">
-          <span class="icon">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
-          {{ i18n "translations.also-available-in" }}
-          {{- range .Translations }} <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>{{- end -}} .
+        <div class="d-lg-flex">
+          <div class="align-self-center">
+            {{ if .Site.Params.cvDownload.showButton -}}
+            <a class="btn fw-bold text-nowrap px-4 download-cv me-lg-3 mb-3 mb-lg-0 no-underline"
+               href="{{ printf "%s/%s" (strings.TrimRight "/" .Site.BaseURL) (strings.TrimLeft "/" .Site.Params.cvLink) | safeURL }}"
+               {{- if .Site.Params.cvDownload.downloadFileName }}
+                 download="{{ .Site.Params.cvDownload.downloadFileName | urlize }}"
+               {{- end -}}>
+              <span class="icon">{{ (resources.Get "icons/download.svg").Content | safeHTML }}</span>
+              {{ i18n "about.download-cv" }}
+            </a>
+            {{- end }}
+          </div>
+          <div class="align-self-center">
+            {{ if .IsTranslated }}
+            <div class="alt-languages fw-semibold">
+              <span class="icon">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
+              {{ i18n "translations.also-available-in" }}
+              {{- range .Translations }} <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>{{- end -}} .
+            </div>
+            {{ end }}
+          </div>
         </div>
-        {{ end }}
       </div>
-      <div class="extra col-lg-4 col-sm-4 pt-5 pt-sm-0 pb-4 text-sm-end">
+      <div class="extra col-lg-4 pt-5 pt-lg-0 pb-4 text-lg-end">
         {{ if .Site.Data.projects.items }}
         <h2 class="text-uppercase pb-3 mb-0">{{ i18n "about.contact" }}</h2>
 
         {{ range .Site.Data.contacts.items }}
-        <div class="d-flex flex-row flex-sm-row-reverse">
+        <div class="d-flex flex-row flex-lg-row-reverse">
           {{ if .icon }}
           {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
           {{- if $iconFile -}}
-          <div class="align-self-center ps-sm-3 ps-0 pe-3 pe-sm-0">
+          <div class="align-self-center ps-lg-3 ps-0 pe-3 pe-lg-0">
             {{- if .link }}<a href="{{ .link }}" class="no-underline" target="_blank">{{ end -}}
             <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
             {{- if .link }}</a>{{ end -}}

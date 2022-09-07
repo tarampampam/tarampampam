@@ -37,3 +37,9 @@
     }
   }
 }
+
+@media print {
+  .skill {
+    display: none;
+  }
+}

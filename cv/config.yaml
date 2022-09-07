@@ -13,6 +13,9 @@ googleAnalytics: G-5SHWL5FG06
 
 params:
   noindex: true
+  cvDownload:
+    showButton: true
+    downloadFileName: resume_nick_software_engineer_solution_architect
   keywords:
     - tarampampam
     - cv
@@ -27,8 +30,12 @@ languages:
     languageName: English
     title: Tarampampam's CV
     weight: 10
+    params:
+      cvLink: /cv.pdf
 
   ru:
     languageName: Русский
     title: Резюме
     weight: 5
+    params:
+      cvLink: /ru/cv.pdf

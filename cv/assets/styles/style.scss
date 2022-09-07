@@ -68,3 +68,10 @@ h1:before {
 @import "sections/skills";
 @import "sections/project";
 @import "sections/contact";
+
+@media print {
+  body {
+    padding-top: $block-top-offset;
+  }
+}
+
