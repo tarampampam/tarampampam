@@ -35,25 +35,26 @@
       <div class="extra col-lg-4 pt-4 mt-3 pt-lg-0 pm-lg-0 pb-1 text-lg-end">
         {{ if .Site.Data.projects.items }}
         <h2 class="text-uppercase pb-3 mb-3 mb-lg-0">{{ i18n "about.contact" }}</h2>
-
-        {{ range .Site.Data.contacts.items }}
-        <div class="d-flex flex-row flex-lg-row-reverse">
-          {{ if .icon }}
-          {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
-          {{- if $iconFile -}}
-          <div class="align-self-center ps-lg-3 ps-0 pe-3 pe-lg-0">
-            {{- if .link }}<a href="{{ .link }}" class="no-underline" target="_blank">{{ end -}}
-            <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
-            {{- if .link }}</a>{{ end -}}
-          </div>
-          {{- else -}}
-          {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
-          {{- end -}}
+          <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-1">
+            {{ range .Site.Data.contacts.items }}
+            <div class="d-flex flex-lg-row-reverse">
+              {{ if .icon }}
+              {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
+              {{- if $iconFile -}}
+              <div class="align-self-center ps-lg-3 ps-0 pe-3 pe-lg-0">
+                {{- if .link }}<a href="{{ .link }}" class="no-underline" target="_blank">{{ end -}}
+                <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
+                {{- if .link }}</a>{{ end -}}
+              </div>
+              {{- else -}}
+              {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
+              {{- end -}}
+              {{- end }}
+              <div class="align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}" target="_blank">{{ end -}}{{ .title }}{{- if .link }}</a>{{ end -}}</div>
+            </div>
+            {{- end }}
           {{- end }}
-          <div class="align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}" target="_blank">{{ end -}}{{ .title }}{{- if .link }}</a>{{ end -}}</div>
         </div>
-        {{- end }}
-        {{- end }}
       </div>
     </div>
   </div>

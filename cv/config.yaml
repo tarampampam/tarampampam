@@ -4,8 +4,8 @@ noTimes: true # Don’t sync modification time of files
 disableHugoGeneratorInject: true
 
 caches:
-  getJson: {maxAge: 6h}
-  getResource: {maxAge: 6h}
+  getJson: {dir: ':resourceDir/_cache', maxAge: 6h}
+  getResource: {dir: ':resourceDir/_cache', maxAge: 6h}
 
 enableRobotsTXT: true
 disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm', 'section', 'term']
