@@ -2,7 +2,7 @@
 
 .about-me {
   & > .container {
-    padding-top: 9vh;
+    padding-top: 70pt;
   }
 
   .content {
@@ -54,6 +54,7 @@
       margin-right: 5%;
       width: 85%;
       max-width: 85%;
+      padding-top: 30pt; // for pdf
     }
 
     .download-cv {
@@ -65,7 +66,10 @@
     }
 
     .extra {
-      padding-bottom: 40px !important; // needed for pdf version
+      .row > * { // copy-paste bootstrap `row-cols-sm-2` rule
+        flex: 0 0 auto;
+        width: 50%;
+      }
     }
   }
 }
