@@ -47,14 +47,18 @@
                 {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
                 {{- end -}}
               {{ end -}}{{ .title }}</span>
+              {{ if .progressText }}
+              <span class="flex-fill text-end">{{ .progressText }}</span>
+              {{ else }}
               <span class="flex-fill text-end percent">{{ .progress | default 0 }}</span>
+              {{ end }}
             </div>
             <div class="rounded-pill mt-2 bar">
               <div class="rounded-pill" style="width: {{ .progress | default 0 }}%"></div>
             </div>
             {{- if .description }}
             <div class="row pt-2 opacity-75">
-              <p>{{ .description }}</p>
+              <p class="my-0">{{ .description }}</p>
             </div>
             {{- end }}
           </div>

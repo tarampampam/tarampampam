@@ -1,4 +1,9 @@
 items:
+  ## Full example
+  #- title: Any title
+  #  progress: 56
+  #  progressText: Good
+  #  description: Foo bar
   - title: Go (Golang)
     progress: 90
   - title: Docker
@@ -9,4 +14,3 @@ items:
     progress: 55
   - title: NodeJS / VueJS
     progress: 45
-    #description: Foo bar
