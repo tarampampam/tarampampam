@@ -24,10 +24,11 @@ start: ## Start local hugo live server
 		--port 1313 \
 		--bind 0.0.0.0
 
-pdf: ## Generate PDF files
-	docker run $(RUN_ARGS) -e "HUGO_RELATIVEURLS=true" -e "HUGO_GOOGLEANALYTICS=" $(HUGO_IMAGE) --minify -d ./4pdf
-	wkhtmltopdf --lowquality ./4pdf/ru/index.html ./cv.pdf
-	-rm -R ./4pdf
+build: ## Build static site
+	docker run $(RUN_ARGS) -e "HUGO_RELATIVEURLS=true" -e "HUGO_GOOGLEANALYTICS=" $(HUGO_IMAGE) --minify -d ./dist
+
+pdf: build ## Generate PDF files
+	wkhtmltopdf --lowquality ./dist/ru/index.html ./cv.pdf
 
 clean: ## Make some clean
-	-rm -R ./public ./resources ./.hugo_build.lock
+	-rm -R ./dist ./public ./resources ./.hugo_build.lock

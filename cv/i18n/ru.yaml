@@ -3,6 +3,12 @@ translations:
   en: английском языке
   ru: русском языке
 
+years:
+  one: 'год'
+  few: 'года'
+  many: 'лет'
+  other: 'лет'
+
 about:
   about-me: Обо мне
   contact: Контакты

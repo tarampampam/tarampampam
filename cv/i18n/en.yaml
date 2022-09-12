@@ -3,6 +3,10 @@ translations:
   en: english language
   ru: russian language
 
+years:
+  one: 'year'
+  other: 'years'
+
 about:
   about-me: About me
   contact: Contacts
