@@ -1,0 +1,11 @@
+{{- /* How to use: `{{< age year=1978 month=11 day=3 >}}` */ -}}
+
+{{- $date := printf "%04d-%02d-%02d"
+  (int (.Get "year"))
+  (int (.Get "month" | default 1))
+  (int (.Get "day" | default 1)) | time.AsTime -}}
+
+{{- $diff := now.Sub $date -}}
+{{- $diffYears := int (div (div $diff.Hours 24) 365) -}}
+
+{{- $diffYears }} {{ i18n "years" $diffYears -}}

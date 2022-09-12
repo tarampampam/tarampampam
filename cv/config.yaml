@@ -8,7 +8,7 @@ caches:
   getResource: {dir: ':resourceDir/_cache', maxAge: 6h}
 
 enableRobotsTXT: true
-disableKinds: ['RSS', 'taxonomy', 'taxonomyTerm', 'section', 'term']
+disableKinds: [RSS, taxonomy, section, term] # page, home, sitemap, robotsTXT, 404
 googleAnalytics: G-5SHWL5FG06
 
 params:

@@ -45,6 +45,14 @@
         padding-top: .7em;
         padding-bottom: .7em;
 
+        p, ul {
+          padding-bottom: .7em;
+
+          &:last-child {
+            padding-bottom: 0;
+          }
+        }
+
         p {
           margin-bottom: 0;
         }
