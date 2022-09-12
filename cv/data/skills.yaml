@@ -14,3 +14,5 @@ items:
     progress: 55
   - title: NodeJS / VueJS
     progress: 45
+  - title: Team management
+    progress: 60

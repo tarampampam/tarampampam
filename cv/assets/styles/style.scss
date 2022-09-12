@@ -8,6 +8,21 @@ html, body {
   color: var(--color-text-primary);
 }
 
+body {
+  section {
+    transition: visibility 0ms, opacity 50ms linear;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  &.loading {
+    section {
+      visibility: hidden;
+      opacity: 0;
+    }
+  }
+}
+
 code {
   color: var(--color-text-primary);
 }
