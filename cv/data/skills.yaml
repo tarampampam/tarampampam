@@ -1,18 +1,19 @@
 items:
   ## Full example
-  #- title: Any title
+  #- title: Any ~~title~~
+  #  icon: email
   #  progress: 56
-  #  progressText: Good
-  #  description: Foo bar
+  #  progressText: Good **level**
+  #  description: Foo _bar_
   - title: Go (Golang)
     progress: 90
   - title: Docker
     progress: 90
   - title: CI/CD
     progress: 75
-  - title: Ansible & Infrastructure
+  - title: Ansible & {{< i18n skills.infrastructure >}}
     progress: 55
   - title: NodeJS / VueJS
     progress: 45
-  - title: Team management
+  - title: '{{< i18n skills.team-management >}}'
     progress: 60

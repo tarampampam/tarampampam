@@ -1,9 +1,9 @@
 items:
   ## Full example
-  #- title: Any title
+  #- title: Any ~~title~~
   #  link: https://example.com/
   #  gitHubRepo: moby/moby
-  #  description: Project description
+  #  description: Project **description**
   - title: /go/error-pages
     link: https://github.com/tarampampam/error-pages
     gitHubRepo: tarampampam/error-pages

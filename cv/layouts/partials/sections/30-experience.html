@@ -46,9 +46,9 @@
                 {{- else -}}
                 {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
                 {{- end -}}
-              {{ end -}}{{ .title }}</span>
+              {{ end -}}{{ .title | markdownify }}</span>
               {{ if .progressText }}
-              <span class="flex-fill text-end">{{ .progressText }}</span>
+              <span class="flex-fill text-end">{{ .progressText | markdownify }}</span>
               {{ else }}
               <span class="flex-fill text-end percent">{{ .progress | default 0 }}</span>
               {{ end }}
@@ -58,7 +58,7 @@
             </div>
             {{- if .description }}
             <div class="row pt-2 opacity-75">
-              <p class="my-0">{{ .description }}</p>
+              <p class="my-0">{{ .description | markdownify }}</p>
             </div>
             {{- end }}
           </div>
@@ -71,7 +71,7 @@
           {{ range .Site.Data.projects.items }}
           <div class="project text-lg-end">
             <h5 class="mb-2">
-              <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+              <a href="{{ .link }}" target="_blank">{{ .title | markdownify }}</a>
               {{- if .gitHubRepo }}
               {{- with getJSON (printf "https://api.github.com/repos/%s" .gitHubRepo) -}}
               {{ with .Err }}
@@ -84,7 +84,7 @@
               {{- end -}}
               {{- end }}
             </h5>
-            {{ .description }}
+            {{ .description | markdownify }}
           </div>
           {{- end }}
         </div>
