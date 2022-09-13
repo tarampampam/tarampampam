@@ -62,5 +62,6 @@
 {{ if .IsTranslated }}
   {{ range .Translations }}
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+  <link rel="prerender" href="{{ .Permalink }}" />
   {{ end }}
 {{ end }}

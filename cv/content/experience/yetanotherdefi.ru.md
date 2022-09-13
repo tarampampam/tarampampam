@@ -1,5 +1,5 @@
 ---
-title: Go разработчик, DevOps, Архитектор
+title: Go разработчик, DevOps
 project: YetAnotherDeFi
 period: 2022-2022
 link: https://yetanotherdefi.com/

@@ -12,4 +12,6 @@
 
 {{- $scripts = $scripts | append (resources.Get "scripts/main.js" | js.Build "main.js") -}}
 
-<script defer src="{{ ($scripts | resources.Concat "combined-scripts.js" | resources.Minify | resources.Fingerprint).Permalink }}"></script>
+{{- $bundle := $scripts | resources.Concat "combined-scripts.js" | resources.Minify | resources.Fingerprint "sha512" -}}
+
+<script defer src="{{ $bundle.Permalink }}" integrity="{{ $bundle.Data.Integrity }}"></script>

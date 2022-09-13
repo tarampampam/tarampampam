@@ -1,5 +1,8 @@
 // This script should be optional, and critical parts of the page should work without it
 
-window.addEventListener('load', (event) => {
+const onLoad = () => {
   document.body.classList.remove('loading');
-});
+}
+
+window.addEventListener('load', onLoad);
+window.setTimeout(onLoad, 3500); // fallback
