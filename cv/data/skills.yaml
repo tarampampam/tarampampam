@@ -16,10 +16,10 @@ items:
     progress: 83
     progressTextAuto: true
   - title: '{{< i18n skills.architecture >}}'
-    progress: 65
+    progress: 70
     progressTextAuto: true
   - title: Ansible & {{< i18n skills.infrastructure >}}
-    progress: 55
+    progress: 50
     progressTextAuto: true
   - title: '{{< i18n skills.team-management >}}'
     progress: 55
