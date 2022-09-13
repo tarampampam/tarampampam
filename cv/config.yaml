@@ -20,7 +20,7 @@ params:
     - tarampampam
     - cv
   description: Tarampampam's CV
-  formspree:
+  formSpree:
     url: https://formspree.io/f/mqkjavza
 
 languageCode: en-us

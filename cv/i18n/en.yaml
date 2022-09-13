@@ -20,6 +20,14 @@ skills:
   skills: Skills
   infrastructure: Infrastructure
   team-management: Team management
+  architecture: Architecture
+  levels:
+    very-high: Very high
+    high: High
+    above-medium: Above medium
+    medium: Medium
+    below-medium: Below medium
+    low: Low
 
 projects:
   my-projects: Projects

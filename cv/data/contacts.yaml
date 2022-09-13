@@ -2,7 +2,7 @@ items:
   - title: cv@tarampamp.am
     icon: email
     link: 'mailto:cv@tarampamp.am'
-  - title: Telegram
+  - title: Telegram {{< icon call-out >}} + {{< icon messages >}}
     icon: telegram
     link: https://t.me/purumtumtum
   - title: GitHub

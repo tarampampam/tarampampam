@@ -26,7 +26,10 @@
             <div class="alt-languages fw-semibold">
               <span class="icon pe-1">{{ (resources.Get "icons/language.svg").Content | safeHTML }}</span>
               {{ i18n "translations.also-available-in" }}
-              {{- range .Translations }} <a href="{{ .Permalink }}">{{ i18n (printf "translations.%s" .Language.Lang) }}</a>{{- end -}} .
+              {{- range $i, $e := .Translations -}}
+                {{- $langName := i18n (printf "translations.%s" $e.Lang) -}}
+                {{ if $i }}, {{ end }} <a href="{{ .Permalink }}">{{ if $langName }}{{ $langName }}{{ else }}{{ $e.Lang }}{{ end }}</a>
+              {{- end -}}.
             </div>
             {{ end }}
           </div>
@@ -41,7 +44,7 @@
               {{ if .icon }}
               {{- $iconFile := resources.GetMatch (printf "icons/%s.svg" .icon) | resources.Minify -}}
               {{- if $iconFile -}}
-              <div class="align-self-center ps-lg-3 ps-0 pe-3 pe-lg-0">
+              <div class="icon-box align-self-center ps-lg-3 ps-0 pe-3 pe-lg-0">
                 {{- if .link }}<a href="{{ .link }}" class="no-underline" target="_blank">{{ end -}}
                 <span class="icon">{{ $iconFile.Content | safeHTML }}</span>
                 {{- if .link }}</a>{{ end -}}
@@ -50,7 +53,7 @@
               {{- errorf "Error: icon '%s.svg' is not found under 'assets/icons' folder" . -}}
               {{- end -}}
               {{- end }}
-              <div class="align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}" target="_blank">{{ end -}}{{ .title }}{{- if .link }}</a>{{ end -}}</div>
+              <div class="text-box align-self-center pb-1 my-2">{{- if .link }}<a href="{{ .link }}" target="_blank">{{ end -}}{{ replace (replace (.title | markdownify) "<p>" "") "</p>" "" | safeHTML }}{{- if .link }}</a>{{ end -}}</div>
             </div>
             {{- end }}
           {{- end }}

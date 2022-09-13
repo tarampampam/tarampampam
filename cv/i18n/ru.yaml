@@ -22,6 +22,14 @@ skills:
   skills: Навыки
   infrastructure: Инфраструктура
   team-management: Управление командой
+  architecture: Архитектура
+  levels:
+    very-high: Очень высокий
+    high: Высокий
+    above-medium: Выше среднего
+    medium: Средний
+    below-medium: Ниже среднего
+    low: Низкий
 
 projects:
   my-projects: Проекты

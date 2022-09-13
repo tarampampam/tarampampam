@@ -3,17 +3,24 @@ items:
   #- title: Any ~~title~~
   #  icon: email
   #  progress: 56
+  #  progressTextAuto: true
   #  progressText: Good **level**
   #  description: Foo _bar_
   - title: Go (Golang)
-    progress: 90
+    progress: 95
+    progressTextAuto: true
   - title: Docker
     progress: 90
+    progressTextAuto: true
   - title: CI/CD
-    progress: 75
+    progress: 83
+    progressTextAuto: true
+  - title: '{{< i18n skills.architecture >}}'
+    progress: 65
+    progressTextAuto: true
   - title: Ansible & {{< i18n skills.infrastructure >}}
     progress: 55
-  - title: NodeJS / VueJS
-    progress: 45
+    progressTextAuto: true
   - title: '{{< i18n skills.team-management >}}'
-    progress: 60
+    progress: 55
+    progressTextAuto: true

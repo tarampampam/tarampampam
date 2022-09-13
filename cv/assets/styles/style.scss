@@ -27,6 +27,10 @@ code {
   color: var(--color-text-primary);
 }
 
+.icon svg {
+  height: 1em;
+}
+
 a {
   $underline-width: .13em;
 

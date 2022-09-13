@@ -41,8 +41,17 @@
       font-weight: 600;
     }
 
-    .icon svg {
-      height: 2em;
+    .text-box {
+      .icon svg {
+        height: 1.1em;
+        padding-bottom: .15em;
+      }
+    }
+
+    .icon-box {
+      .icon svg {
+        height: 2em;
+      }
     }
   }
 }
