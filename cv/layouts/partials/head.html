@@ -37,6 +37,14 @@
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/opengraph.html" . }}
 
+{{- with resources.GetMatch .Site.Params.openGraphImageName -}}{{/* should be about 1200 x 630 pixels */}}
+  {{- $image := . -}}
+  {{- $image := $image.Resize "x630" | resources.Copy (urlize (printf "images/opengraph-%s%s" site.Language.Lang (path.Ext $image))) -}}
+  <meta property="og:image" content="{{ $image.Permalink }}" />
+  <meta property="og:image:width" content="{{ $image.Width }}" />
+  <meta property="og:image:height" content="{{ $image.Height }}" />
+{{- end }}
+
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
 
 {{ $css := slice

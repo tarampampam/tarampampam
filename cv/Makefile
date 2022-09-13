@@ -19,7 +19,6 @@ start: ## Start local hugo live server
 	docker run $(RUN_ARGS) -p 1313:1313 -ti $(HUGO_IMAGE) server \
 		--watch \
 		--logFile /dev/stdout \
-		--environment development \
 		--baseURL 'http://127.0.0.1:1313/' \
 		--port 1313 \
 		--bind 0.0.0.0

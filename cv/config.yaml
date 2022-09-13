@@ -12,13 +12,11 @@ disableKinds: [RSS, taxonomy, section, term] # page, home, sitemap, robotsTXT, 4
 googleAnalytics: G-5SHWL5FG06
 
 params:
-  noindex: true
+  noindex: false
   cvDownload:
     showButton: true
     downloadFileName: resume_nick_software_engineer_solution_architect
-  keywords:
-    - tarampampam
-    - cv
+  keywords: [tarampampam, cv]
   description: Tarampampam's CV
   formSpree:
     url: https://formspree.io/f/mqkjavza
@@ -32,6 +30,7 @@ languages:
     weight: 10
     params:
       cvLink: /cv.pdf
+      openGraphImageName: opengraph-en.png
 
   ru:
     languageName: Русский
@@ -39,3 +38,4 @@ languages:
     weight: 5
     params:
       cvLink: /ru/cv.pdf
+      openGraphImageName: opengraph-ru.png
