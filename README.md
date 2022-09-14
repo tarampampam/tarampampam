@@ -2,21 +2,16 @@
   <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
 </p>
 
-<p align="center">
-  🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; <img src="https://habrastorage.org/webt/jz/7w/uj/jz7wujkypc2dfrijkkfwqy5_up0.png" width="18" alt="ru" /> Привет Хабаровск!<br />
-  Freedom for political prisoners!
-</p>
+
 
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/blog](https://github.com/iddqd-uk/blog) - :green_book: Blog with discussions, hosted on github (3 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (today)
 - [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (4 days ago)
-- [Annsh21/portfolio](https://github.com/Annsh21/portfolio) -  (5 days ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (1 week ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
 - [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 week ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,12 +24,12 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v0.4.3](https://github.com/tarampampam/webhook-tester/releases/tag/v0.4.3), today) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
 - [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ([v9.4](https://github.com/vanhauser-thc/thc-hydra/releases/tag/v9.4), 6 days ago) - hydra
 - [laravel/octane](https://github.com/laravel/octane) ([v1.3.1](https://github.com/laravel/octane/releases/tag/v1.3.1), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.85.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.85.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.7.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.7.0), 2 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.9](https://github.com/ktr0731/evans/releases/tag/v0.10.9), 2 weeks ago) - Evans: more expressive universal gRPC client
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.0](https://github.com/tarampampam/mustpl/releases/tag/v0.1.0), 2 weeks ago) - 🧰 Logic-less CLI templating tool
 
 #### 🔨 Latest Pull Requests I published
 
