@@ -53,9 +53,9 @@
   (resources.GetRemote "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css")
   ((resources.Get "styles/main.scss") | resources.ToCSS) -}}
 
-{{- $bundleCSS := $css | resources.Concat "styles.css" | resources.Minify | resources.Fingerprint "sha512" -}}
+{{- $bundleCSS := $css | resources.Concat "styles.css" | resources.Minify -}}
 
-<link rel="stylesheet" href="{{ $bundleCSS.Permalink }}" integrity="{{ $bundleCSS.Data.Integrity }}">
+<link rel="stylesheet" href="{{ $bundleCSS.Permalink }}?v={{ md5 ($bundleCSS.Content) }}">
 
 {{ $deferredCSS := slice
   "https://fonts.bunny.net/css2?family=Raleway:wght@400;500;600;700&display=swap" }}
