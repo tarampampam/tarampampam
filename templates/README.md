@@ -2,16 +2,16 @@
   <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
 </p>
 
-<p align="center">
+<!--p align="center">
   🇺🇦 Слава Україні! &nbsp; <img src="https://hsto.org/webt/tb/uu/ou/tbuuougi5fsyvtgkztz38luf3sw.png" width="14" alt="bel" /> Жыве Беларусь! &nbsp; <img src="https://habrastorage.org/webt/jz/7w/uj/jz7wujkypc2dfrijkkfwqy5_up0.png" width="18" alt="ru" /> Привет Хабаровск!<br />
   Freedom for political prisoners!
-</p>
+</p-->
 
 #### 👷 Check out what I'm currently working on
 
-{{ range recentContributions 7 }}{{ if ne .Repo.Name "hook-sh/blog" }}
+{{ range recentContributions 7 }}{{ if ne .Repo.Name "iddqd-uk/blog" }}{{ if ne .Repo.Name "Annsh21/portfolio" }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{- end }}{{- end }}
+{{- end }}{{- end }}{{- end }}
 
 #### 🌱 My latest projects
 
