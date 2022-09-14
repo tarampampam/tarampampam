@@ -1,5 +1,4 @@
 @import "variables";
-@import "colors";
 
 html, body {
   font-family: 'Raleway', sans-serif;
@@ -8,27 +7,8 @@ html, body {
   color: var(--color-text-primary);
 }
 
-body {
-  section {
-    transition: visibility 0ms, opacity 80ms linear;
-    visibility: visible;
-    opacity: 1;
-  }
-
-  &.loading {
-    section {
-      visibility: hidden;
-      opacity: 0;
-    }
-  }
-}
-
 code {
   color: var(--color-text-primary);
-}
-
-.icon svg {
-  height: 1em;
 }
 
 a {

@@ -12,6 +12,8 @@
 
 {{- $scripts = $scripts | append (resources.Get "scripts/main.js" | js.Build "main.js") -}}
 
-{{- $bundle := $scripts | resources.Concat "combined-scripts.js" | resources.Minify | resources.Fingerprint "sha512" -}}
-
-<script defer src="{{ $bundle.Permalink }}" integrity="{{ $bundle.Data.Integrity }}"></script>
+{{- with $scripts | resources.Concat "combined-scripts.js" | resources.Minify | resources.Fingerprint "sha512" }}
+  {{- if gt (len .Content ) 16 -}}
+  <script defer src="{{ .Permalink }}" integrity="{{ .Data.Integrity }}"></script>
+  {{- end -}}
+{{- end }}

@@ -1,0 +1,17 @@
+@import "colors";
+
+body {
+  margin: 10%;
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+
+  a {
+    &, &:hover {
+      color: var(--color-text-primary);
+    }
+  }
+}
+
+.icon svg {
+  height: 1em;
+}
