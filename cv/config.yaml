@@ -9,7 +9,6 @@ caches:
 
 enableRobotsTXT: true
 disableKinds: [RSS, taxonomy, section, term] # page, home, sitemap, robotsTXT, 404
-googleAnalytics: G-5SHWL5FG06
 
 params:
   noindex: false
