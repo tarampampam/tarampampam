@@ -20,7 +20,7 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with: {hugo-version: 0.101.0, extended: true}
 
-      - run: apt update && sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
+      - run: sudo apt update && sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
 
       - run: hugo --minify -d ./../4pdf
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
