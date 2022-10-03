@@ -4,7 +4,7 @@ items:
     link: 'mailto:cv@tarampamp.am'
   - title: Telegram {{< icon call-out >}} + {{< icon messages >}}
     icon: telegram
-    link: https://t.me/purumtumtum
+    link: https://purumtamtam.t.me/
   - title: GitHub
     icon: github
     link: https://github.com/tarampampam
