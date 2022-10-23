@@ -27,13 +27,13 @@
 
 #### 🌱 My latest projects
 
-{{ range recentRepos 4 }}
+{{ range recentRepos 3 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
 #### 🚀 Latest releases I've contributed to
 
-{{ range recentReleases 6 }}
+{{ range recentReleases 4 }}
 - [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent stars
 
-{{ range recentStars 3 }}
+{{ range recentStars 4 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }} ({{ humanize .StarredAt }})
 {{- end }}
 
