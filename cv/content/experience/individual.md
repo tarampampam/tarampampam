@@ -6,6 +6,6 @@ location: Russia, Tyumen
 weight: 20
 ---
 
-- Founded a project for the production of unique sports uniforms (PBPrint), fully automated the process "from order to the ready product"
-- Developed software for workflow automation
-- Maintenance of 1C servers, workstations and connecting remote offices into a single network (using VPN)
+- Founded a project for the production of unique sports uniforms (PBPrint), fully automated the process “from order to the ready product”
+- Developed workflow automation software
+- Maintenaned 1C accounting servers, and workstations, and connect remote offices into a single network (using VPN)
