@@ -19,12 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (5 days ago)
-- [tarampampam/node-docker](https://github.com/tarampampam/node-docker) - :whale: Docker image, based on node, with git, bash, and openssh (1 week ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (3 weeks ago)
-- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (1 month ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 month ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, puppeth, rlpdump) into your actions workflow (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,24 +37,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.86.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.86.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [laravel/octane](https://github.com/laravel/octane) ([v1.3.5](https://github.com/laravel/octane/releases/tag/v1.3.5), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.15.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.15.1), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.0.1](https://github.com/tarampampam/colors/releases/tag/v1.0.1), 5 days ago) - 🦜 One more Go library for using colors in the terminal console
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.2](https://github.com/gacts/install-hurl/releases/tag/v1.0.2), 1 day ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.1](https://github.com/gacts/install-mmock/releases/tag/v1.0.1), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.1.1](https://github.com/gacts/install-nomad/releases/tag/v1.1.1), 1 day ago) - 🚀 Installs nomad binary file into your actions workflow
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.2.1](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.2.1), 1 day ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [rua.js.org](https://github.com/js-org/js.org/pull/7747) on [js-org/js.org](https://github.com/js-org/js.org) (2 days ago)
-- [Fix hover icon text](https://github.com/tarampampam/random-user-agent/pull/371) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 days ago)
-- [Modes toggle redesigned](https://github.com/tarampampam/random-user-agent/pull/369) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 days ago)
-- [Settings toggle for Black\White-List logic fixed](https://github.com/tarampampam/random-user-agent/pull/368) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 days ago)
+- [Alpine-based images building added](https://github.com/tarampampam/curl-docker/pull/19) on [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) (1 day ago)
+- [rua.js.org](https://github.com/js-org/js.org/pull/7747) on [js-org/js.org](https://github.com/js-org/js.org) (3 days ago)
+- [Fix hover icon text](https://github.com/tarampampam/random-user-agent/pull/371) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 days ago)
+- [Modes toggle redesigned](https://github.com/tarampampam/random-user-agent/pull/369) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (5 days ago)
 
 #### ⭐ Recent stars
 
 
-- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (6 days ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (2 weeks ago)
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (1 week ago)
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (3 weeks ago)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
 - [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time (1 month ago)
 
