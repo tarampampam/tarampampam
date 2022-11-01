@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (2 days ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (4 days ago)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 day ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,24 +36,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.0.0](https://github.com/gacts/is-stargazer/releases/tag/v1.0.0), 2 days ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.0), 3 days ago) - 🚀 Installs DNSControl into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.2](https://github.com/gacts/install-hurl/releases/tag/v1.0.2), 4 days ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.1](https://github.com/gacts/install-mmock/releases/tag/v1.0.1), 4 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.0.0](https://github.com/gacts/is-stargazer/releases/tag/v1.0.0), 3 days ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.0), 4 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.2](https://github.com/gacts/install-hurl/releases/tag/v1.0.2), 5 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.1](https://github.com/gacts/install-mmock/releases/tag/v1.0.1), 5 days ago) - 🚀 Installs mmock binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [`tarampampam/free-domains` added](https://github.com/ripienaar/free-for-dev/pull/2672) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 day ago)
-- [Prototype wrote](https://github.com/gacts/is-stargazer/pull/1) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (2 days ago)
-- [Added link to the alternative GitHub action](https://github.com/StackExchange/dnscontrol/pull/1781) on [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) (3 days ago)
-- [Alpine-based images building added](https://github.com/tarampampam/curl-docker/pull/19) on [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) (4 days ago)
+- [Subdomain `is-an.app` added](https://github.com/tarampampam/free-domains/pull/1) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [Added `tarampampam/free-domains`](https://github.com/ripienaar/free-for-dev/pull/2675) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 day ago)
+- [`tarampampam/free-domains` added](https://github.com/ripienaar/free-for-dev/pull/2672) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 days ago)
+- [Prototype wrote](https://github.com/gacts/is-stargazer/pull/1) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (3 days ago)
 
 #### ⭐ Recent stars
 
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (3 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 days ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (4 days ago)
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (1 week ago)
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (3 weeks ago)
 
