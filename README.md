@@ -19,12 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 day ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (today)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 day ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (3 days ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - :scissors: Mikrotik hosts parser (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 day ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,24 +37,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.0.0](https://github.com/gacts/is-stargazer/releases/tag/v1.0.0), 3 days ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.0), 4 days ago) - 🚀 Installs DNSControl into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.2](https://github.com/gacts/install-hurl/releases/tag/v1.0.2), 5 days ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.0.1](https://github.com/gacts/install-mmock/releases/tag/v1.0.1), 5 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.19.0](https://github.com/tarampampam/error-pages/releases/tag/v2.19.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.6](https://github.com/laravel/octane/releases/tag/v1.3.6), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.0.0](https://github.com/gacts/is-stargazer/releases/tag/v1.0.0), 4 days ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.0), 5 days ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Subdomain `is-an.app` added](https://github.com/tarampampam/free-domains/pull/1) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
-- [Added `tarampampam/free-domains`](https://github.com/ripienaar/free-for-dev/pull/2675) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (1 day ago)
-- [`tarampampam/free-domains` added](https://github.com/ripienaar/free-for-dev/pull/2672) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 days ago)
-- [Prototype wrote](https://github.com/gacts/is-stargazer/pull/1) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (3 days ago)
+- [CI updated](https://github.com/tarampampam/free-domains/pull/3) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [Added link to the alternative GitHub action](https://github.com/StackExchange/dnscontrol/pull/1802) on [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) (1 day ago)
+- [Subdomain `is-an.app` added](https://github.com/tarampampam/free-domains/pull/1) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 days ago)
+- [Added `tarampampam/free-domains`](https://github.com/ripienaar/free-for-dev/pull/2675) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (2 days ago)
 
 #### ⭐ Recent stars
 
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 days ago)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (4 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (5 days ago)
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (1 week ago)
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (3 weeks ago)
 
