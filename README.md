@@ -19,13 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (today)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (1 day ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (3 days ago)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (3 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (3 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (4 days ago)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,26 +37,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.0), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.0-beta.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.0-beta.1), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.21.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.21.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.19.0](https://github.com/tarampampam/error-pages/releases/tag/v2.19.0), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.0), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.0-beta.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.0-beta.1), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.21.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.21.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.19.0](https://github.com/tarampampam/error-pages/releases/tag/v2.19.0), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [CI updated](https://github.com/tarampampam/free-domains/pull/3) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
-- [Added link to the alternative GitHub action](https://github.com/StackExchange/dnscontrol/pull/1802) on [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) (3 days ago)
-- [Subdomain `is-an.app` added](https://github.com/tarampampam/free-domains/pull/1) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (4 days ago)
-- [Added `tarampampam/free-domains`](https://github.com/ripienaar/free-for-dev/pull/2675) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (4 days ago)
+- [CI updated](https://github.com/tarampampam/free-domains/pull/3) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (4 days ago)
+- [Added link to the alternative GitHub action](https://github.com/StackExchange/dnscontrol/pull/1802) on [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) (4 days ago)
+- [Subdomain `is-an.app` added](https://github.com/tarampampam/free-domains/pull/1) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (5 days ago)
+- [Added `tarampampam/free-domains`](https://github.com/ripienaar/free-for-dev/pull/2675) on [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) (5 days ago)
 
 #### ⭐ Recent stars
 
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
+- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (1 week ago)
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (2 weeks ago)
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package. (4 weeks ago)
 
 #### 💬 Feedback
 
