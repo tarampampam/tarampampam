@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 days ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (2 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (3 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,26 +36,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.2](https://github.com/gacts/github-slug/releases/tag/v1.2.2), 2 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v4.0.0](https://github.com/tarampampam/tinifier/releases/tag/v4.0.0), 2 days ago) - 🐼 CLI client for images compressing using tinypng.com API
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.0), 4 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.0-beta.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.0-beta.1), 4 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.22.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.22.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.2](https://github.com/gacts/github-slug/releases/tag/v1.2.2), 3 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v4.0.0](https://github.com/tarampampam/tinifier/releases/tag/v4.0.0), 3 days ago) - 🐼 CLI client for images compressing using tinypng.com API
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.0), 5 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix for branch name detection on &#34;delete&#34; event](https://github.com/gacts/github-slug/pull/50) on [gacts/github-slug](https://github.com/gacts/github-slug) (2 days ago)
-- [Oprional original file keeping implemented](https://github.com/tarampampam/tinifier/pull/108) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (2 days ago)
-- [CI updated](https://github.com/tarampampam/free-domains/pull/3) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (6 days ago)
-- [Added link to the alternative GitHub action](https://github.com/StackExchange/dnscontrol/pull/1802) on [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) (6 days ago)
+- [Frontend building](https://github.com/tarampampam/webhook-tester/pull/194) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [Fix for branch name detection on &#34;delete&#34; event](https://github.com/gacts/github-slug/pull/50) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 days ago)
+- [Oprional original file keeping implemented](https://github.com/tarampampam/tinifier/pull/108) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (3 days ago)
+- [CI updated](https://github.com/tarampampam/free-domains/pull/3) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 day ago)
-- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (3 days ago)
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 day ago)
+- [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (2 days ago)
+- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&amp;A community for product technical support, customer support, user communication, and more. (4 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL (1 week ago)
 
 #### 💬 Feedback
 
