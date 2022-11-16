@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (today)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (today)
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (1 day ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (2 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 days ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 day ago)
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (2 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (3 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,25 +36,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.0.0](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.0.0), 2 days ago) - 🚀 Setup a Node environment, additionally enable caching
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.0.0](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.0.0), 2 days ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.0-rc.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.0-rc.1), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.22.1](https://github.com/StackExchange/dnscontrol/releases/tag/v3.22.1), 6 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.8](https://github.com/laravel/octane/releases/tag/v1.3.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v1.0.0](https://github.com/tarampampam/webhook-tester/releases/tag/v1.0.0), 1 day ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.0.0](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.0.0), 3 days ago) - 🚀 Setup a Node environment, additionally enable caching
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.0.0](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.0.0), 3 days ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [CLI interface refactored](https://github.com/tarampampam/webhook-tester/pull/200) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
-- [Openapi in Go](https://github.com/tarampampam/webhook-tester/pull/199) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
-- [Frontend building](https://github.com/tarampampam/webhook-tester/pull/194) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
-- [Fix for branch name detection on &#34;delete&#34; event](https://github.com/gacts/github-slug/pull/50) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
+- [Persist webhook](https://github.com/tarampampam/webhook-tester/pull/202) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [Added code snippets for requests for different programming languages](https://github.com/tarampampam/webhook-tester/pull/201) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [CLI interface refactored](https://github.com/tarampampam/webhook-tester/pull/200) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
+- [Openapi in Go](https://github.com/tarampampam/webhook-tester/pull/199) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
 
 #### ⭐ Recent stars
 
 
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (4 days ago)
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) (5 days ago)
-- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs. (6 days ago)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (5 days ago)
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) (6 days ago)
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs. (1 week ago)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 week ago)
 
 #### 💬 Feedback
