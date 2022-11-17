@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (1 day ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - :telescope: Allows you to easily test webhooks and other types of HTTP requests (1 day ago)
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (2 days ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (3 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (3 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (4 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,24 +36,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.3.8](https://github.com/laravel/octane/releases/tag/v1.3.8), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v1.0.0](https://github.com/tarampampam/webhook-tester/releases/tag/v1.0.0), 1 day ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.0.0](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.0.0), 3 days ago) - 🚀 Setup a Node environment, additionally enable caching
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.0.0](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.0.0), 3 days ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v1.0.1](https://github.com/tarampampam/webhook-tester/releases/tag/v1.0.1), 1 day ago) - :telescope: Allows you to easily test webhooks and other types of HTTP requests
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.8](https://github.com/laravel/octane/releases/tag/v1.3.8), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.0.0](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.0.0), 4 days ago) - 🚀 Setup a Node environment, additionally enable caching
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.0.0](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.0.0), 4 days ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Persist webhook](https://github.com/tarampampam/webhook-tester/pull/202) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
-- [Added code snippets for requests for different programming languages](https://github.com/tarampampam/webhook-tester/pull/201) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
-- [CLI interface refactored](https://github.com/tarampampam/webhook-tester/pull/200) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
-- [Openapi in Go](https://github.com/tarampampam/webhook-tester/pull/199) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
+- [Added head method support for the health check endpoints](https://github.com/tarampampam/webhook-tester/pull/205) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [Persist webhook](https://github.com/tarampampam/webhook-tester/pull/202) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
+- [Added code snippets for requests for different programming languages](https://github.com/tarampampam/webhook-tester/pull/201) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
+- [CLI interface refactored](https://github.com/tarampampam/webhook-tester/pull/200) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 days ago)
 
 #### ⭐ Recent stars
 
 
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (5 days ago)
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) (6 days ago)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (6 days ago)
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) (1 week ago)
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs. (1 week ago)
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator (1 week ago)
 
