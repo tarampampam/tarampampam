@@ -26,7 +26,7 @@ jobs:
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
         working-directory: ./cv
 
-      - run: wkhtmltopdf --lowquality ./4pdf/index.html ./cv-uncompressed.pdf
+      - run: wkhtmltopdf --enable-local-file-access --lowquality ./4pdf/index.html ./cv-uncompressed.pdf
 
       - run: |
           gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
@@ -37,7 +37,7 @@ jobs:
 
       - run: rm -v ./cv-uncompressed.pdf ./cv.pdf
 
-      - run: wkhtmltopdf --lowquality ./4pdf/ru/index.html ./cv-uncompressed.pdf
+      - run: wkhtmltopdf --enable-local-file-access --lowquality ./4pdf/ru/index.html ./cv-uncompressed.pdf
 
       - run: |
           gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
