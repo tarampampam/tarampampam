@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (4 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (5 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (5 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (6 days ago)
 - [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
 
@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 4 days ago) - 🌠 This template generates Go structures as a package for building event-driven applications
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.0), 5 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 5 days ago) - 🌠 This template generates Go structures as a package for building event-driven applications
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.0), 6 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.1), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.23.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.23.0), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Multiple accounts](https://github.com/tarampampam/3proxy-docker/pull/29) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (6 days ago)
+- [Multiple accounts](https://github.com/tarampampam/3proxy-docker/pull/29) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [chore(logo): support dark mode](https://github.com/roadrunner-server/.github/pull/1) on [roadrunner-server/.github](https://github.com/roadrunner-server/.github) (1 week ago)
 - [Docs website](https://github.com/tarampampam/poke/pull/2) on [tarampampam/poke](https://github.com/tarampampam/poke) (2 weeks ago)
 - [feat(ci): Debian package building](https://github.com/tarampampam/poke/pull/1) on [tarampampam/poke](https://github.com/tarampampam/poke) (2 weeks ago)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [asyncapi/parser-go](https://github.com/asyncapi/parser-go) - It parses AsyncAPI documents. (6 days ago)
-- [APIs-guru/asyncapi-directory](https://github.com/APIs-guru/asyncapi-directory) - ⇄ Directory of asynchronous API specifications in AsyncAPI format (6 days ago)
-- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (6 days ago)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (6 days ago)
+- [asyncapi/parser-go](https://github.com/asyncapi/parser-go) - It parses AsyncAPI documents. (1 week ago)
+- [APIs-guru/asyncapi-directory](https://github.com/APIs-guru/asyncapi-directory) - ⇄ Directory of asynchronous API specifications in AsyncAPI format (1 week ago)
+- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (1 week ago)
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (1 week ago)
 
 #### 💬 Feedback
 
