@@ -19,9 +19,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (5 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (5 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (6 days ago)
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
 - [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (1 week ago)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 day ago)
 - [asyncapi/parser-go](https://github.com/asyncapi/parser-go) - It parses AsyncAPI documents. (1 week ago)
 - [APIs-guru/asyncapi-directory](https://github.com/APIs-guru/asyncapi-directory) - ⇄ Directory of asynchronous API specifications in AsyncAPI format (1 week ago)
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (1 week ago)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (1 week ago)
 
 #### 💬 Feedback
 
