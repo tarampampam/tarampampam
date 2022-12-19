@@ -19,9 +19,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (6 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
 - [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (1 week ago)
@@ -38,7 +38,7 @@
 
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 1 week ago) - 🌠 This template generates Go structures as a package for building event-driven applications
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.0), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.1), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.23.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.23.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 day ago)
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (2 days ago)
 - [asyncapi/parser-go](https://github.com/asyncapi/parser-go) - It parses AsyncAPI documents. (1 week ago)
 - [APIs-guru/asyncapi-directory](https://github.com/APIs-guru/asyncapi-directory) - ⇄ Directory of asynchronous API specifications in AsyncAPI format (1 week ago)
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (1 week ago)
