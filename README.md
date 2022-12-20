@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 days ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
-- [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (1 week ago)
+- [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -45,17 +45,17 @@
 
 
 - [Multiple accounts](https://github.com/tarampampam/3proxy-docker/pull/29) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
-- [chore(logo): support dark mode](https://github.com/roadrunner-server/.github/pull/1) on [roadrunner-server/.github](https://github.com/roadrunner-server/.github) (1 week ago)
+- [chore(logo): support dark mode](https://github.com/roadrunner-server/.github/pull/1) on [roadrunner-server/.github](https://github.com/roadrunner-server/.github) (2 weeks ago)
 - [Docs website](https://github.com/tarampampam/poke/pull/2) on [tarampampam/poke](https://github.com/tarampampam/poke) (3 weeks ago)
 - [feat(ci): Debian package building](https://github.com/tarampampam/poke/pull/1) on [tarampampam/poke](https://github.com/tarampampam/poke) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (2 days ago)
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (1 day ago)
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (3 days ago)
 - [asyncapi/parser-go](https://github.com/asyncapi/parser-go) - It parses AsyncAPI documents. (1 week ago)
 - [APIs-guru/asyncapi-directory](https://github.com/APIs-guru/asyncapi-directory) - ⇄ Directory of asynchronous API specifications in AsyncAPI format (1 week ago)
-- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (1 week ago)
 
 #### 💬 Feedback
 
