@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (6 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (1 week ago)
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) - 🌠 This template generates Go structures as a package for building event-driven applications (2 weeks ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
 - [roadrunner-server/.github](https://github.com/roadrunner-server/.github) -  (2 weeks ago)
 
@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 1 week ago) - 🌠 This template generates Go structures as a package for building event-driven applications
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 2 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.0), 2 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.1](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (1 day ago)
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (1 day ago)
-- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (3 days ago)
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (5 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (1 day ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (2 days ago)
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (2 days ago)
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (4 days ago)
 
 #### 💬 Feedback
 
