@@ -36,26 +36,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 2 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.0), 2 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
 - [Multiple accounts](https://github.com/tarampampam/3proxy-docker/pull/29) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 weeks ago)
 - [chore(logo): support dark mode](https://github.com/roadrunner-server/.github/pull/1) on [roadrunner-server/.github](https://github.com/roadrunner-server/.github) (2 weeks ago)
-- [Docs website](https://github.com/tarampampam/poke/pull/2) on [tarampampam/poke](https://github.com/tarampampam/poke) (3 weeks ago)
-- [feat(ci): Debian package building](https://github.com/tarampampam/poke/pull/1) on [tarampampam/poke](https://github.com/tarampampam/poke) (4 weeks ago)
+- [Docs website](https://github.com/tarampampam/poke/pull/2) on [tarampampam/poke](https://github.com/tarampampam/poke) (4 weeks ago)
+- [feat(ci): Debian package building](https://github.com/tarampampam/poke/pull/1) on [tarampampam/poke](https://github.com/tarampampam/poke) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (1 day ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (2 days ago)
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (2 days ago)
-- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (4 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (2 days ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (3 days ago)
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (3 days ago)
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (5 days ago)
 
 #### 💬 Feedback
 
