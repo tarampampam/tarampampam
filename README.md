@@ -36,9 +36,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 2 days ago) - Supercharge your Laravel application&#39;s performance.
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 2 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
 
 #### 🔨 Latest Pull Requests I published
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (2 days ago)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (3 days ago)
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (3 days ago)
-- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (5 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (3 days ago)
+- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL (4 days ago)
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (4 days ago)
+- [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (6 days ago)
 
 #### 💬 Feedback
 
