@@ -19,13 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (2 days ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (2 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
-- [tarampampam/poke](https://github.com/tarampampam/poke) - 👉 A simple and powerful tool for E2E-testing (2 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (2 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (3 days ago)
+- [tarampampam/poke](https://github.com/tarampampam/poke) - 👉 A simple and powerful tool for E2E-testing (3 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,10 +37,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 6 days ago) - Supercharge your Laravel application&#39;s performance.
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.1), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.2), today) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 2 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 3 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -53,10 +53,10 @@
 #### ⭐ Recent stars
 
 
+- [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies (1 day ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (1 week ago)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (1 week ago)
 - [mithrandie/csvq](https://github.com/mithrandie/csvq) - SQL-like query language for csv (1 week ago)
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. (1 week ago)
 
 #### 💬 Feedback
 
