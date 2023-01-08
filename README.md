@@ -39,7 +39,7 @@
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2-alpha.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2-alpha.2), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [laravel/octane](https://github.com/laravel/octane) ([v1.3.10](https://github.com/laravel/octane/releases/tag/v1.3.10), 2 weeks ago) - Supercharge your Laravel application&#39;s performance.
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.87.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.87.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 4 weeks ago) - 🌠 This template generates Go structures as a package for building event-driven applications
+- [spiral/asyncapi-go-template](https://github.com/spiral/asyncapi-go-template) ([v0.1.0](https://github.com/spiral/asyncapi-go-template/releases/tag/v0.1.0), 1 month ago) - 🌠 This template generates Go structures as a package for building event-driven applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 days ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (3 days ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
 - [wader/static-ffmpeg](https://github.com/wader/static-ffmpeg) - Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies (1 week ago)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. (2 weeks ago)
