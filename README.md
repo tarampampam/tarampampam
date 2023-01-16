@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (2 days ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (4 days ago)
-- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - CLI usage docs generator (markdown) (6 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (3 days ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (5 days ago)
+- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - CLI usage docs generator (markdown) (1 week ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
 
@@ -36,25 +36,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.0), 4 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
-- [laravel/octane](https://github.com/laravel/octane) ([v1.4.0](https://github.com/laravel/octane/releases/tag/v1.4.0), 5 days ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) ([v0.1.1](https://github.com/tarampampam/urfave-cli-docs/releases/tag/v0.1.1), 6 days ago) - CLI usage docs generator (markdown)
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2), 4 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.0), 5 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [laravel/octane](https://github.com/laravel/octane) ([v1.4.0](https://github.com/laravel/octane/releases/tag/v1.4.0), 6 days ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) ([v0.1.1](https://github.com/tarampampam/urfave-cli-docs/releases/tag/v0.1.1), 1 week ago) - CLI usage docs generator (markdown)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(ci): GitHub API 403 error fixed](https://github.com/temporalio/sdk-php/pull/277) on [temporalio/sdk-php](https://github.com/temporalio/sdk-php) (2 days ago)
-- [fix: Update RR config &#43; update RR](https://github.com/TechEmpower/FrameworkBenchmarks/pull/7857) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (3 days ago)
-- [chore: Code cleanup](https://github.com/spiral/roadrunner-laravel/pull/112) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (4 days ago)
-- [Laravel 10](https://github.com/spiral/roadrunner-laravel/pull/111) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (4 days ago)
+- [fix(ci): GitHub API 403 error fixed](https://github.com/temporalio/sdk-php/pull/277) on [temporalio/sdk-php](https://github.com/temporalio/sdk-php) (3 days ago)
+- [fix: Update RR config &#43; update RR](https://github.com/TechEmpower/FrameworkBenchmarks/pull/7857) on [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) (4 days ago)
+- [chore: Code cleanup](https://github.com/spiral/roadrunner-laravel/pull/112) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (5 days ago)
+- [Laravel 10](https://github.com/spiral/roadrunner-laravel/pull/111) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (5 days ago)
 
 #### ⭐ Recent stars
 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 day ago)
-- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (2 days ago)
-- [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (4 days ago)
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (2 days ago)
+- [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (3 days ago)
+- [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (5 days ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
 
 #### 💬 Feedback
