@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 days ago)
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (4 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (today)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (today)
+- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (today)
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (5 days ago)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (1 week ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
-- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - CLI usage docs generator (markdown) (1 week ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,23 +36,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.24.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.24.0), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.2](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.2), 1 day ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.24.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.24.0), 6 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.0), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
-- [laravel/octane](https://github.com/laravel/octane) ([v1.4.0](https://github.com/laravel/octane/releases/tag/v1.4.0), 1 week ago) - Supercharge your Laravel application&#39;s performance.
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/72) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/71) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/70) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/69) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
+- [feat: multiarch image](https://github.com/tarampampam/3proxy-docker/pull/31) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/76) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/75) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/72) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (4 days ago)
 
 #### ⭐ Recent stars
 
 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (3 days ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (4 days ago)
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (1 week ago)
 - [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (1 week ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 weeks ago)
