@@ -23,7 +23,7 @@ jobs:
       - run: sudo apt update && sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
 
       - run: hugo --minify -d ./../4pdf
-        env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: ''}
+        env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: '', GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
         working-directory: ./cv
 
       - run: wkhtmltopdf --enable-local-file-access --lowquality ./4pdf/index.html ./cv-uncompressed.pdf
@@ -62,6 +62,7 @@ jobs:
         with: {hugo-version: 0.101.0, extended: true}
 
       - run: hugo --minify --baseURL "https://tarampamp.am/" -d ./dist
+        env: {GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
         working-directory: ./cv
 
       - uses: actions/download-artifact@v3
