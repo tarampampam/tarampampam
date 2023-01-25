@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (1 day ago)
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (6 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
+- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (2 days ago)
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (1 week ago)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (1 week ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,25 +36,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.2](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.2), 2 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.2](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.2), 3 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.24.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.24.0), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2.12.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2.12.2), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.0), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.0](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.0), 2 weeks ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore: Better CLI](https://github.com/tarampampam/error-pages/pull/163) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
-- [feat: multiarch image](https://github.com/tarampampam/3proxy-docker/pull/31) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/76) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/75) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 days ago)
+- [chore: Better CLI](https://github.com/tarampampam/error-pages/pull/163) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
+- [feat: multiarch image](https://github.com/tarampampam/3proxy-docker/pull/31) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (3 days ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/76) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/75) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
 
 #### ⭐ Recent stars
 
 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (5 days ago)
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (6 days ago)
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (1 week ago)
-- [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (1 week ago)
+- [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (2 weeks ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 weeks ago)
 
 #### 💬 Feedback
