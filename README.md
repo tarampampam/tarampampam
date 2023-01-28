@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (4 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (4 days ago)
-- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (4 days ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (5 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (5 days ago)
+- [iddqd-uk/proxy-service](https://github.com/iddqd-uk/proxy-service) - :arrows_clockwise: Proxy service (5 days ago)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (1 week ago)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK (2 weeks ago)
 
@@ -36,25 +36,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.1), 1 day ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.1](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.1), 1 day ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.25.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.25.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.2](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.2), 5 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.1), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.1](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.1), 2 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.25.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.25.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.2](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.2), 6 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix: Strings interpolation for PHP 8.2](https://github.com/spiral/roadrunner-laravel/pull/115) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (1 day ago)
-- [chore: Better CLI](https://github.com/tarampampam/error-pages/pull/163) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
-- [feat: multiarch image](https://github.com/tarampampam/3proxy-docker/pull/31) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (5 days ago)
-- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/76) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (5 days ago)
+- [fix: Strings interpolation for PHP 8.2](https://github.com/spiral/roadrunner-laravel/pull/115) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (2 days ago)
+- [chore: Better CLI](https://github.com/tarampampam/error-pages/pull/163) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
+- [feat: multiarch image](https://github.com/tarampampam/3proxy-docker/pull/31) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (6 days ago)
+- [Update rua.is-an.app.json](https://github.com/tarampampam/free-domains/pull/76) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (6 days ago)
 
 #### ⭐ Recent stars
 
 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. (1 week ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 day ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 day ago)
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (2 weeks ago)
-- [alfg/openencoder](https://github.com/alfg/openencoder) - :movie_camera: Cloud Encoding Platform for FFmpeg. (2 weeks ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (3 weeks ago)
 
 #### 💬 Feedback
