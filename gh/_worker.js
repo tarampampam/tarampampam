@@ -3,7 +3,8 @@
  * @returns {string}
  */
 const redirect = function(where) {
-  const root = 'https://github.com/tarampampam';
+  const currentDomain = 'gh.tarampamp.am';
+  const targetUrl = 'https://github.com/tarampampam';
 
   where = where.replace(/^\/+/g, ''); // trim leading slashes
 
@@ -12,8 +13,9 @@ const redirect = function(where) {
 <head>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="utf-8">
-  <meta name="go-import" content="${root} git ${root}/${where}">
-  <meta http-equiv="refresh" content="0; url=${root}/${where}">
+  <meta name="go-import" content="${currentDomain}/${where} git ${targetUrl}/${where}">
+  <meta name="go-source" content="${currentDomain}/${where} ${targetUrl}/${where} ${targetUrl}/${where}/tree/master{/dir} ${targetUrl}/${where}/blob/master{/dir}/{file}#L{line}">
+  <meta http-equiv="refresh" content="0; url=${targetUrl}/${where}">
   <style>
     :root{--color-bg-primary:#fff;--color-text-primary:#131313}
     .github-logo path{fill:#131313}
@@ -28,7 +30,7 @@ const redirect = function(where) {
   <title>Redirecting</title>
 </head>
 <body>
-<a href="${root}/${where}">
+<a href="${targetUrl}/${where}">
   <svg width="98" height="96" xmlns="http://www.w3.org/2000/svg" class="github-logo">
     <path fill-rule="evenodd" clip-rule="evenodd"
           d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362
