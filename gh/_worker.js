@@ -8,7 +8,7 @@ const versionSuffixRe = /\/v\d+$/m
  */
 const redirect = function (request, githubLink, branchName) {
   const url = new URL(request.url) // eg.: https://example.com/foo
-  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '') // eg.: /foo
+  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo
   const pkgName = url.hostname + path // eg.: example.com/foo
   let pkgSrc = githubLink + path // eg.: https://github.com/user/foo
 
