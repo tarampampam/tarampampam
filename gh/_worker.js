@@ -2,7 +2,7 @@
  * @param {string} where
  * @returns {string}
  */
-const redirect = function(where) {
+const redirect = function (where) {
   const currentDomain = 'gh.tarampamp.am';
   const targetUrl = 'https://github.com/tarampampam';
 
@@ -53,7 +53,8 @@ export default {
   async fetch(request, env) { /** @link https://developers.cloudflare.com/pages/platform/functions/advanced-mode/ */
     return new Response(redirect((new URL(request.url)).pathname), {
       status: 200,
-      headers: { /** @link https://developers.cloudflare.com/pages/platform/functions/examples/cors-headers/ */
+      headers: {
+        /** @link https://developers.cloudflare.com/pages/platform/functions/examples/cors-headers/ */
         'Content-Type': 'text/html; charset=utf-8',
       },
     });
