@@ -1,4 +1,4 @@
-const versionSuffixRe = /\/v\d+$/
+const versionSuffixRe = /\/v\d+$/m
 
 /**
  * @param {string} githubLink
@@ -8,8 +8,9 @@ const versionSuffixRe = /\/v\d+$/
  */
 const redirect = function (request, githubLink, branchName) {
   const url = new URL(request.url) // eg.: https://example.com/foo
-  const pkgName = url.hostname + url.pathname // eg.: example.com/foo
-  let pkgSrc = githubLink + url.pathname // eg.: https://github.com/user/foo
+  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '') // eg.: /foo
+  const pkgName = url.hostname + path // eg.: example.com/foo
+  let pkgSrc = githubLink + path // eg.: https://github.com/user/foo
 
   if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
     pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]`
