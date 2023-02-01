@@ -1,19 +1,19 @@
 const versionSuffixRe = /\/v\d+$/m
 
 /**
- * @param {string} githubLink
+ * @param {string} baseUrl
  * @param {string} branchName
  * @param {Request} request
  * @returns {string}
  */
-const redirect = function (request, githubLink, branchName) {
-  const url = new URL(request.url) // eg.: https://example.com/foo
-  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo
-  const pkgName = url.hostname + path // eg.: example.com/foo
-  let pkgSrc = githubLink + path // eg.: https://github.com/user/foo
+const redirect = function (request, baseUrl, branchName) {
+  const url = new URL(request.url) // eg.: https://example.com/foo/v1
+  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo/v1
+  const pkgName = url.hostname + path // eg.: example.com/foo/v1
+  let pkgSrc = baseUrl + path // eg.: https://github.com/user/foo/v1
 
   if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
-    pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]`
+    pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]` -- https://github.com/user/foo
   }
 
   return `<!doctype html>
@@ -59,7 +59,7 @@ const redirect = function (request, githubLink, branchName) {
 
 export default {
   async fetch(request, env) { /** @link https://developers.cloudflare.com/pages/platform/functions/advanced-mode/ */
-    return new Response(redirect(request, env.GITHUB_LINK, env.BRANCH_NAME), {
+    return new Response(redirect(request, env.BASE_URL, env.BRANCH_NAME), {
       status: 200,
       headers: {
         /** @link https://developers.cloudflare.com/pages/platform/functions/examples/cors-headers/ */
