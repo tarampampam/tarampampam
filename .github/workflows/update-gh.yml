@@ -1,0 +1,26 @@
+name: update-gh
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [master, main]
+    paths: [gh/**, .github/workflows/update-gh.yml]
+
+concurrency:
+  group: ${{ github.ref }}-gh
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: gh-tarampamp-am
+          directory: ./gh
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
