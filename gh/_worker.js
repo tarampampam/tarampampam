@@ -1,21 +1,28 @@
+const versionSuffixRe = /\/v\d+$/
+
 /**
- * @param {string} where
+ * @param {string} githubLink
+ * @param {string} branchName
+ * @param {Request} request
  * @returns {string}
  */
-const redirect = function (where) {
-  const currentDomain = 'gh.tarampamp.am';
-  const targetUrl = 'https://github.com/tarampampam';
+const redirect = function (request, githubLink, branchName) {
+  const url = new URL(request.url) // eg.: https://example.com/foo
+  const pkgName = url.hostname + url.pathname // eg.: example.com/foo
+  let pkgSrc = githubLink + url.pathname // eg.: https://github.com/user/foo
 
-  where = where.replace(/^\/+/g, ''); // trim leading slashes
+  if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
+    pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]`
+  }
 
   return `<!doctype html>
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="utf-8">
-  <meta name="go-import" content="${currentDomain}/${where} git ${targetUrl}/${where}">
-  <meta name="go-source" content="${currentDomain}/${where} ${targetUrl}/${where} ${targetUrl}/${where}/tree/master{/dir} ${targetUrl}/${where}/blob/master{/dir}/{file}#L{line}">
-  <meta http-equiv="refresh" content="0; url=${targetUrl}/${where}">
+  <meta name="go-import" content="${pkgName} git ${pkgSrc}">
+  <meta name="go-source" content="${pkgName} ${pkgSrc} ${pkgSrc}/tree/${branchName}{/dir} ${pkgSrc}/blob/${branchName}{/dir}/{file}#L{line}">
+  <meta http-equiv="refresh" content="0; url=${pkgSrc}">
   <style>
     :root{--color-bg-primary:#fff;--color-text-primary:#131313}
     .github-logo path{fill:#131313}
@@ -30,7 +37,7 @@ const redirect = function (where) {
   <title>Redirecting</title>
 </head>
 <body>
-<a href="${targetUrl}/${where}">
+<a href="${pkgSrc}">
   <svg width="98" height="96" xmlns="http://www.w3.org/2000/svg" class="github-logo">
     <path fill-rule="evenodd" clip-rule="evenodd"
           d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362
@@ -51,12 +58,12 @@ const redirect = function (where) {
 
 export default {
   async fetch(request, env) { /** @link https://developers.cloudflare.com/pages/platform/functions/advanced-mode/ */
-    return new Response(redirect((new URL(request.url)).pathname), {
+    return new Response(redirect(request, env.GITHUB_LINK, env.BRANCH_NAME), {
       status: 200,
       headers: {
         /** @link https://developers.cloudflare.com/pages/platform/functions/examples/cors-headers/ */
         'Content-Type': 'text/html; charset=utf-8',
       },
-    });
+    })
   },
 }
