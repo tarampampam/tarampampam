@@ -23,4 +23,5 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: gh-tarampamp-am
           directory: ./gh
+          branch: main
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
