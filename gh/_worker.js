@@ -28,8 +28,8 @@ const redirect = function (request, baseUrl, branchName) {
     :root{--color-bg-primary:#fff;--color-text-primary:#131313}
     .github-logo path{fill:#131313}
     @media (prefers-color-scheme: dark) {
-      :root{--color-bg-primary:#212121;--color-text-primary:#fafafa}
-      .github-logo path{fill:#fafafa}
+      :root{--color-bg-primary:#0d1117;--color-text-primary:#c9d1d9}
+      .github-logo path{fill:#c9d1d9}
     }
     html,body{height:100%;font-family:sans-serif;background-color:var(--color-bg-primary);margin:0;padding:0;text-align:center}
     html,body,a{color:var(--color-text-primary)}
