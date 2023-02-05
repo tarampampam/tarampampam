@@ -11,10 +11,13 @@ const redirect = function (request, baseUrl, branchName) {
   const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo/v1
   const pkgName = url.hostname + path // eg.: example.com/foo/v1
   let pkgSrc = baseUrl + path // eg.: https://github.com/user/foo/v1
+  let repoName = (new URL(pkgSrc)).pathname.replace(/^\/+|\/+$/g, '').replace(versionSuffixRe, '') // eg.: user/foo
 
   if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
     pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]` -- https://github.com/user/foo
   }
+
+  const cover = `https://socialify.git.ci/${repoName}/png?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto`
 
   return `<!doctype html>
 <html lang="en">
@@ -24,6 +27,19 @@ const redirect = function (request, baseUrl, branchName) {
   <meta name="go-import" content="${pkgName} git ${pkgSrc}">
   <meta name="go-source" content="${pkgName} ${pkgSrc} ${pkgSrc}/tree/${branchName}{/dir} ${pkgSrc}/blob/${branchName}{/dir}/{file}#L{line}">
   <meta http-equiv="refresh" content="0; url=${pkgSrc}">
+
+  <meta name="twitter:image:src" content="${cover}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="GitHub: ${repoName}" />
+
+  <meta property="og:image" content="${cover}" />
+  <meta property="og:image:alt" content="GitHub: ${repoName}" />
+  <meta property="og:image:width" content="1051" />
+  <meta property="og:image:height" content="525" />
+  <meta property="og:type" content="object" />
+  <meta property="og:title" content="GitHub: ${repoName}" />
+  <meta property="og:url" content="${request.url}" />
+
   <style>
     :root{--color-bg-primary:#fff;--color-text-primary:#131313}
     .github-logo path{fill:#131313}
