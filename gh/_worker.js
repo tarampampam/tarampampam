@@ -34,8 +34,8 @@ const redirect = function (request, baseUrl, branchName) {
 
   <meta property="og:image" content="${cover}" />
   <meta property="og:image:alt" content="GitHub: ${repoName}" />
-  <meta property="og:image:width" content="1051" />
-  <meta property="og:image:height" content="525" />
+  <meta property="og:image:width" content="1280" />
+  <meta property="og:image:height" content="640" />
   <meta property="og:type" content="object" />
   <meta property="og:title" content="GitHub: ${repoName}" />
   <meta property="og:url" content="${request.url}" />
