@@ -19,35 +19,35 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 day ago)
-- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (2 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 days ago)
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 day ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (3 days ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (3 days ago)
+- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (4 days ago)
 
 #### 🌱 My latest projects
 
 
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - CLI usage docs generator (markdown)
 - [tarampampam/poke](https://github.com/tarampampam/poke) - 👉 A simple and powerful tool for E2E-testing
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 1 day ago) - Temporal PHP SDK
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.20.0](https://github.com/tarampampam/error-pages/releases/tag/v2.20.0), 5 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.1), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) ([v5.11.1](https://github.com/spiral/roadrunner-laravel/releases/tag/v5.11.1), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.0.1](https://github.com/tarampampam/indocker-app/releases/tag/v1.0.1), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 3 days ago) - Temporal PHP SDK
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.20.0](https://github.com/tarampampam/error-pages/releases/tag/v2.20.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Repositories list discover](https://github.com/roadrunner-server/imports/pull/1) on [roadrunner-server/imports](https://github.com/roadrunner-server/imports) (2 days ago)
-- [feat: Possibility to use custom env variables in templates](https://github.com/tarampampam/error-pages/pull/165) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
-- [fix: Strings interpolation for PHP 8.2](https://github.com/spiral/roadrunner-laravel/pull/115) on [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) (1 week ago)
-- [chore: Better CLI](https://github.com/tarampampam/error-pages/pull/163) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
+- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 day ago)
+- [chore(ci): Automate rebuilding](https://github.com/tarampampam/indocker-app/pull/3) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 day ago)
+- [feat: Repositories list discover](https://github.com/roadrunner-server/imports/pull/1) on [roadrunner-server/imports](https://github.com/roadrunner-server/imports) (4 days ago)
+- [feat: Possibility to use custom env variables in templates](https://github.com/tarampampam/error-pages/pull/165) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 
 #### ⭐ Recent stars
 
@@ -55,15 +55,10 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 week ago)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 week ago)
 - [abice/go-enum](https://github.com/abice/go-enum) - An enum generator for go (3 weeks ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (4 weeks ago)
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 month ago)
 
 #### 💬 Feedback
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
 
-<details>
-  <summary align="center">📉 Contribution graph</summary>
-  <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=tarampampam&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20" alt="activity" width="100%" />
-  </div>
-</details>
+

@@ -53,9 +53,9 @@
 
 If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
 
-<details>
+<!--details>
   <summary align="center">📉 Contribution graph</summary>
   <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=tarampampam&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20" alt="activity" width="100%" />
   </div>
-</details>
+</details-->
