@@ -20,11 +20,11 @@
 
 
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 day ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (4 days ago)
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (4 days ago)
-- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (5 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (5 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (5 days ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (5 days ago)
+- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.1.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.1.0), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 4 days ago) - Temporal PHP SDK
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.0), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 5 days ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.20.0](https://github.com/tarampampam/error-pages/releases/tag/v2.20.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
-- [chore(ci): Automate rebuilding](https://github.com/tarampampam/indocker-app/pull/3) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
-- [feat: Repositories list discover](https://github.com/roadrunner-server/imports/pull/1) on [roadrunner-server/imports](https://github.com/roadrunner-server/imports) (5 days ago)
-- [feat: Possibility to use custom env variables in templates](https://github.com/tarampampam/error-pages/pull/165) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
+- [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 day ago)
+- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (3 days ago)
+- [chore(ci): Automate rebuilding](https://github.com/tarampampam/indocker-app/pull/3) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (3 days ago)
+- [feat: Repositories list discover](https://github.com/roadrunner-server/imports/pull/1) on [roadrunner-server/imports](https://github.com/roadrunner-server/imports) (6 days ago)
 
 #### ⭐ Recent stars
 
