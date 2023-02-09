@@ -20,10 +20,10 @@
 
 
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (6 days ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (6 days ago)
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (6 days ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (1 week ago)
 - [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (1 week ago)
 
 #### 🌱 My latest projects
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [laravel/octane](https://github.com/laravel/octane) ([v1.4.1](https://github.com/laravel/octane/releases/tag/v1.4.1), 1 day ago) - Supercharge your Laravel application&#39;s performance.
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.0), 2 days ago) - 💥 Domain names with valid SSL for your local docker containers
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 6 days ago) - Temporal PHP SDK
+- [laravel/octane](https://github.com/laravel/octane) ([v1.4.2](https://github.com/laravel/octane/releases/tag/v1.4.2), 1 day ago) - Supercharge your Laravel application&#39;s performance.
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.0), 3 days ago) - 💥 Domain names with valid SSL for your local docker containers
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 6 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 1 week ago) - Temporal PHP SDK
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat(traefik): Custom plugin](https://github.com/tarampampam/indocker-app/pull/6) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 day ago)
-- [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
-- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (4 days ago)
-- [chore(ci): Automate rebuilding](https://github.com/tarampampam/indocker-app/pull/3) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (4 days ago)
+- [feat: Domains definition using JS](https://github.com/tarampampam/free-domains/pull/109) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [feat(traefik): Custom plugin](https://github.com/tarampampam/indocker-app/pull/6) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
+- [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (3 days ago)
+- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (5 days ago)
 
 #### ⭐ Recent stars
 
