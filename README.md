@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (4 days ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.2), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.88.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.88.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.2), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.88.0](https://github.com/tarampampam/curl-docker/releases/tag/v7.88.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.0), 1 week ago) - 💥 Domain names with valid SSL for your local docker containers
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
 
