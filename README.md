@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (6 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
 - [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (2 weeks ago)
-- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (2 weeks ago)
+- [roadrunner-server/imports](https://github.com/roadrunner-server/imports) - Go import aliases (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,16 +36,16 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.88.1](https://github.com/tarampampam/curl-docker/releases/tag/v7.88.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.1.0-alpha.2](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.1.0-alpha.2), 5 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v7.88.1](https://github.com/tarampampam/curl-docker/releases/tag/v7.88.1), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.0](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.0), 2 weeks ago) - 💥 Domain names with valid SSL for your local docker containers
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.26.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.26.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.0](https://github.com/temporalio/sdk-php/releases/tag/v2.4.0), 2 weeks ago) - Temporal PHP SDK
 
 #### 🔨 Latest Pull Requests I published
 
 
 - [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 week ago)
-- [feat: Domains definition using JS](https://github.com/tarampampam/free-domains/pull/109) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 week ago)
+- [feat: Domains definition using JS](https://github.com/tarampampam/free-domains/pull/109) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 weeks ago)
 - [feat(traefik): Custom plugin](https://github.com/tarampampam/indocker-app/pull/6) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 
