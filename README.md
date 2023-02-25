@@ -19,12 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
-- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - 📚 CLI usage docs generator (markdown) (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 day ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 day ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 day ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 day ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +37,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v1.1.0](https://github.com/tarampampam/webhook-tester/releases/tag/v1.1.0), 1 day ago) - 🔭 The powerful tool to test webhooks and not only
-- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) ([v1.0.0](https://github.com/tarampampam/urfave-cli-docs/releases/tag/v1.0.0), 1 day ago) - 📚 CLI usage docs generator (markdown)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v4.1.0](https://github.com/tarampampam/tinifier/releases/tag/v4.1.0), 1 day ago) - 🐼 CLI client for images compressing using tinypng.com API
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.21.0](https://github.com/tarampampam/error-pages/releases/tag/v2.21.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.2](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.2), 1 day ago) - 🚀 GitHub action for the jsDelivr cache purging
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.1), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.4](https://github.com/gacts/gitleaks/releases/tag/v1.1.4), 1 day ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.3](https://github.com/gacts/github-slug/releases/tag/v1.2.3), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 week ago)
+- [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [feat: Domains definition using JS](https://github.com/tarampampam/free-domains/pull/109) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 weeks ago)
 - [feat(traefik): Custom plugin](https://github.com/tarampampam/indocker-app/pull/6) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
@@ -52,8 +53,8 @@
 #### ⭐ Recent stars
 
 
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (1 day ago)
-- [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji (1 week ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (2 days ago)
+- [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji (2 weeks ago)
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (4 weeks ago)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (4 weeks ago)
 
