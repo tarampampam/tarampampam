@@ -19,13 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (1 day ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 day ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 day ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (2 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (2 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,10 +37,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.2](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.2), 1 day ago) - 🚀 GitHub action for the jsDelivr cache purging
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.1), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.4](https://github.com/gacts/gitleaks/releases/tag/v1.1.4), 1 day ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.3](https://github.com/gacts/github-slug/releases/tag/v1.2.3), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) ([v1.0.2](https://github.com/gacts/purge-jsdelivr-cache/releases/tag/v1.0.2), 2 days ago) - 🚀 GitHub action for the jsDelivr cache purging
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.0.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.0.1), 2 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.1.4](https://github.com/gacts/gitleaks/releases/tag/v1.1.4), 2 days ago) - 🚀 GitHub acrion for running zricethezav/gitleaks
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.3](https://github.com/gacts/github-slug/releases/tag/v1.2.3), 2 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -53,10 +53,10 @@
 #### ⭐ Recent stars
 
 
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (2 days ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (3 days ago)
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji (2 weeks ago)
-- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (4 weeks ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (4 weeks ago)
+- [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.  (1 month ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (1 month ago)
 
 #### 💬 Feedback
 
