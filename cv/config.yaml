@@ -14,7 +14,7 @@ enableRobotsTXT: true
 disableKinds: [RSS, taxonomy, section, term] # page, home, sitemap, robotsTXT, 404
 
 params:
-  noindex: false
+  noindex: true
   cvDownload:
     showButton: true
     downloadFileName: resume_nick_software_engineer_solution_architect
