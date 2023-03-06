@@ -69,6 +69,7 @@ const redirect = function (request, baseUrl, branchName) {
             33.405-46.691C97.707 22 75.788 0 48.854 0z"/>
   </svg>
 </a>
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ba0c05d6cd004bab8a44b48c30c0b46a"}'></script>
 </body>
 </html>`
 }
