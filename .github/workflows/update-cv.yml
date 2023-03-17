@@ -61,7 +61,7 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with: {hugo-version: 0.101.0, extended: true}
 
-      - run: hugo --minify --baseURL "https://tarampamp.am/" -d ./dist
+      - run: hugo --minify --baseURL "https://cv.tarampamp.am/" -d ./dist
         env: {GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
         working-directory: ./cv
 
