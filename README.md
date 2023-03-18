@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), today) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 1 week ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.11](https://github.com/ktr0731/evans/releases/tag/v0.10.11), 2 weeks ago) - Evans: more expressive universal gRPC client
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [bootstrap-vue/bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup. (1 day ago)
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (1 day ago)
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (3 days ago)
-- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (4 days ago)
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. (1 day ago)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (2 days ago)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (4 days ago)
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (5 days ago)
 
 #### 💬 Feedback
 
