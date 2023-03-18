@@ -71,14 +71,11 @@ jobs:
       - uses: actions/download-artifact@v3
         with: {name: cv-ru.pdf, path: ./cv/dist/ru}
 
-      - run: ls -l ./cv/dist/cv.pdf ./cv/dist/ru/cv.pdf
-
-      - run: tar --dereference --hard-dereference -C ./cv/dist -cvf ${{ runner.temp }}/artifact.tar .
-
-      - uses: actions/upload-artifact@v3
+      - uses: cloudflare/pages-action@1
         with:
-          name: github-pages # don't change this
-          path: ${{ runner.temp }}/artifact.tar
-          retention-days: 1
-
-      - {uses: actions/deploy-pages@v1, id: deployment}
+          apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: cv-tarampamp-am
+          directory: ./cv/dist
+          branch: main # aka CF "production" environment
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
