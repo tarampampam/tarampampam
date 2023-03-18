@@ -47,12 +47,6 @@ jobs:
         with: {name: cv-ru.pdf, path: ./cv.pdf, retention-days: 1}
 
   update-cv-page:
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: cv
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: [generate-pdf]
     steps:
