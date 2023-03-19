@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 1 week ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.11](https://github.com/ktr0731/evans/releases/tag/v0.10.11), 2 weeks ago) - Evans: more expressive universal gRPC client
+- [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.11](https://github.com/ktr0731/evans/releases/tag/v0.10.11), 3 weeks ago) - Evans: more expressive universal gRPC client
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. (1 day ago)
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (2 days ago)
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (4 days ago)
-- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go (5 days ago)
+- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. (1 day ago)
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. (2 days ago)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (3 days ago)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel) (5 days ago)
 
 #### 💬 Feedback
 
