@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (2 weeks ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (3 weeks ago)
 - [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (3 weeks ago)
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.28.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.28.0), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 1 week ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [ktr0731/evans](https://github.com/ktr0731/evans) ([v0.10.11](https://github.com/ktr0731/evans/releases/tag/v0.10.11), 3 weeks ago) - Evans: more expressive universal gRPC client
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 day ago)
-- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. (2 days ago)
-- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. (3 days ago)
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (4 days ago)
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (2 days ago)
+- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. (3 days ago)
+- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast. (4 days ago)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (5 days ago)
 
 #### 💬 Feedback
 
