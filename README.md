@@ -19,9 +19,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 days ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (3 weeks ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (4 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 weeks ago)
 - [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (4 weeks ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 month ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.29.1](https://github.com/StackExchange/dnscontrol/releases/tag/v3.29.1), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.0.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.0.1), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.29.1](https://github.com/StackExchange/dnscontrol/releases/tag/v3.29.1), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.0.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.0.1), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 2 weeks ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 4 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
@@ -52,8 +52,8 @@
 #### ⭐ Recent stars
 
 
-- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (1 day ago)
-- [h2non/filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature (3 days ago)
+- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (2 days ago)
+- [h2non/filetype](https://github.com/h2non/filetype) - Fast, dependency-free Go package to infer binary file types based on the magic numbers header signature (4 days ago)
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint (1 week ago)
 - [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included. (1 week ago)
 
