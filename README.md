@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (2 days ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (5 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (3 days ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (6 days ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 month ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.30.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.30.0), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.0.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.0.1), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.30.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.30.0), 6 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.0.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.0.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 3 weeks ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
@@ -52,9 +52,9 @@
 #### ⭐ Recent stars
 
 
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (5 days ago)
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (5 days ago)
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫 (5 days ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (6 days ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (6 days ago)
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫 (6 days ago)
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (1 week ago)
 
 #### 💬 Feedback
