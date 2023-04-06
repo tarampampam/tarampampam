@@ -20,11 +20,11 @@
 
 
 - [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 day ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (4 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (5 days ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 month ago)
+- [spiral/roadrunner-laravel](https://github.com/spiral/roadrunner-laravel) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,16 +38,16 @@
 
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.30.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.30.0), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.0.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.0.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 3 weeks ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.4.1](https://github.com/temporalio/sdk-php/releases/tag/v2.4.1), 4 weeks ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.16.2](https://github.com/tarampampam/random-user-agent/releases/tag/v3.16.2), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
 
 - [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 month ago)
-- [feat: Domains definition using JS](https://github.com/tarampampam/free-domains/pull/109) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 month ago)
 - [feat(traefik): Custom plugin](https://github.com/tarampampam/indocker-app/pull/6) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 month ago)
 - [feat(dns): DNS records under the git](https://github.com/tarampampam/indocker-app/pull/5) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 month ago)
+- [feat(ci): Latest release rebuild](https://github.com/tarampampam/indocker-app/pull/4) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 months ago)
 
 #### ⭐ Recent stars
 
