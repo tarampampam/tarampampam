@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (4 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (5 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
 - [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.17.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.17.0), 6 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.0](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.17.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.17.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.0](https://github.com/tarampampam/colors/releases/tag/v1.2.0), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
 - [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.1.0](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.1.0), 1 week ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.22.0](https://github.com/tarampampam/error-pages/releases/tag/v2.22.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Feat: Added tabular markdown writer](https://github.com/urfave/cli/pull/1722) on [urfave/cli](https://github.com/urfave/cli) (2 days ago)
+- [Feat: Added tabular markdown writer](https://github.com/urfave/cli/pull/1722) on [urfave/cli](https://github.com/urfave/cli) (3 days ago)
 - [chore: Drop dependencies](https://github.com/tarampampam/colors/pull/9) on [tarampampam/colors](https://github.com/tarampampam/colors) (1 week ago)
 - [feat: Non-existing pages now return styled `404` status page (with `404` status code)](https://github.com/tarampampam/error-pages/pull/189) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 - [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 months ago)
@@ -52,8 +52,8 @@
 #### ⭐ Recent stars
 
 
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (1 day ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (5 days ago)
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (2 days ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (6 days ago)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (2 weeks ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
 
