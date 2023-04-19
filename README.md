@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (6 days ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,26 +36,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.1](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.1), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.23.0](https://github.com/tarampampam/error-pages/releases/tag/v2.23.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.17.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.17.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.0](https://github.com/tarampampam/colors/releases/tag/v1.2.0), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.4](https://github.com/gacts/github-slug/releases/tag/v1.2.4), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.0](https://github.com/temporalio/sdk-php/releases/tag/v2.5.0), 1 day ago) - Temporal PHP SDK
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.1](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.1), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.23.0](https://github.com/tarampampam/error-pages/releases/tag/v2.23.0), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Feat: Added tabular markdown writer](https://github.com/urfave/cli/pull/1722) on [urfave/cli](https://github.com/urfave/cli) (4 days ago)
+- [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 day ago)
+- [fix: Is on branch detection](https://github.com/gacts/github-slug/pull/59) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 day ago)
+- [Feat: Added tabular markdown writer](https://github.com/urfave/cli/pull/1722) on [urfave/cli](https://github.com/urfave/cli) (5 days ago)
 - [chore: Drop dependencies](https://github.com/tarampampam/colors/pull/9) on [tarampampam/colors](https://github.com/tarampampam/colors) (1 week ago)
-- [feat: Non-existing pages now return styled `404` status page (with `404` status code)](https://github.com/tarampampam/error-pages/pull/189) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
-- [feat: New frontend](https://github.com/tarampampam/indocker-app/pull/7) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 months ago)
 
 #### ⭐ Recent stars
 
 
-- [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices (1 day ago)
-- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (3 days ago)
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.4&#43;. Producing, consuming, transacting, administrating, etc. (1 day ago)
+- [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices (2 days ago)
+- [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (4 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (2 weeks ago)
 
 #### 💬 Feedback
 
