@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (4 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (6 days ago)
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (5 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (2 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
 
@@ -36,16 +36,16 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.2](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.2), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.5](https://github.com/gacts/github-slug/releases/tag/v1.2.5), 6 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.2](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.2), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 5 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.5](https://github.com/gacts/github-slug/releases/tag/v1.2.5), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.0](https://github.com/temporalio/sdk-php/releases/tag/v2.5.0), 1 week ago) - Temporal PHP SDK
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
-- [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (6 days ago)
+- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (6 days ago)
+- [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 - [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 - [fix: Is on branch detection](https://github.com/gacts/github-slug/pull/59) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 
