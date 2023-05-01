@@ -19,11 +19,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (5 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (6 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (2 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -44,7 +44,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove mass-registered domains](https://github.com/tarampampam/free-domains/pull/295) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 days ago)
+- [Remove mass-registered domains](https://github.com/tarampampam/free-domains/pull/295) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 days ago)
 - [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 - [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 - [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
@@ -52,9 +52,9 @@
 #### ⭐ Recent stars
 
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (4 days ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (5 days ago)
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.4&#43;. Producing, consuming, transacting, administrating, etc. (1 week ago)
-- [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices (1 week ago)
+- [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices (2 weeks ago)
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook. (2 weeks ago)
 
 #### 💬 Feedback
