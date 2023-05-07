@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (5 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (6 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (3 weeks ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.3](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.3), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 5 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.3](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.3), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 6 days ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.5](https://github.com/gacts/github-slug/releases/tag/v1.2.5), 2 weeks ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
