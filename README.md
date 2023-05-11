@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 days ago)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
@@ -45,7 +45,7 @@
 
 
 - [Remove mass-registered domains](https://github.com/tarampampam/free-domains/pull/295) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 week ago)
-- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
+- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 weeks ago)
 - [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 weeks ago)
 - [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 weeks ago)
 
