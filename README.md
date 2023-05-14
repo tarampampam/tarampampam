@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (4 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (5 days ago)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.4](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.4), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.4](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.4), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.2.5](https://github.com/gacts/github-slug/releases/tag/v1.2.5), 3 weeks ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 day ago)
+- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (1 day ago)
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (2 days ago)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (2 weeks ago)
 - [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.4&#43;. Producing, consuming, transacting, administrating, etc. (3 weeks ago)
-- [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices (3 weeks ago)
 
 #### 💬 Feedback
 
