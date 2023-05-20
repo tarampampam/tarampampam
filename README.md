@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v3.31.4](https://github.com/StackExchange/dnscontrol/releases/tag/v3.31.4), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.0.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.0.1), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 2 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 4 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
@@ -45,16 +45,16 @@
 
 
 - [Remove mass-registered domains](https://github.com/tarampampam/free-domains/pull/295) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 weeks ago)
-- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 weeks ago)
+- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
 - [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 month ago)
 - [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (4 days ago)
-- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (5 days ago)
-- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (6 days ago)
+- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (5 days ago)
+- [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (6 days ago)
+- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (1 week ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 week ago)
 
 #### 💬 Feedback
