@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (1 day ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 month ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.0.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.0.1), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.0.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.0.1), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 3 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
