@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (1 day ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 day ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (1 day ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (2 days ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.0.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.0.1), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [urfave/cli](https://github.com/urfave/cli) ([v2.25.3](https://github.com/urfave/cli/releases/tag/v2.25.3), 3 weeks ago) - A simple, fast, and fun package for building command line apps in Go
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.24.0](https://github.com/tarampampam/error-pages/releases/tag/v2.24.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.0](https://github.com/gacts/install-podman/releases/tag/v1.1.0), 1 day ago) - 🚀 Installs Podman into your actions workflow
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.2.1](https://github.com/gacts/run-and-post-run/releases/tag/v1.2.1), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.1.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.1.1), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.0.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.0.1), 6 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove mass-registered domains](https://github.com/tarampampam/free-domains/pull/295) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (3 weeks ago)
-- [feat: IPv6 support](https://github.com/tarampampam/error-pages/pull/192) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
-- [Fix: &#34;Is on branch&#34; detection on `closed` events](https://github.com/gacts/github-slug/pull/61) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 month ago)
-- [chore: Switch from yarn to npm](https://github.com/gacts/github-slug/pull/60) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 month ago)
+- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (1 day ago)
+- [fix: Output and environment variables in the post step](https://github.com/gacts/run-and-post-run/pull/8) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 day ago)
+- [Fix: Environment variables interpolation and exit code](https://github.com/gacts/run-and-post-run/pull/7) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 day ago)
+- [update the CI](https://github.com/tarampampam/curl-docker/pull/28) on [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) (1 day ago)
 
 #### ⭐ Recent stars
 
