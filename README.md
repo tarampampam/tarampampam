@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (5 days ago)
-- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (5 days ago)
-- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (6 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go (4 weeks ago)
+- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) - 📚 CLI usage docs generator (markdown) (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 days ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (6 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (6 days ago)
+- [iddqd-uk/cluster-playbook](https://github.com/iddqd-uk/cluster-playbook) - :robot: Infrastructure as a game (1 week ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v2.25.4](https://github.com/urfave/cli/releases/tag/v2.25.4), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.0), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.0](https://github.com/gacts/install-podman/releases/tag/v1.1.0), 5 days ago) - 🚀 Installs Podman into your actions workflow
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.2.1](https://github.com/gacts/run-and-post-run/releases/tag/v1.2.1), 5 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [urfave/cli](https://github.com/urfave/cli) ([v2.25.5](https://github.com/urfave/cli/releases/tag/v2.25.5), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
+- [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) ([v1.0.1](https://github.com/tarampampam/urfave-cli-docs/releases/tag/v1.0.1), 1 day ago) - 📚 CLI usage docs generator (markdown)
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.0), 5 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.0](https://github.com/gacts/install-podman/releases/tag/v1.1.0), 6 days ago) - 🚀 Installs Podman into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 days ago)
-- [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 days ago)
-- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (5 days ago)
-- [fix: Output and environment variables in the post step](https://github.com/gacts/run-and-post-run/pull/8) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (5 days ago)
+- [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (6 days ago)
+- [fix: Output and environment variables in the post step](https://github.com/gacts/run-and-post-run/pull/8) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (6 days ago)
 
 #### ⭐ Recent stars
 
