@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 day ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (4 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 days ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (2 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.1.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.1.0), 4 days ago) - 🚀 Installs DNSControl into your actions workflow
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.1](https://github.com/temporalio/sdk-php/releases/tag/v2.5.1), 5 days ago) - Temporal PHP SDK
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.1.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.1.0), 5 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.1](https://github.com/temporalio/sdk-php/releases/tag/v2.5.1), 6 days ago) - Temporal PHP SDK
 - [urfave/cli](https://github.com/urfave/cli) ([v2.25.5](https://github.com/urfave/cli/releases/tag/v2.25.5), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/urfave-cli-docs](https://github.com/tarampampam/urfave-cli-docs) ([v1.0.1](https://github.com/tarampampam/urfave-cli-docs/releases/tag/v1.0.1), 1 week ago) - 📚 CLI usage docs generator (markdown)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (4 days ago)
+- [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (5 days ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (1 week ago)
