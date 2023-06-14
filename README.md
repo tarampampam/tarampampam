@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v1.22.14](https://github.com/urfave/cli/releases/tag/v1.22.14), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
-- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ([v9.5](https://github.com/vanhauser-thc/thc-hydra/releases/tag/v9.5), 1 day ago) - hydra
+- [urfave/cli](https://github.com/urfave/cli) ([v1.22.14](https://github.com/urfave/cli/releases/tag/v1.22.14), 2 days ago) - A simple, fast, and fun package for building command line apps in Go
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.1.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.1.0), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.1](https://github.com/temporalio/sdk-php/releases/tag/v2.5.1), 2 weeks ago) - Temporal PHP SDK
 
 #### 🔨 Latest Pull Requests I published
 
@@ -47,12 +47,12 @@
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 week ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 weeks ago)
 - [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 weeks ago)
-- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (2 weeks ago)
+- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (4 weeks ago)
+- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (1 month ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (1 month ago)
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (1 month ago)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool. (1 month ago)
