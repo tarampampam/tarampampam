@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 weeks ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 weeks ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 weeks ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 weeks ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (4 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 month ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 
 - [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.3.0](https://github.com/gacts/run-and-post-run/releases/tag/v1.3.0), 2 weeks ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 3 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 4 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.1.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.1.0), 1 month ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
