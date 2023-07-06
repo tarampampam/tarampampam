@@ -8,6 +8,6 @@ stack: [Go, PostgreSQL, Ansible]
 weight: 40
 ---
 
-- Estimated the cost and timing of projects, and prepared documentation for their subsequent implementation
-- I rewrote a short link management service from NodeJS to Go, which made it several times easier to maintain and more productive
-- Moved part of the company's infrastructure in IaC, at the same time teaching the DevOps team how to use Ansible
+- Conducted cost and timing estimations for projects, and prepared relevant documentation for their subsequent implementation
+- Rewrote a short link management service from NodeJS to Go, resulting in improved maintainability and increased productivity
+- Migrated a portion of the company's infrastructure to Infrastructure as Code (IaC), while also providing training to the DevOps team on the usage of Ansible
