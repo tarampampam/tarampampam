@@ -36,9 +36,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 2 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.3.0](https://github.com/gacts/run-and-post-run/releases/tag/v1.3.0), 2 weeks ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 4 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 1 month ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.1.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.1.0), 1 month ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
