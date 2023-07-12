@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.2](https://github.com/temporalio/sdk-php/releases/tag/v2.5.2), 1 day ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.2](https://github.com/temporalio/sdk-php/releases/tag/v2.5.2), 2 days ago) - Temporal PHP SDK
 - [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 2 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.3.0](https://github.com/gacts/run-and-post-run/releases/tag/v1.3.0), 3 weeks ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 1 month ago) - Synchronize your DNS to multiple providers from a simple DSL
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (4 days ago)
+- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (5 days ago)
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (1 month ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (1 month ago)
-- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (1 month ago)
+- [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (2 months ago)
 
 #### 💬 Feedback
 
