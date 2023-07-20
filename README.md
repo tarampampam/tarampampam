@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.2](https://github.com/temporalio/sdk-php/releases/tag/v2.5.2), 1 week ago) - Temporal PHP SDK
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 3 weeks ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 4 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.3.0](https://github.com/gacts/run-and-post-run/releases/tag/v1.3.0), 1 month ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.1.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.1.1), 1 month ago) - Synchronize your DNS to multiple providers from a simple DSL
 
 #### 🔨 Latest Pull Requests I published
 
