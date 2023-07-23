@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
@@ -36,9 +36,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 1 day ago) - Temporal PHP SDK
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 2 days ago) - Temporal PHP SDK
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha4](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha4), 1 month ago) - A simple, fast, and fun package for building command line apps in Go
 
 #### 🔨 Latest Pull Requests I published
@@ -47,7 +47,7 @@
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 month ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
-- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (1 month ago)
+- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (2 months ago)
 
 #### ⭐ Recent stars
 
