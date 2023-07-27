@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 2 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 5 days ago) - Temporal PHP SDK
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 6 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 3 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 6 days ago) - Temporal PHP SDK
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
