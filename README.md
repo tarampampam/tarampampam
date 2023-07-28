@@ -36,9 +36,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 3 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 6 days ago) - Temporal PHP SDK
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 4 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.3](https://github.com/temporalio/sdk-php/releases/tag/v2.5.3), 1 week ago) - Temporal PHP SDK
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (2 weeks ago)
+- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (3 weeks ago)
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (2 months ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (2 months ago)
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT &amp; Password breach hunting tool, locally or using premium services. Supports chasing down related email (2 months ago)
