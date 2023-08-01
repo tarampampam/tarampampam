@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 month ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 3 days ago) - Temporal PHP SDK
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 4 days ago) - Temporal PHP SDK
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 1 week ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
