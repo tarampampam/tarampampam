@@ -37,17 +37,17 @@
 
 
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 1 week ago) - Temporal PHP SDK
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 2 weeks ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (1 day ago)
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 months ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
 - [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
-- [chore: Add apt caching](https://github.com/gacts/install-podman/pull/1) on [gacts/install-podman](https://github.com/gacts/install-podman) (2 months ago)
 
 #### ⭐ Recent stars
 
