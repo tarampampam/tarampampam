@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 1 week ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 2 weeks ago) - Temporal PHP SDK
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 2 weeks ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
@@ -44,7 +44,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (2 days ago)
+- [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (3 days ago)
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 months ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
 - [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (1 day ago)
+- [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (2 days ago)
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 month ago)
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (2 months ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (2 months ago)
