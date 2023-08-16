@@ -37,7 +37,7 @@
 
 
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 2 weeks ago) - Temporal PHP SDK
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 3 weeks ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (6 days ago)
+- [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (1 week ago)
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 month ago)
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (3 months ago)
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi (3 months ago)
