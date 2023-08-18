@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 2 weeks ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 3 weeks ago) - Temporal PHP SDK
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.12](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.12), 3 weeks ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v3.18.0](https://github.com/tarampampam/random-user-agent/releases/tag/v3.18.0), 4 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
