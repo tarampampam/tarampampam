@@ -1,0 +1,23 @@
+name: codespace-on
+
+on:
+  workflow_dispatch: {}
+  schedule: [cron: '0 4 * * *'] # UTC time (8am in Baku UTC+04:00)
+  push:
+    branches: [master, main]
+    paths: [.github/workflows/codespace-on.yml]
+
+concurrency:
+  group: ${{ github.ref }}-codespace
+  cancel-in-progress: true
+
+jobs:
+  switch-on:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Power on the codespace server
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: 'https://api.hetzner.cloud/v1/servers/${{ secrets.HCLOUD_CODESPACE_SERVER_ID }}/actions/poweron'
+        method: 'POST'
+        customHeaders: '{"Authorization": "Bearer ${{ secrets.HCLOUD_API_KEY }}"}'
