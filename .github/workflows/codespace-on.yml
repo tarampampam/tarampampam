@@ -10,9 +10,10 @@ concurrency:
 
 jobs:
   switch-on:
+    name: Power on the codespace server
     runs-on: ubuntu-latest
     steps:
-    - name: Power on the codespace server
+    - name: Call the API endpoint
       uses: fjogeleit/http-request-action@v1
       with:
         url: 'https://api.hetzner.cloud/v1/servers/${{ secrets.HCLOUD_CODESPACE_SERVER_ID }}/actions/poweron'

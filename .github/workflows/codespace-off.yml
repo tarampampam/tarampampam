@@ -11,8 +11,9 @@ concurrency:
 jobs:
   switch-off:
     runs-on: ubuntu-latest
+    name: Power off the codespace server
     steps:
-    - name: Power off the codespace server
+    - name: Call the API endpoint
       uses: fjogeleit/http-request-action@v1
       with:
         url: 'https://api.hetzner.cloud/v1/servers/${{ secrets.HCLOUD_CODESPACE_SERVER_ID }}/actions/poweroff'
