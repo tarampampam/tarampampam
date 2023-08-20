@@ -3,9 +3,6 @@ name: codespace-on
 on:
   workflow_dispatch: {}
   schedule: [cron: '0 4 * * *'] # UTC time (8am in Baku UTC+04:00)
-  push:
-    branches: [master, main]
-    paths: [.github/workflows/codespace-on.yml]
 
 concurrency:
   group: ${{ github.ref }}-codespace
