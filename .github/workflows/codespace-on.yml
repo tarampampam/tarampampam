@@ -2,7 +2,7 @@ name: codespace-on
 
 on:
   workflow_dispatch: {}
-  schedule: [cron: '0 4 * * *'] # UTC time (8am in Baku UTC+04:00)
+  schedule: [cron: '40 4 * * *'] # UTC time (8:40am in Baku UTC+04:00)
 
 concurrency:
   group: ${{ github.ref }}-codespace
