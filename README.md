@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (3 days ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (4 days ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 months ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.2.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.2.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 2 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.2.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.2.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 3 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 3 weeks ago) - Temporal PHP SDK
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 4 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 
@@ -46,8 +46,8 @@
 
 - [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (2 weeks ago)
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 months ago)
-- [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
-- [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
+- [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
+- [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
 
 #### ⭐ Recent stars
 
