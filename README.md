@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (4 days ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 day ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (5 days ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 months ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 months ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.2.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.2.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 3 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.5.4](https://github.com/temporalio/sdk-php/releases/tag/v2.5.4), 3 weeks ago) - Temporal PHP SDK
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.2.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.2.1), 4 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 1 day ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 1 day ago) - 🧰 Logic-less CLI templating tool
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.2.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.2.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 4 days ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (1 day ago)
 - [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (2 weeks ago)
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 months ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
-- [Fix/UI slow request content load](https://github.com/tarampampam/webhook-tester/pull/309) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
 
 #### ⭐ Recent stars
 
