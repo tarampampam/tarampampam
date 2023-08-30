@@ -19,7 +19,7 @@ mkdir ./mnt
 sudo mount -o loop -t ext2 ./disk.ext2 ./mnt
 
 # run the docker image so that we can export the container
-CONTAINER_ID=$(docker run -d --dns 1.1.1.1 --dns 1.0.0.1 disk:local sleep infinity)
+CONTAINER_ID=$(docker run -d --dns 1.1.1.1 --dns 1.0.0.1 disk:local sleep 5m)
 
 # copy image content
 sudo docker cp -a $CONTAINER_ID:/ ./mnt/
@@ -31,5 +31,5 @@ sudo umount ./mnt
 sudo rm -Rf ./mnt
 
 # the .txt suffix enabled HTTP compression for free (for the GitHub)
-#split ./disk.ext2 ./disk.c -a 6 -b 128k -x --additional-suffix=.txt
-#bash -c "stat -c%s ./disk.ext2 > ./disk.meta"
+split ./disk.ext2 ./disk.c -a 6 -b 128k -x --additional-suffix=.txt
+bash -c "stat -c%s ./disk.ext2 > ./disk.meta"
