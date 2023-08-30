@@ -17,7 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: build.sh
+      - name: Build the disk image
+        run: ./build.sh
         working-directory: index/disk
 
       - uses: cloudflare/pages-action@1
