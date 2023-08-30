@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tarampampam's home</title>
+  <meta name=robots content="noindex, nofollow">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/xterm@5.2.1/css/xterm.css"
+    integrity="sha256-gy8/LGA7Q61DUf8ElwFQzHqHMBQnbbEmpgZcbdgeSHI=" crossorigin="anonymous">
+  <script src="sw.js"></script>
+  <style>
+    html {
+      /**background: #190947 url("assets/bg.png") no-repeat fixed center center;
+      background-size: cover; */
+    }
+  </style>
+</head>
+
+<body>
+  <div id="console"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/xterm@5.2.1/lib/xterm.js"
+    integrity="sha256-hN/H/S7gvao5U3khquYLopZTYKGHmGjrpuNqm4XngVI=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xterm-addon-fit@0.7.0/lib/xterm-addon-fit.js"
+    integrity="sha256-A0JddbZMtvFiEh4yr+D/uJx4qWNCP5MrlWVza3DTyrY=" crossorigin="anonymous"></script>
+  <script src="https://cheerpxdemos.leaningtech.com/publicdeploy/20230818_119/cx.js"
+    integrity="sha256-7ekGzgLFDxA0nmy+VzQHyZtUDu9n/ZBjMxBjg8wFHc4=" crossorigin="anonymous"></script>
+  <script>
+    const $term = document.getElementById('console')
+    const fit = new FitAddon.FitAddon()
+    const term = new Terminal({
+      cursorBlink: true,
+      convertEol: true,
+      fontFamily: 'monospace',
+      fontWeight: 400,
+      fontWeightBold: 700,
+    })
+
+    term.loadAddon(fit)
+    term.open($term)
+
+    fit.fit()
+    window.addEventListener('resize', (e) => fit.fit(), false)
+    //term.focus()
+
+    CheerpXApp
+      .create({
+        devices: [
+          { type: 'block', url: 'disk/disk.ext2', name: 'block1' },
+        ],
+        mounts: [
+          { type: 'ext2', dev: 'block1', path: '/' },
+          { type: 'cheerpOS', dev: '/app', path: '/app' },
+          { type: 'cheerpOS', dev: '/str', path: '/data' },
+          { type: 'devs', dev: '', path: '/dev' }
+        ],
+        activityInterface: {
+          cpu: () => { },
+          dev: () => { },
+        }
+      })
+      .then((cx) => {
+        term.scrollToBottom()
+
+        const reader = cx.setCustomConsole((buf) => {
+          term.write(new Uint8Array(buf))
+        }, term.cols, term.rows)
+
+        term.onData((str) => {
+          for (var i = 0; i < str.length; i++) {
+            reader(str.charCodeAt(i))
+          }
+        })
+
+        const preventDefaults = (e) => {
+          e.preventDefault()
+          e.stopPropagation()
+        }
+
+        $term.addEventListener('dragover', preventDefaults, false)
+        $term.addEventListener('dragenter', preventDefaults, false)
+        $term.addEventListener('dragleave', preventDefaults, false)
+        $term.addEventListener('drop', preventDefaults, false)
+
+        const opt = {
+          cmd: '/bin/bash',
+          args: ['--login'],
+          env: [
+            'HOME=/home/user',
+            'TERM=xterm',
+            'USER=user',
+            'SHELL=/bin/bash',
+            'EDITOR=nano',
+            'LANG=en_US.UTF-8',
+            'LC_ALL=C',
+          ],
+          cwd: '/home/user',
+        }
+
+        const loop = () => {
+          cx
+            .run(opt.cmd, opt.args, {
+              env: opt.env,
+              cwd: opt.cwd,
+              uid: 1000,
+              gid: 1000,
+            })
+            .then(loop) // recursive call
+            .catch(err => { throw err })
+        }
+
+        loop() // start the loop
+      }, (err) => { throw err })
+  </script>
+</body>
+
+</html>
