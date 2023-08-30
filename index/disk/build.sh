@@ -31,5 +31,5 @@ sudo umount ./mnt
 sudo rm -Rf ./mnt
 
 # the .txt suffix enabled HTTP compression for free (for the GitHub)
-split ./disk.ext2 ./disk.c -a 6 -b 128k -x --additional-suffix=.txt
-bash -c "stat -c%s ./disk.ext2 > ./disk.meta"
+#split ./disk.ext2 ./disk.c -a 6 -b 128k -x --additional-suffix=.txt
+#bash -c "stat -c%s ./disk.ext2 > ./disk.meta"
