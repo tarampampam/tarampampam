@@ -17,14 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - run: ./build.sh
-        working-directory: index
+      - run: build.sh
+        working-directory: index/disk
 
       - uses: cloudflare/pages-action@1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: index-tarampamp-am
-          directory: ./index/public
+          directory: ./index
           branch: main # aka CF "production" environment
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}

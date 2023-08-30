@@ -43,7 +43,7 @@
 
     fit.fit()
     window.addEventListener('resize', (e) => fit.fit(), false)
-    //term.focus()
+    term.focus()
 
     CheerpXApp
       .create({
@@ -52,9 +52,7 @@
         ],
         mounts: [
           { type: 'ext2', dev: 'block1', path: '/' },
-          { type: 'cheerpOS', dev: '/app', path: '/app' },
-          { type: 'cheerpOS', dev: '/str', path: '/data' },
-          { type: 'devs', dev: '', path: '/dev' }
+          { type: 'devs', dev: '', path: '/dev' },
         ],
         activityInterface: {
           cpu: () => { },
@@ -84,35 +82,29 @@
         $term.addEventListener('dragleave', preventDefaults, false)
         $term.addEventListener('drop', preventDefaults, false)
 
-        const opt = {
-          cmd: '/bin/bash',
-          args: ['--login'],
-          env: [
-            'HOME=/home/user',
-            'TERM=xterm',
-            'USER=user',
-            'SHELL=/bin/bash',
-            'EDITOR=nano',
-            'LANG=en_US.UTF-8',
-            'LC_ALL=C',
-          ],
-          cwd: '/home/user',
-        }
-
         const loop = () => {
           cx
-            .run(opt.cmd, opt.args, {
-              env: opt.env,
-              cwd: opt.cwd,
-              uid: 1000,
-              gid: 1000,
+            .run('/bin/sh', [], {
+              env: [
+                'HOME=/root',
+                'TERM=root',
+                'USER=root',
+                'SHELL=/bin/sh',
+                'EDITOR=nano',
+                'LANG=en_US.UTF-8',
+                'LC_ALL=C',
+              ],
+              cwd: '/root',
+              uid: 0,
+              gid: 0,
             })
             .then(loop) // recursive call
             .catch(err => { throw err })
         }
 
         loop() // start the loop
-      }, (err) => { throw err })
+      })
+      .catch(console.error)
   </script>
 </body>
 
