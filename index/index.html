@@ -48,7 +48,7 @@
     CheerpXApp
       .create({
         devices: [
-          { type: 'block', url: 'disk/disk.ext2', name: 'block1' },
+          { type: 'bytes', url: 'disk/disk.ext2', name: 'block1' },
         ],
         mounts: [
           { type: 'ext2', dev: 'block1', path: '/' },
@@ -105,7 +105,7 @@
         loop() // start the loop
       })
       .catch(console.error)
-  </script> -->
+  </script>
 </body>
 
 </html>
