@@ -3,7 +3,7 @@ name: update-index
 on:
   workflow_dispatch: {}
   push:
-    branches: [master, main]
+    #branches: [master, main] # TODO: uncomment
     paths: [index/**, .github/workflows/update-index.yml]
 
 concurrency:
@@ -17,11 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - run: ./build.sh
+        working-directory: index
+
       - uses: cloudflare/pages-action@1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: index-tarampamp-am
-          directory: ./index
+          directory: ./index/public
           branch: main # aka CF "production" environment
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
