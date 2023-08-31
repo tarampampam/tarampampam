@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (6 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (6 days ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️ (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 month ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 6 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 6 days ago) - 🧰 Logic-less CLI templating tool
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 1 week ago) - 🧰 Logic-less CLI templating tool
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (6 days ago)
+- [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (1 week ago)
 - [Update RoadRunner http lib](https://github.com/roadrunner-php/laravel-bridge/pull/126) on [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) (3 weeks ago)
 - [Fix: Dist downloading links](https://github.com/gacts/install-dnscontrol/pull/22) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (3 months ago)
 - [UI: Scroll the requests list](https://github.com/tarampampam/webhook-tester/pull/310) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (2 days ago)
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (1 day ago)
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (1 day ago)
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (3 days ago)
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (3 weeks ago)
-- [jetpack-io/typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs (1 month ago)
-- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) (3 months ago)
 
 #### 💬 Feedback
 
