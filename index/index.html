@@ -7,172 +7,91 @@
   <title>tarampampam's home</title>
   <meta name=robots content="noindex, nofollow">
   <link rel="icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <style>
+    html,
+    body {
+      height: 100%;
+    }
+
     html {
       background: #190947 url("assets/bg.png") no-repeat fixed center center;
       background-size: cover;
     }
+
+    body {
+      margin: 0;
+    }
+
+    main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .box {
+      --primary-color: #6e144a;
+      --secondary-color: #f8469e;
+      --shadow-color: #1d0dc9;
+
+      border: 3px solid var(--primary-color);
+      background-color: var(--secondary-color);
+      color: var(--primary-color);
+      box-shadow: 4px 4px var(--shadow-color);
+      font-family: 'Nova Square', cursive;
+    }
+
+    .btn {
+      padding: 1rem 2rem;
+      font-size: 1.5rem;
+      font-weight: 400;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all .3s ease;
+    }
+
+    .btn:hover {
+      background-color: var(--primary-color);
+      color: var(--secondary-color);
+      border-color: var(--secondary-color);
+    }
+
+    .btn:active {
+      box-shadow: 2px 2px var(--shadow-color);
+      transform: translateY(1px);
+      filter: brightness(1.3) blur(1px);
+    }
+
+    .btn:focus {
+      outline: none;
+    }
+
+    .new-message {
+      padding: 1rem 1.3rem;
+    }
   </style>
+  <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
 </head>
 
 <body>
-  <div id="console"></div>
+  <main>
+    <button class="box btn">
+      Message me
+    </button>
+    <section class="box new-message">
+      <div class="row">
+        <input id="email" name="email" type="email" placeholder="your@email.here" />
+      </div>
+      <div class="row">
+        <textarea name="message" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
+      </div>
+    </section>
+  </main>
 
-  <script>
-    'use strict'
-
-    // without service worker we can't do anything useful
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker
-        .register('service-worker.js')
-        .then(reg => {
-          // make sure that the page gets reloaded when a new sw gets installed. f.e on first access
-          reg.addEventListener('updatefound', () => {
-            window.location.reload()
-          })
-
-          // when the registration is active, but it's not controlling the page, we reload the page to
-          // have it take control. this f.e occurs when you hard-reload (shift + refresh)
-          if (reg.active && !navigator.serviceWorker.controller) {
-            window.location.reload()
-          }
-        })
-        .then(async () => await navigator.serviceWorker.ready)
-        .then(async () => {
-          await bootstrap()
-          await run(await init())
-        })
-    } else {
-      throw new Error('Service workers are not supported')
-    }
-
-    const bootstrap = () => {
-      /** Loads remote script. */
-      const loadScript = (src) => {
-        return new Promise((resolve, reject) => {
-          const script = document.createElement('script')
-
-          script.type = 'text/javascript'
-          script.async = true
-          script.src = src
-
-          script.addEventListener('load', resolve, { once: true })
-          script.addEventListener('error', reject, { once: true })
-
-          document.body.appendChild(script)
-        })
-      }
-
-      /** Loads remote style. */
-      const loadStyle = (src) => {
-        return new Promise((resolve, reject) => {
-          const link = document.createElement('link')
-
-          link.rel = 'stylesheet'
-          link.type = 'text/css'
-          link.media = 'all'
-          link.href = src
-
-          link.addEventListener('load', resolve, { once: true })
-          link.addEventListener('error', reject, { once: true })
-
-          document.head.appendChild(link)
-        })
-      }
-
-      return Promise.all([
-        loadStyle('https://cdn.jsdelivr.net/npm/xterm@5/css/xterm.min.css'),
-        loadScript('https://cdn.jsdelivr.net/npm/xterm@5/lib/xterm.js'),
-        loadScript('https://cdn.jsdelivr.net/npm/xterm-addon-fit@0.7.0/lib/xterm-addon-fit.js'),
-        loadScript('https://cheerpxdemos.leaningtech.com/publicdeploy/20230818_119/cx.js'),
-      ])
-    }
-
-    const init = () => {
-      const div = document.getElementById('console')
-      const fit = new FitAddon.FitAddon()
-      const term = new Terminal({
-        cursorBlink: true,
-        convertEol: true,
-        fontFamily: 'monospace',
-        fontWeight: 400,
-        fontWeightBold: 700,
-      })
-
-      const preventDefaults = (e) => {
-        e.preventDefault()
-        e.stopPropagation()
-      }
-
-      div.addEventListener('dragover', preventDefaults, false)
-      div.addEventListener('dragenter', preventDefaults, false)
-      div.addEventListener('dragleave', preventDefaults, false)
-      div.addEventListener('drop', preventDefaults, false)
-
-      term.loadAddon(fit)
-      term.open(div)
-
-      fit.fit()
-      window.addEventListener('resize', (e) => fit.fit(), false)
-
-      return term
-    }
-
-    const run = async (term) => {
-      CheerpXApp
-        .create({
-          devices: [
-            { type: 'bytes', url: 'disk/image.bin', name: 'block1' },
-          ],
-          mounts: [
-            { type: 'ext2', dev: 'block1', path: '/' },
-            //{ type: 'devs', dev: '', path: '/dev' },
-          ],
-          activityInterface: {
-            cpu: () => { },
-            dev: () => { },
-          }
-        })
-        .then((cx) => {
-          term.scrollToBottom()
-
-          const reader = cx.setCustomConsole((buf) => {
-            term.write(new Uint8Array(buf))
-          }, term.cols, term.rows)
-
-          term.onData((str) => {
-            for (var i = 0; i < str.length; i++) {
-              reader(str.charCodeAt(i))
-            }
-          })
-
-          term.focus()
-
-          const loop = () => {
-            cx
-              .run('/bin/sh', [], {
-                env: [
-                  'HOME=/root',
-                  'TERM=root',
-                  'USER=root',
-                  'SHELL=/bin/sh',
-                  'EDITOR=nano',
-                  'LANG=en_US.UTF-8',
-                  'LC_ALL=C',
-                ],
-                cwd: '/root',
-                uid: 0,
-                gid: 0,
-              })
-              .then(loop) // recursive call
-              .catch(err => { throw err })
-          }
-
-          loop() // start the loop
-        })
-        .catch(console.error)
-    }
-  </script>
+  <script type="module" src="scripts/main.js" async defer></script>
 </body>
 
 </html>

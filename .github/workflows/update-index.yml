@@ -2,9 +2,9 @@ name: update-index
 
 on:
   workflow_dispatch: {}
-  push:
+  #push:
     #branches: [master, main] # TODO: uncomment
-    paths: [index/**, .github/workflows/update-index.yml]
+    #paths: [index/**, .github/workflows/update-index.yml]
 
 concurrency:
   group: ${{ github.ref }}-index
@@ -16,10 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
-      - name: Build the disk image
-        run: ./build.sh
-        working-directory: index/disk
 
       - uses: cloudflare/pages-action@1
         with:
