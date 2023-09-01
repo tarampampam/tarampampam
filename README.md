@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 1 week ago) - 🧰 Logic-less CLI templating tool
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([v5.12.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/v5.12.0), 1 week ago) - 🌉 RoadRunner ⇆ Laravel bridge 🇺🇦❤️
@@ -52,9 +52,9 @@
 #### ⭐ Recent stars
 
 
-- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (1 day ago)
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (1 day ago)
-- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (3 days ago)
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (2 days ago)
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (2 days ago)
+- [avast/retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism (4 days ago)
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x &amp; TypeScript created by Vite. (3 weeks ago)
 
 #### 💬 Feedback
