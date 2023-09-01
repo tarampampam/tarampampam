@@ -7,9 +7,6 @@
   <title>tarampampam's home</title>
   <meta name=robots content="noindex, nofollow">
   <link rel="icon" href="favicon.ico">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/xterm@5.2.1/css/xterm.css"
-    integrity="sha256-gy8/LGA7Q61DUf8ElwFQzHqHMBQnbbEmpgZcbdgeSHI=" crossorigin="anonymous">
-  <script src="sw.js"></script>
   <style>
     html {
       background: #190947 url("assets/bg.png") no-repeat fixed center center;
@@ -19,93 +16,163 @@
 </head>
 
 <body>
-  <!--div id="console"></div>
+  <div id="console"></div>
 
-  <script src="https://cdn.jsdelivr.net/npm/xterm@5.2.1/lib/xterm.js"
-    integrity="sha256-hN/H/S7gvao5U3khquYLopZTYKGHmGjrpuNqm4XngVI=" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/xterm-addon-fit@0.7.0/lib/xterm-addon-fit.js"
-    integrity="sha256-A0JddbZMtvFiEh4yr+D/uJx4qWNCP5MrlWVza3DTyrY=" crossorigin="anonymous"></script>
-  <script src="https://cheerpxdemos.leaningtech.com/publicdeploy/20230818_119/cx.js"
-    integrity="sha256-7ekGzgLFDxA0nmy+VzQHyZtUDu9n/ZBjMxBjg8wFHc4=" crossorigin="anonymous"></script>
   <script>
-    const $term = document.getElementById('console')
-    const fit = new FitAddon.FitAddon()
-    const term = new Terminal({
-      cursorBlink: true,
-      convertEol: true,
-      fontFamily: 'monospace',
-      fontWeight: 400,
-      fontWeightBold: 700,
-    })
+    'use strict'
 
-    term.loadAddon(fit)
-    term.open($term)
+    // without service worker we can't do anything useful
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker
+        .register('service-worker.js')
+        .then(reg => {
+          // make sure that the page gets reloaded when a new sw gets installed. f.e on first access
+          reg.addEventListener('updatefound', () => {
+            window.location.reload()
+          })
 
-    fit.fit()
-    window.addEventListener('resize', (e) => fit.fit(), false)
-    term.focus()
-
-    CheerpXApp
-      .create({
-        devices: [
-          { type: 'bytes', url: 'disk/disk.ext2', name: 'block1' },
-        ],
-        mounts: [
-          { type: 'ext2', dev: 'block1', path: '/' },
-          //{ type: 'devs', dev: '', path: '/dev' },
-        ],
-        activityInterface: {
-          cpu: () => { },
-          dev: () => { },
-        }
-      })
-      .then((cx) => {
-        term.scrollToBottom()
-
-        const reader = cx.setCustomConsole((buf) => {
-          term.write(new Uint8Array(buf))
-        }, term.cols, term.rows)
-
-        term.onData((str) => {
-          for (var i = 0; i < str.length; i++) {
-            reader(str.charCodeAt(i))
+          // when the registration is active, but it's not controlling the page, we reload the page to
+          // have it take control. this f.e occurs when you hard-reload (shift + refresh)
+          if (reg.active && !navigator.serviceWorker.controller) {
+            window.location.reload()
           }
         })
+        .then(async () => await navigator.serviceWorker.ready)
+        .then(async () => {
+          await bootstrap()
+          await run(await init())
+        })
+    } else {
+      throw new Error('Service workers are not supported')
+    }
 
-        const preventDefaults = (e) => {
-          e.preventDefault()
-          e.stopPropagation()
-        }
+    const bootstrap = () => {
+      /** Loads remote script. */
+      const loadScript = (src) => {
+        return new Promise((resolve, reject) => {
+          const script = document.createElement('script')
 
-        $term.addEventListener('dragover', preventDefaults, false)
-        $term.addEventListener('dragenter', preventDefaults, false)
-        $term.addEventListener('dragleave', preventDefaults, false)
-        $term.addEventListener('drop', preventDefaults, false)
+          script.type = 'text/javascript'
+          script.async = true
+          script.src = src
 
-        const loop = () => {
-          cx
-            .run('/bin/sh', [], {
-              env: [
-                'HOME=/root',
-                'TERM=root',
-                'USER=root',
-                'SHELL=/bin/sh',
-                'EDITOR=nano',
-                'LANG=en_US.UTF-8',
-                'LC_ALL=C',
-              ],
-              cwd: '/root',
-              uid: 0,
-              gid: 0,
-            })
-            .then(loop) // recursive call
-            .catch(err => { throw err })
-        }
+          script.addEventListener('load', resolve, { once: true })
+          script.addEventListener('error', reject, { once: true })
 
-        loop() // start the loop
+          document.body.appendChild(script)
+        })
+      }
+
+      /** Loads remote style. */
+      const loadStyle = (src) => {
+        return new Promise((resolve, reject) => {
+          const link = document.createElement('link')
+
+          link.rel = 'stylesheet'
+          link.type = 'text/css'
+          link.media = 'all'
+          link.href = src
+
+          link.addEventListener('load', resolve, { once: true })
+          link.addEventListener('error', reject, { once: true })
+
+          document.head.appendChild(link)
+        })
+      }
+
+      return Promise.all([
+        loadStyle('https://cdn.jsdelivr.net/npm/xterm@5/css/xterm.min.css'),
+        loadScript('https://cdn.jsdelivr.net/npm/xterm@5/lib/xterm.js'),
+        loadScript('https://cdn.jsdelivr.net/npm/xterm-addon-fit@0.7.0/lib/xterm-addon-fit.js'),
+        loadScript('https://cheerpxdemos.leaningtech.com/publicdeploy/20230818_119/cx.js'),
+      ])
+    }
+
+    const init = () => {
+      const div = document.getElementById('console')
+      const fit = new FitAddon.FitAddon()
+      const term = new Terminal({
+        cursorBlink: true,
+        convertEol: true,
+        fontFamily: 'monospace',
+        fontWeight: 400,
+        fontWeightBold: 700,
       })
-      .catch(console.error)
-  </script-->
+
+      const preventDefaults = (e) => {
+        e.preventDefault()
+        e.stopPropagation()
+      }
+
+      div.addEventListener('dragover', preventDefaults, false)
+      div.addEventListener('dragenter', preventDefaults, false)
+      div.addEventListener('dragleave', preventDefaults, false)
+      div.addEventListener('drop', preventDefaults, false)
+
+      term.loadAddon(fit)
+      term.open(div)
+
+      fit.fit()
+      window.addEventListener('resize', (e) => fit.fit(), false)
+
+      return term
+    }
+
+    const run = async (term) => {
+      CheerpXApp
+        .create({
+          devices: [
+            { type: 'bytes', url: 'disk/image.bin', name: 'block1' },
+          ],
+          mounts: [
+            { type: 'ext2', dev: 'block1', path: '/' },
+            //{ type: 'devs', dev: '', path: '/dev' },
+          ],
+          activityInterface: {
+            cpu: () => { },
+            dev: () => { },
+          }
+        })
+        .then((cx) => {
+          term.scrollToBottom()
+
+          const reader = cx.setCustomConsole((buf) => {
+            term.write(new Uint8Array(buf))
+          }, term.cols, term.rows)
+
+          term.onData((str) => {
+            for (var i = 0; i < str.length; i++) {
+              reader(str.charCodeAt(i))
+            }
+          })
+
+          term.focus()
+
+          const loop = () => {
+            cx
+              .run('/bin/sh', [], {
+                env: [
+                  'HOME=/root',
+                  'TERM=root',
+                  'USER=root',
+                  'SHELL=/bin/sh',
+                  'EDITOR=nano',
+                  'LANG=en_US.UTF-8',
+                  'LC_ALL=C',
+                ],
+                cwd: '/root',
+                uid: 0,
+                gid: 0,
+              })
+              .then(loop) // recursive call
+              .catch(err => { throw err })
+          }
+
+          loop() // start the loop
+        })
+        .catch(console.error)
+    }
+  </script>
 </body>
 
 </html>
