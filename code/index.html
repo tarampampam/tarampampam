@@ -172,7 +172,7 @@ Dude, what are you looking here for?
         await fetch('vm/off', { method: 'POST' })
       }
 
-      state.classList.toggle(hiddenClass)
+      window.setTimeout(state.classList.toggle(hiddenClass), 500)
     })
   </script>
 </body>
