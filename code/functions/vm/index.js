@@ -1,4 +1,4 @@
-export async function onRequestGet(context) {
+export async function onRequestPost(context) {
   /** @type {{HCLOUD_API_KEY: string, HCLOUD_CODESPACE_SERVER_ID: string}} */
   const env = context.env
 
@@ -22,7 +22,7 @@ export async function onRequestGet(context) {
     )
   } catch (err) {
     return new Response(
-      new Blob([JSON.stringify({ error: err }, null, 2)], { type: 'application/json' }),
+      new Blob([JSON.stringify({ error: err.toString() }, null, 2)], { type: 'application/json' }),
       { status: 500 },
     )
   }
