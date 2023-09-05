@@ -22,7 +22,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: code-tarampamp-am
-          directory: .
           workingDirectory: ./code
+          directory: .
           branch: main # aka CF "production" environment
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}

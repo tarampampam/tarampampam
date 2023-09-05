@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
 <!--
 
 Dude, what are you looking here for?
 
 -->
+<html lang="en">
 
 <head>
   <meta charset="utf-8" />
@@ -12,8 +12,7 @@ Dude, what are you looking here for?
   <meta name="robots" content="noindex, nofollow" />
   <title>Codespace</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <link rel="icon" type="image/x-icon"
-    href="https://codespace-assets.global.ssl.fastly.net/wp/assets/website/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <style>
     :root {
       --color-bg-primary: #fff;
@@ -41,14 +40,134 @@ Dude, what are you looking here for?
       align-items: center;
       display: flex;
       justify-content: center;
-      height: 100vh;
-      background: url('https://hsto.org/webt/-x/ql/q1/-xqlq1wdwzcoxkev7tgavdqpoco.png') center center no-repeat;
+    }
+
+    main {
+      width: 100%;
+      text-align: center;
+    }
+
+    #logo {
+      display: block;
+      margin: 0 auto;
+      width: 600px;
+      height: 90px;
+      background: url('assets/codespace.png') center center no-repeat;
       background-size: contain;
+    }
+
+    #state {
+      margin-top: 2em;
+    }
+
+    #state.hidden {
+      display: none;
+    }
+
+    .switch {
+      --switch-width: 80px;
+      --on-color: #2196F3;
+      --off-color: #ccc;
+      --switcher-color: #fff;
+
+      position: relative;
+      display: inline-block;
+      width: var(--switch-width);
+      height: 34px;
+    }
+
+    .switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .switch .slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: var(--off-color);
+      transition: .4s;
+    }
+
+    .switch .slider:before {
+      position: absolute;
+      content: '';
+      line-height: 1.8em;
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: var(--switcher-color);
+      transition: .4s;
+    }
+
+    .switch input:checked+.slider {
+      background-color: var(--on-color);
+    }
+
+    .switch input:focus+.slider {
+      box-shadow: 0 0 1px var(--on-color);
+    }
+
+    .switch input:checked+.slider:before {
+      content: '';
+      transform: translateX(calc(var(--switch-width) - 34px));
+    }
+
+    .switch .slider.round {
+      border-radius: 34px;
+    }
+
+    .switch .slider.round:before {
+      border-radius: 50%;
+    }
+
+    @media (max-width: 599px) {
+      #logo {
+        width: 100%;
+      }
     }
   </style>
 </head>
 
 <body>
+  <main>
+    <picture id="logo"></picture>
+
+    <div id="state" class="hidden">
+      <label class="switch">
+        <input type="checkbox" id="state-switch">
+        <span class="slider round"></span>
+      </label>
+    </div>
+  </main>
+
+  <script>
+    'use strict'
+
+    const d = document
+    const logo = d.getElementById('logo')
+    const state = d.getElementById('state')
+    const sw = d.getElementById('state-switch')
+
+    logo.addEventListener('dblclick', (e) => {
+      if (e.ctrlKey) {
+        state.classList.toggle('hidden')
+      }
+    }, false)
+
+    sw.addEventListener('change', (e) => {
+      //e.preventDefault()
+      //e.stopPropagation()
+      console.log(sw.checked)
+
+      //sw.checked = sw.checked
+    })
+  </script>
 </body>
 
 </html>
