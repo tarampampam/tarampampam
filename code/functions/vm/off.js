@@ -1,4 +1,4 @@
-export async function onRequestGet(context) {
+export async function onRequestPost(context) {
   /** @type {{HCLOUD_API_KEY: string, HCLOUD_CODESPACE_SERVER_ID: string}} */
   const env = context.env
 
