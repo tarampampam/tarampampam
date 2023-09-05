@@ -24,8 +24,8 @@ sw.addEventListener('change', async (e) => {
   window.setTimeout(state.classList.toggle(hiddenClass), 1500)
 })
 
-window.turnstileLoaded = () => {
-  turnstile.render('#turnstile', {
+window.turnstileLoaded = function () {
+  turnstile.render('#tt', {
     sitekey: '0x4AAAAAAAJwE0fGOLs_7cZ0',
     callback: function (token) {
       console.log(`Challenge Success ${token}`)
