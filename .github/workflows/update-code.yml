@@ -3,7 +3,7 @@ name: update-code
 on:
   workflow_dispatch: {}
   push:
-    branches: [master, main]
+    #branches: [master, main]
     paths: [code/**, .github/workflows/update-code.yml]
 
 concurrency:
