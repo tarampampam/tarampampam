@@ -1,5 +1,3 @@
-export default {
-  async fetch(request, env, ctx) {
-    return new Response('Action: STATUS')
-  },
+export async function onRequestGet(context) {
+  return new Response('Action: STATUS')
 }
