@@ -2,9 +2,9 @@ name: update-index
 
 on:
   workflow_dispatch: {}
-  #push:
-    #branches: [master, main] # TODO: uncomment
-    #paths: [index/**, .github/workflows/update-index.yml]
+  push:
+    branches: [master, main]
+    paths: [index/**, .github/workflows/update-index.yml]
 
 concurrency:
   group: ${{ github.ref }}-index
