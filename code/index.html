@@ -164,9 +164,9 @@ Dude, what are you looking here for?
 
     sw.addEventListener('change', async (e) => {
       if (sw.checked) {
-        await fetch('vm/off', {method: 'POST'})
-      } else {
         await fetch('vm/on', {method: 'POST'})
+      } else {
+        await fetch('vm/off', {method: 'POST'})
       }
 
       state.classList.toggle('hidden')
