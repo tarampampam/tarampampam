@@ -153,23 +153,26 @@ Dude, what are you looking here for?
     const logo = d.getElementById('logo')
     const state = d.getElementById('state')
     const sw = d.getElementById('state-switch')
+    const hiddenClass = 'hidden'
 
     logo.addEventListener('dblclick', async (e) => {
       if (e.ctrlKey) {
-        sw.checked = (await (await fetch('vm')).json()).status === 'running'
+        if (state.classList.contains(hiddenClass)) {
+          sw.checked = (await (await fetch('vm')).json()).status === 'running'
+        }
 
-        state.classList.toggle('hidden')
+        state.classList.toggle(hiddenClass)
       }
     }, false)
 
     sw.addEventListener('change', async (e) => {
       if (sw.checked) {
-        await fetch('vm/on', {method: 'POST'})
+        await fetch('vm/on', { method: 'POST' })
       } else {
-        await fetch('vm/off', {method: 'POST'})
+        await fetch('vm/off', { method: 'POST' })
       }
 
-      state.classList.toggle('hidden')
+      state.classList.toggle(hiddenClass)
     })
   </script>
 </body>
