@@ -23,9 +23,13 @@ window.turnstileLoaded = () => {
   logo.addEventListener('dblclick', async (e) => {
     try {
       if (state.classList.contains(hiddenClass)) {
-        sw.checked = (await (await fetch('vm', {
+        const status = (await (await fetch('vm', {
           headers: { 'X-Tt': turnstileToken },
-        })).json()).status === 'running'
+        })).json()).status
+
+        console.log(status)
+
+        sw.checked = status === 'running'
       }
 
       state.classList.toggle(hiddenClass)
