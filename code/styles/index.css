@@ -56,6 +56,20 @@ main {
   letter-spacing: .08em;
 }
 
+@media screen and (max-width: 600px) {
+  .text-logo .pre,
+  .text-logo .post {
+    font-size: 4.5em;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .text-logo .pre,
+  .text-logo .post {
+    font-size: 3em;
+  }
+}
+
 .text-logo .pre {
   font-weight: 500;
   color: #5d5f5e;
@@ -86,10 +100,6 @@ main {
   cursor: pointer;
 }
 
-.actions .action:not(:first-of-type) {
-  padding-left: .5em;
-}
-
 .actions .action.disabled {
   opacity: .5;
   cursor: not-allowed;
@@ -97,4 +107,11 @@ main {
 
 .actions .action:not(.disabled) {
   color: var(--color-text-highlight);
+  font-weight: bold;
+}
+
+@media screen and (max-width: 400px) {
+  .actions .sugar {
+    display: none;
+  }
 }
