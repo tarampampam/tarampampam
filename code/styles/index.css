@@ -1,0 +1,117 @@
+:root {
+  --color-text-highlight: rgb(26, 131, 252);
+  --color-text-dark: #777777;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-highlight: #ffa500;
+    --color-text-dark: #767776;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 100%;
+  text-align: center;
+}
+
+.hidden,
+:not(.hidden) {
+  transition: visibility 100ms, opacity 500ms linear;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+
+:not(.hidden) {
+  visibility: visible;
+  opacity: 1;
+}
+
+.text-logo {
+  user-select: none;
+}
+
+.text-logo .pre,
+.text-logo .post {
+  font-family: 'Darker Grotesque', sans-serif;
+  text-transform: uppercase;
+  font-size: 6.5em;
+  letter-spacing: .08em;
+}
+
+@media screen and (max-width: 600px) {
+  .text-logo .pre,
+  .text-logo .post {
+    font-size: 4.5em;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .text-logo .pre,
+  .text-logo .post {
+    font-size: 3em;
+  }
+}
+
+.text-logo .pre {
+  font-weight: 500;
+  color: #5d5f5e;
+}
+
+.text-logo .post {
+  font-weight: 300;
+  color: #b5b4ad;
+}
+
+.state {
+  margin: 0 0 1em 0;
+}
+
+.state .post {
+  color: var(--color-text-highlight);
+  font-weight: bold;
+}
+
+.actions {
+  margin: 1em 0 0 0;
+  color: var(--color-text-dark);
+  padding-left: .2em;
+  font-size: .95em;
+}
+
+.actions .action {
+  cursor: pointer;
+}
+
+.actions .action.disabled {
+  opacity: .5;
+  cursor: not-allowed;
+}
+
+.actions .action:not(.disabled) {
+  color: var(--color-text-highlight);
+  font-weight: bold;
+}
+
+@media screen and (max-width: 400px) {
+  .actions .sugar {
+    display: none;
+  }
+}

@@ -16,13 +16,16 @@ export async function onRequestGet(context) {
 
     const data = await resp.json()
 
+    /** @type {'starting'|'running'|'stopping'|'off'} */
+    const status = data.server.status
+
     return new Response(
       new Blob([JSON.stringify({ status: data.server.status }, null, 2)], { type: 'application/json' }),
       { status: 200 },
     )
   } catch (err) {
     return new Response(
-      new Blob([JSON.stringify({ error: err }, null, 2)], { type: 'application/json' }),
+      new Blob([JSON.stringify({ error: err.toString() }, null, 2)], { type: 'application/json' }),
       { status: 500 },
     )
   }

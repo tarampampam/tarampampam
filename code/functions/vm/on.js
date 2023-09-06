@@ -20,7 +20,7 @@ export async function onRequestPost(context) {
     )
   } catch (err) {
     return new Response(
-      new Blob([JSON.stringify({ error: err }, null, 2)], { type: 'application/json' }),
+      new Blob([JSON.stringify({ error: err.toString() }, null, 2)], { type: 'application/json' }),
       { status: 500 },
     )
   }
