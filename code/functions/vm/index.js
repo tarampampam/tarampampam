@@ -16,6 +16,9 @@ export async function onRequestGet(context) {
 
     const data = await resp.json()
 
+    /** @type {'starting'|'running'|'stopping'|'off'} */
+    const status = data.server.status
+
     return new Response(
       new Blob([JSON.stringify({ status: data.server.status }, null, 2)], { type: 'application/json' }),
       { status: 200 },

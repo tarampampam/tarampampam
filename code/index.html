@@ -8,14 +8,13 @@ Dude, what are you looking here for?
 
 <head>
   <meta charset="utf-8" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="noindex, nofollow" />
   <title>Codespace</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css"
-    integrity="sha512-O03ntXoVqaGUTAeAmvQ2YSzkCvclZEcPQu1eqloPaHfJ5RuNGiS4l+3duaidD801P50J28EHyonCV06CUlTSag=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
     :root {
       --color-bg-primary: #fff;
@@ -31,121 +30,34 @@ Dude, what are you looking here for?
 
     html,
     body {
-      height: 100%;
       background-color: var(--color-bg-primary);
       color: var(--color-text-primary);
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      align-items: center;
-      display: flex;
-      justify-content: center;
-    }
-
-    main {
-      width: 100%;
-      text-align: center;
-    }
-
-    #logo {
-      display: block;
-      margin: 0 auto;
-      width: 600px;
-      height: 90px;
-      background: url('assets/codespace.png') center center no-repeat;
-      background-size: contain;
-    }
-
-    #state {
-      margin-top: 2em;
-    }
-
-    #state.hidden {
-      display: none;
-    }
-
-    .switch {
-      --switch-width: 80px;
-      --on-color: #2196F3;
-      --off-color: #ccc;
-      --switcher-color: #fff;
-
-      position: relative;
-      display: inline-block;
-      width: var(--switch-width);
-      height: 34px;
-    }
-
-    .switch input {
-      opacity: 0;
-      width: 0;
-      height: 0;
-    }
-
-    .switch .slider {
-      position: absolute;
-      cursor: pointer;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background-color: var(--off-color);
-      transition: .4s;
-    }
-
-    .switch .slider:before {
-      position: absolute;
-      content: '';
-      line-height: 1.8em;
-      height: 26px;
-      width: 26px;
-      left: 4px;
-      bottom: 4px;
-      background-color: var(--switcher-color);
-      transition: .4s;
-    }
-
-    .switch input:checked+.slider {
-      background-color: var(--on-color);
-    }
-
-    .switch input:focus+.slider {
-      box-shadow: 0 0 1px var(--on-color);
-    }
-
-    .switch input:checked+.slider:before {
-      content: '';
-      transform: translateX(calc(var(--switch-width) - 34px));
-    }
-
-    .switch .slider.round {
-      border-radius: 34px;
-    }
-
-    .switch .slider.round:before {
-      border-radius: 50%;
-    }
-
-    @media (max-width: 599px) {
-      #logo {
-        width: 100%;
-      }
     }
   </style>
+  <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/izitoast/1.4.0/css/iziToast.min.css"
+    integrity="sha512-O03ntXoVqaGUTAeAmvQ2YSzkCvclZEcPQu1eqloPaHfJ5RuNGiS4l+3duaidD801P50J28EHyonCV06CUlTSag=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="styles/index.css">
 </head>
 
 <body>
   <main>
-    <picture id="logo"></picture>
+    <div class="text-logo">
+      <span class="pre"></span>
+      <span class="post"></span>
+    </div>
 
-    <div id="state" class="hidden">
-      <label class="switch">
-        <input type="checkbox" id="state-switch">
-        <span class="slider round"></span>
-      </label>
+    <div class="state hidden">
+      <span class="pre">&nbsp;</span>
+      <span class="post">&nbsp;</span>
+    </div>
+
+    <div class="actions hidden">
+      type Server interface { <span class="action auth">Auth(key string);</span>
+      <span class="action on disabled">Start();</span>
+      <span class="action off disabled">Stop();</span>
+      }
     </div>
   </main>
 
