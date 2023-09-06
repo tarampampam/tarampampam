@@ -48,9 +48,6 @@ let serverStatus = null
   updateServerStatus() // update the status immediately
 }
 
-/** @type {String|null} */
-let lastServerStatus = null
-
 // initialize elements
 const elements = {
   logo: {
@@ -130,11 +127,52 @@ new Typer(elements.logo.pre)
 
         new Typer(elements.state.pre).write('The server is')
           .then(() => {
+            /** @type {String|null} */
+            let lastServerStatus = null
+
             const st = new Typer(elements.state.post)
             let locker = new Locker()
 
             // watch for server status changes
             setInterval(async () => {
+              const hasAuth = typeof keyStorage.get() === 'string'
+
+              switch (serverStatus) {
+                case 'starting':
+                  elements.act.self.classList.remove('hidden')
+                  elements.act.on.classList.add('disabled')
+                  elements.act.off.classList.add('disabled')
+                  break
+
+                case 'running':
+                  elements.act.self.classList.remove('hidden')
+                  elements.act.on.classList.add('disabled')
+                  if (hasAuth) {
+                    elements.act.off.classList.remove('disabled')
+                  }
+                  break
+
+                case 'stopping':
+                  elements.act.self.classList.remove('hidden')
+                  elements.act.on.classList.add('disabled')
+                  elements.act.off.classList.add('disabled')
+                  break
+
+                case 'off':
+                  elements.act.self.classList.remove('hidden')
+                  if (hasAuth) {
+                    elements.act.on.classList.remove('disabled')
+                  }
+                  elements.act.off.classList.add('disabled')
+                  break
+
+                default:
+                  elements.act.self.classList.add('hidden')
+                  elements.act.off.classList.add('disabled')
+                  elements.act.on.classList.add('disabled')
+                  break
+              }
+
               await locker.do(async () => {
                 if (!serverStatus) {
                   return
@@ -148,44 +186,6 @@ new Typer(elements.logo.pre)
                 await st.write(serverStatus)
 
                 lastServerStatus = serverStatus
-
-                const hasAuth = typeof keyStorage.get() === 'string'
-
-                switch (serverStatus) {
-                  case 'starting':
-                    elements.act.self.classList.remove('hidden')
-                    elements.act.on.classList.add('disabled')
-                    elements.act.off.classList.add('disabled')
-                    break
-
-                  case 'running':
-                    elements.act.self.classList.remove('hidden')
-                    elements.act.on.classList.add('disabled')
-                    if (hasAuth) {
-                      elements.act.off.classList.remove('disabled')
-                    }
-                    break
-
-                  case 'stopping':
-                    elements.act.self.classList.remove('hidden')
-                    elements.act.on.classList.add('disabled')
-                    elements.act.off.classList.add('disabled')
-                    break
-
-                  case 'off':
-                    elements.act.self.classList.remove('hidden')
-                    if (hasAuth) {
-                      elements.act.on.classList.remove('disabled')
-                    }
-                    elements.act.off.classList.add('disabled')
-                    break
-
-                  default:
-                    elements.act.self.classList.add('hidden')
-                    elements.act.off.classList.add('disabled')
-                    elements.act.on.classList.add('disabled')
-                    break
-                }
               })
             }, 200)
           })
