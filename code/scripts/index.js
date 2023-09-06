@@ -51,6 +51,7 @@ let serverStatus = null
 /** @type {String|null} */
 let lastServerStatus = null
 
+// initialize elements
 const elements = {
   logo: {
     pre: document.querySelector('.text-logo .pre'),
@@ -69,6 +70,7 @@ const elements = {
   },
 }
 
+// attach event listener for auth key changing
 elements.act.auth.addEventListener('click', async () => {
   const key = prompt('Enter auth key')
 
@@ -86,34 +88,35 @@ elements.act.auth.addEventListener('click', async () => {
   }
 })
 
+// attach event listener for server power on action
 elements.act.on.addEventListener('click', async (e) => {
   if (!e.target.classList.contains('disabled')) {
     try {
       await api.on()
 
       Notify.success('Success', 'Server is starting')
+      e.target.classList.add('disabled')
     } catch (err) {
       Notify.error('Error', err.toString())
-    } finally {
-      e.target.classList.add('disabled')
     }
   }
 })
 
+// attach event listener for server power off action
 elements.act.off.addEventListener('click', async (e) => {
   if (!e.target.classList.contains('disabled')) {
     try {
       await api.off()
 
       Notify.success('Success', 'Server is stopping')
+      e.target.classList.add('disabled')
     } catch (err) {
       Notify.error('Error', err.toString())
-    } finally {
-      e.target.classList.add('disabled')
     }
   }
 })
 
+// start typing animation
 new Typer(elements.logo.pre)
   .write('Code', 100)
   .then(async () => {
@@ -130,6 +133,7 @@ new Typer(elements.logo.pre)
             const st = new Typer(elements.state.post)
             let locker = new Locker()
 
+            // watch for server status changes
             setInterval(async () => {
               await locker.do(async () => {
                 if (!serverStatus) {

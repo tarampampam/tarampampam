@@ -107,6 +107,7 @@ export class Notify {
   }
 }
 
+/** @param {Number} delay */
 export async function pause(delay = 100) {
   await new Promise((resolve) => window.setTimeout(resolve, delay))
 }
