@@ -149,29 +149,41 @@ new Typer(elements.logo.pre)
 
                 lastServerStatus = serverStatus
 
+                const hasAuth = typeof keyStorage.get() === 'string'
+
                 switch (serverStatus) {
                   case 'starting':
+                    elements.act.self.classList.remove('hidden')
                     elements.act.on.classList.add('disabled')
                     elements.act.off.classList.add('disabled')
-                    elements.act.self.classList.remove('hidden')
                     break
 
                   case 'running':
-                    elements.act.on.classList.add('disabled')
-                    elements.act.off.classList.remove('disabled')
                     elements.act.self.classList.remove('hidden')
+                    elements.act.on.classList.add('disabled')
+                    if (hasAuth) {
+                      elements.act.off.classList.remove('disabled')
+                    }
                     break
 
                   case 'stopping':
+                    elements.act.self.classList.remove('hidden')
                     elements.act.on.classList.add('disabled')
                     elements.act.off.classList.add('disabled')
-                    elements.act.self.classList.remove('hidden')
                     break
 
                   case 'off':
-                    elements.act.on.classList.remove('disabled')
-                    elements.act.off.classList.add('disabled')
                     elements.act.self.classList.remove('hidden')
+                    if (hasAuth) {
+                      elements.act.on.classList.remove('disabled')
+                    }
+                    elements.act.off.classList.add('disabled')
+                    break
+
+                  default:
+                    elements.act.self.classList.add('hidden')
+                    elements.act.off.classList.add('disabled')
+                    elements.act.on.classList.add('disabled')
                     break
                 }
               })

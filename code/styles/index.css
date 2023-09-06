@@ -57,6 +57,10 @@ main {
 }
 
 @media screen and (max-width: 600px) {
+  .text-logo {
+    margin: 0.3em 0;
+  }
+
   .text-logo .pre,
   .text-logo .post {
     font-size: 4.5em;
@@ -64,6 +68,10 @@ main {
 }
 
 @media screen and (max-width: 400px) {
+  .text-logo {
+    margin: 0.5em 0;
+  }
+
   .text-logo .pre,
   .text-logo .post {
     font-size: 3em;
@@ -108,10 +116,4 @@ main {
 .actions .action:not(.disabled) {
   color: var(--color-text-highlight);
   font-weight: bold;
-}
-
-@media screen and (max-width: 400px) {
-  .actions .sugar {
-    display: none;
-  }
 }

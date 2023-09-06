@@ -1,5 +1,6 @@
 export default class API {
   key = '';
+  baseUri = '';
 
   /** @param {String} key */
   setKey(key) {
@@ -13,7 +14,7 @@ export default class API {
     // const fakes = ['starting', 'running', 'stopping', 'off']
     // return fakes[Math.floor(Math.random() * fakes.length)]
 
-    const resp = await fetch('vm')
+    const resp = await fetch(`${this.baseUri}vm`)
 
     if (resp.status !== 200) {
       throw await this.handleError(resp)
@@ -24,7 +25,7 @@ export default class API {
 
   /** @returns {Promise<void>} */
   async on() {
-    const resp = await fetch('vm/on', { method: 'POST', headers: { 'X-Key': this.key } })
+    const resp = await fetch(`${this.baseUri}vm/on`, { method: 'POST', headers: { 'X-Key': this.key } })
 
     if (resp.status !== 200) {
       throw await this.handleError(resp)
@@ -33,7 +34,7 @@ export default class API {
 
   /** @returns {Promise<void>} */
   async off() {
-    const resp = await fetch('vm/off', { method: 'POST', headers: { 'X-Key': this.key } })
+    const resp = await fetch(`${this.baseUri}vm/off`, { method: 'POST', headers: { 'X-Key': this.key } })
 
     if (resp.status !== 200) {
       throw await this.handleError(resp)
