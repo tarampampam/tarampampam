@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (2 days ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (3 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
@@ -38,19 +38,19 @@
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.25.0](https://github.com/tarampampam/error-pages/releases/tag/v2.25.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 2 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 2 weeks ago) - 🧰 Logic-less CLI templating tool
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 3 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 3 weeks ago) - 🧰 Logic-less CLI templating tool
 
 #### 🔨 Latest Pull Requests I published
 
 
 - [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
-- [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (2 weeks ago)
+- [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (5 days ago)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (6 days ago)
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 week ago)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (2 weeks ago)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly (2 weeks ago)
