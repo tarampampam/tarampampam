@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (4 days ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (5 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 weeks ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (2 weeks ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.25.0](https://github.com/tarampampam/error-pages/releases/tag/v2.25.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.3.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.3.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.4.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.4.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.0](https://github.com/temporalio/sdk-php/releases/tag/v2.6.0), 1 day ago) - Temporal PHP SDK
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.25.0](https://github.com/tarampampam/error-pages/releases/tag/v2.25.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 3 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) ([v0.1.1](https://github.com/tarampampam/mustpl/releases/tag/v0.1.1), 3 weeks ago) - 🧰 Logic-less CLI templating tool
 
 #### 🔨 Latest Pull Requests I published
 
