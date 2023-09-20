@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.4.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.4.1), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.0](https://github.com/temporalio/sdk-php/releases/tag/v2.6.0), 4 days ago) - Temporal PHP SDK
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.4.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.4.1), 4 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.0](https://github.com/temporalio/sdk-php/releases/tag/v2.6.0), 5 days ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.25.0](https://github.com/tarampampam/error-pages/releases/tag/v2.25.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.8.3](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.8.3), 3 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 
@@ -50,10 +50,10 @@
 #### ⭐ Recent stars
 
 
-- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (1 day ago)
+- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (2 days ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (1 week ago)
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 weeks ago)
-- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (2 weeks ago)
+- [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (3 weeks ago)
 
 #### 💬 Feedback
 
