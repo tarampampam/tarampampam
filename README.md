@@ -19,9 +19,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (4 days ago)
 - [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (3 weeks ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (3 weeks ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 weeks ago)
@@ -44,13 +44,13 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
+- [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 weeks ago)
 - [Fixed: Braces processing in the default environment variable values](https://github.com/tarampampam/mustpl/pull/6) on [tarampampam/mustpl](https://github.com/tarampampam/mustpl) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (5 days ago)
+- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (6 days ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (2 weeks ago)
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 weeks ago)
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display... (3 weeks ago)
