@@ -19,12 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (3 weeks ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 month ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 month ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 day ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 day ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -45,13 +46,13 @@
 
 
 - [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 week ago)
-- [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 weeks ago)
+- [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (3 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (4 days ago)
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (5 days ago)
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (2 weeks ago)
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (3 weeks ago)
 
