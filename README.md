@@ -19,13 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (2 days ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (2 days ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (3 days ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (3 days ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 3 days ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 4 days ago) - Temporal PHP SDK
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.4.1](https://github.com/StackExchange/dnscontrol/releases/tag/v4.4.1), 3 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.25.0](https://github.com/tarampampam/error-pages/releases/tag/v2.25.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -54,7 +54,7 @@
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1 week ago)
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (2 weeks ago)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (4 weeks ago)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy. (1 month ago)
 
 #### 💬 Feedback
 
