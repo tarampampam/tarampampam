@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (6 days ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,24 +36,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.5.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.5.0), 1 week ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 1 week ago) - Temporal PHP SDK
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 3 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 weeks ago)
+- [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (3 weeks ago)
 - [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (1 day ago)
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (2 days ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (2 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (2 weeks ago)
-- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (3 weeks ago)
+- [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (4 weeks ago)
 
 #### 💬 Feedback
 
