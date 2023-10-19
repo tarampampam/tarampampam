@@ -20,11 +20,11 @@
 
 
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
-- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (2 weeks ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
+- [tarampampam/laravel-roadrunner-in-docker](https://github.com/tarampampam/laravel-roadrunner-in-docker) - :rocket: An example of Laravel app that runs in a docker container with RoadRunner (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -50,9 +50,9 @@
 #### ⭐ Recent stars
 
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (4 days ago)
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (5 days ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (2 weeks ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (2 weeks ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (3 weeks ago)
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (1 month ago)
 
 #### 💬 Feedback
