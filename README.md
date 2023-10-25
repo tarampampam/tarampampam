@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.5.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.5.0), 2 weeks ago) - Synchronize your DNS to multiple providers from a simple DSL
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 2 weeks ago) - Temporal PHP SDK
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 4 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.6.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.6.0), 1 day ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 3 weeks ago) - Temporal PHP SDK
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (4 weeks ago)
+- [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 month ago)
 - [Feat: New CLI interface](https://github.com/tarampampam/error-pages/pull/223) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
 
 #### ⭐ Recent stars
