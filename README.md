@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.6.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.6.0), 2 days ago) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ([v4.6.0](https://github.com/StackExchange/dnscontrol/releases/tag/v4.6.0), 3 days ago) - Synchronize your DNS to multiple providers from a simple DSL
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.1](https://github.com/temporalio/sdk-php/releases/tag/v2.6.1), 3 weeks ago) - Temporal PHP SDK
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -51,7 +51,7 @@
 
 
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (1 week ago)
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (3 weeks ago)
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (4 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (4 weeks ago)
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go. (1 month ago)
 
