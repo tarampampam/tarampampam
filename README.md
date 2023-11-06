@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 month ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (1 day ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 day ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,22 +36,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.16.0](https://github.com/go-playground/validator/releases/tag/v10.16.0), 1 day ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.6.2](https://github.com/temporalio/sdk-php/releases/tag/v2.6.2), 3 days ago) - Temporal PHP SDK
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.4.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.4.0), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.0.4](https://github.com/gacts/install-hurl/releases/tag/v1.0.4), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 1 day ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.1.0](https://github.com/gacts/is-stargazer/releases/tag/v1.1.0), 1 day ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.0](https://github.com/gacts/install-mmock/releases/tag/v1.1.0), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.2.0](https://github.com/gacts/install-nomad/releases/tag/v1.2.0), 1 day ago) - 🚀 Installs nomad binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 days ago)
+- [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
+- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
 - [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (1 week ago)
 - [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (3 days ago)
+- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (4 days ago)
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go. (1 week ago)
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (3 weeks ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 month ago)
