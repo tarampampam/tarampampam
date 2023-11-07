@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (1 day ago)
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not) (1 day ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 day ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
-- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (1 day ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
+- [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) - 🚀 GitHub action for the jsDelivr cache purging (2 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 days ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,23 +36,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 1 day ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
-- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.1.0](https://github.com/gacts/is-stargazer/releases/tag/v1.1.0), 1 day ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.0](https://github.com/gacts/install-mmock/releases/tag/v1.1.0), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.2.0](https://github.com/gacts/install-nomad/releases/tag/v1.2.0), 1 day ago) - 🚀 Installs nomad binary file into your actions workflow
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 2 days ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.1.0](https://github.com/gacts/is-stargazer/releases/tag/v1.1.0), 2 days ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.0](https://github.com/gacts/install-mmock/releases/tag/v1.1.0), 2 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) ([v1.2.0](https://github.com/gacts/install-nomad/releases/tag/v1.2.0), 2 days ago) - 🚀 Installs nomad binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
-- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 days ago)
+- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
 - [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (1 week ago)
 - [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (4 days ago)
+- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (5 days ago)
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go. (1 week ago)
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (3 weeks ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 month ago)
