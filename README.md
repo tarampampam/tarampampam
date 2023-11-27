@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (6 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 weeks ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub acrion for running zricethezav/gitleaks (3 weeks ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA2](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA2), 3 days ago) - Temporal PHP SDK
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 6 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA2](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA2), 4 days ago) - Temporal PHP SDK
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R21](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R21), 1 week ago) - Source for the TechEmpower Framework Benchmarks project
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 3 weeks ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
 
@@ -46,7 +46,7 @@
 
 - [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (3 weeks ago)
 - [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
-- [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (4 weeks ago)
+- [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (1 month ago)
 - [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 months ago)
 
 #### ⭐ Recent stars
