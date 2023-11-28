@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA2](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA2), 4 days ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA2](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA2), 5 days ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R21](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R21), 1 week ago) - Source for the TechEmpower Framework Benchmarks project
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 3 weeks ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
