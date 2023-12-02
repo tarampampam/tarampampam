@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 1 day ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 2 days ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R21](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R21), 2 weeks ago) - Source for the TechEmpower Framework Benchmarks project
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.1](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.1), 3 weeks ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
@@ -45,17 +45,17 @@
 
 
 - [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (3 weeks ago)
-- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
+- [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (1 month ago)
 - [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 months ago)
 
 #### ⭐ Recent stars
 
 
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (1 week ago)
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 day ago)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2 weeks ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (3 weeks ago)
-- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (4 weeks ago)
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go. (1 month ago)
+- [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (1 month ago)
 
 #### 💬 Feedback
 
