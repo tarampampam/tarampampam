@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha6](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha6), 2 days ago) - A simple, fast, and fun package for building command line apps in Go
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 6 days ago) - Temporal PHP SDK
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha6](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha6), 3 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 1 week ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R21](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R21), 3 weeks ago) - Source for the TechEmpower Framework Benchmarks project
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (5 days ago)
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (6 days ago)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2 weeks ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (4 weeks ago)
 - [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (1 month ago)
