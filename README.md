@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha6](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha6), 4 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha6](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha6), 5 days ago) - A simple, fast, and fun package for building command line apps in Go
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 1 week ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
@@ -53,7 +53,7 @@
 
 
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 week ago)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (2 weeks ago)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (3 weeks ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
 - [coderabbitai/ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities. (1 month ago)
 
