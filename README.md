@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha6](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha6), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha7](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha7), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 1 week ago) - Temporal PHP SDK
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
