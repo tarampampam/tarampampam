@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 weeks ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 month ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 month ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 month ago)
@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha7](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha7), 6 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha7](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha7), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0-BETA3](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0-BETA3), 2 weeks ago) - Temporal PHP SDK
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 4 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,9 +52,9 @@
 #### ⭐ Recent stars
 
 
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (5 days ago)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (6 days ago)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (2 weeks ago)
-- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (4 weeks ago)
+- [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (1 month ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
 
 #### 💬 Feedback
