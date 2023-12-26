@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0), 2 days ago) - Temporal PHP SDK
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0), 3 days ago) - Temporal PHP SDK
 - [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha7](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha7), 2 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (1 week ago)
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (2 weeks ago)
 - [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (3 weeks ago)
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code (1 month ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
