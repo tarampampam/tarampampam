@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha8](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha8), 3 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v2.27.1](https://github.com/urfave/cli/releases/tag/v2.27.1), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.0](https://github.com/temporalio/sdk-php/releases/tag/v2.7.0), 1 week ago) - Temporal PHP SDK
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 day ago)
-- [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) (2 days ago)
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (2 days ago)
+- [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) (3 days ago)
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects (2 weeks ago)
-- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (4 weeks ago)
+- [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go (1 month ago)
 
 #### 💬 Feedback
 
