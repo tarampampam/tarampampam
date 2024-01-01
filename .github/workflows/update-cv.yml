@@ -32,7 +32,7 @@ jobs:
           gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
             -sOutputFile=./cv.pdf ./cv-uncompressed.pdf
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with: {name: cv-en.pdf, path: ./cv.pdf, retention-days: 1}
 
       - run: rm -v ./cv-uncompressed.pdf ./cv.pdf
@@ -43,7 +43,7 @@ jobs:
           gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/screen -dNOPAUSE -dQUIET -dBATCH \
             -sOutputFile=./cv.pdf ./cv-uncompressed.pdf
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with: {name: cv-ru.pdf, path: ./cv.pdf, retention-days: 1}
 
   update-cv-page:
