@@ -59,10 +59,10 @@ jobs:
         env: {GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
         working-directory: ./cv
 
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with: {name: cv-en.pdf, path: ./cv/dist}
 
-      - uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v4
         with: {name: cv-ru.pdf, path: ./cv/dist/ru}
 
       - uses: cloudflare/pages-action@1
