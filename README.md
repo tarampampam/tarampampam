@@ -36,10 +36,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) ([v2.7.2](https://github.com/temporalio/sdk-php/releases/tag/v2.7.2), 4 days ago) - Temporal PHP SDK
 - [urfave/cli](https://github.com/urfave/cli) ([v2.27.1](https://github.com/urfave/cli/releases/tag/v2.27.1), 2 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) ([R21](https://github.com/TechEmpower/FrameworkBenchmarks/releases/tag/R21), 2 months ago) - Source for the TechEmpower Framework Benchmarks project
 
 #### 🔨 Latest Pull Requests I published
 
