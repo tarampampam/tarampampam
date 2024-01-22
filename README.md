@@ -20,7 +20,7 @@
 
 
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (2 weeks ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 weeks ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 months ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 months ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 months ago)
@@ -52,8 +52,8 @@
 #### ⭐ Recent stars
 
 
-- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (1 day ago)
-- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (1 day ago)
+- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (2 days ago)
+- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (2 days ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (3 weeks ago)
 - [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) (3 weeks ago)
 
