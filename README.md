@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (4 days ago)
-- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (4 days ago)
+- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (5 days ago)
+- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (5 days ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (3 weeks ago)
-- [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) (3 weeks ago)
+- [Xinyuan-LilyGO/T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) (4 weeks ago)
 
 #### 💬 Feedback
 
