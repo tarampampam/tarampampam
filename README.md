@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.17.0](https://github.com/go-playground/validator/releases/tag/v10.17.0), 1 week ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.17.0](https://github.com/go-playground/validator/releases/tag/v10.17.0), 2 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [urfave/cli](https://github.com/urfave/cli) ([v2.27.1](https://github.com/urfave/cli/releases/tag/v2.27.1), 4 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.5.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.5.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 2 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (1 day ago)
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (2 days ago)
 - [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (1 week ago)
 - [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (1 week ago)
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (4 weeks ago)
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 month ago)
 
 #### 💬 Feedback
 
