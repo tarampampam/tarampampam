@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (5 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (5 days ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (6 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (6 days ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 weeks ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 months ago)
@@ -36,8 +36,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 2 days ago) - A simple, fast, and fun package for building command line apps in Go
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.18.0](https://github.com/go-playground/validator/releases/tag/v10.18.0), 3 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 3 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.18.0](https://github.com/go-playground/validator/releases/tag/v10.18.0), 4 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.6.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.6.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 2 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
