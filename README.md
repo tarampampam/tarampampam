@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 6 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 1 week ago) - A simple, fast, and fun package for building command line apps in Go
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.18.0](https://github.com/go-playground/validator/releases/tag/v10.18.0), 1 week ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.6.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.6.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 3 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -53,8 +53,8 @@
 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (3 weeks ago)
-- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (4 weeks ago)
-- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (4 weeks ago)
+- [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (1 month ago)
+- [gopro/labs](https://github.com/gopro/labs) - GoPro Labs (1 month ago)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. (1 month ago)
 
 #### 💬 Feedback
