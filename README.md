@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.19.0](https://github.com/go-playground/validator/releases/tag/v10.19.0), 4 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.19.0](https://github.com/go-playground/validator/releases/tag/v10.19.0), 5 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 3 weeks ago) - A simple, fast, and fun package for building command line apps in Go
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.6.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.6.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 3 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market. (2 days ago)
+- [Nuklon/Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market. (3 days ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (1 week ago)
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (1 month ago)
 - [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (1 month ago)
