@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 month ago)
-- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 month ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (2 months ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 months ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (4 months ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) - ✂ Mikrotik hosts parser (1 day ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.19.0](https://github.com/go-playground/validator/releases/tag/v10.19.0), 2 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [urfave/cli](https://github.com/urfave/cli) ([v3.0.0-alpha9](https://github.com/urfave/cli/releases/tag/v3.0.0-alpha9), 1 month ago) - A simple, fast, and fun package for building command line apps in Go
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.6.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.6.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.26.0](https://github.com/tarampampam/error-pages/releases/tag/v2.26.0), 3 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.6.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.6.0), 1 day ago) - ✂ Mikrotik hosts parser
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.1](https://github.com/gacts/install-mmock/releases/tag/v1.1.1), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.0](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.0), 1 day ago) - 🚀 Setup a Node environment, additionally enable caching
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 day ago)
+- [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 day ago)
 - [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (4 months ago)
 - [Dependencies update](https://github.com/tarampampam/webhook-tester/pull/431) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 months ago)
-- [Add `omitnil` modifier](https://github.com/go-playground/validator/pull/1187) on [go-playground/validator](https://github.com/go-playground/validator) (4 months ago)
-- [fix(dist_url): The distributive URL was fixed](https://github.com/gacts/install-hurl/pull/62) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (5 months ago)
 
 #### ⭐ Recent stars
 
