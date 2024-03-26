@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (6 days ago)
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (6 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (6 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (6 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (6 days ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (1 week ago)
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (1 week ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 6 days ago) - 🦜 One more Go library for using colors in the terminal console
+- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.6.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.6.0), 1 week ago) - ✂ Mikrotik hosts parser
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.1](https://github.com/gacts/install-mmock/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs mmock binary file into your actions workflow
@@ -52,9 +52,9 @@
 #### ⭐ Recent stars
 
 
-- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (2 days ago)
+- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (3 days ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (1 month ago)
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (1 month ago)
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (2 months ago)
 - [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (2 months ago)
 
 #### 💬 Feedback
