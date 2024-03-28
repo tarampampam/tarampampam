@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/mikrotik-hosts-parser](https://github.com/tarampampam/mikrotik-hosts-parser) ([v4.6.0](https://github.com/tarampampam/mikrotik-hosts-parser/releases/tag/v4.6.0), 1 week ago) - ✂ Mikrotik hosts parser
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.1](https://github.com/gacts/install-mmock/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs mmock binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 day ago)
+- [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 days ago)
 - [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 week ago)
 - [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 week ago)
 - [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (4 months ago)
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (4 days ago)
+- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (5 days ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (1 month ago)
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (2 months ago)
 - [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data (2 months ago)
