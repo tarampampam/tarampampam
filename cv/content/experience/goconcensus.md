@@ -4,12 +4,12 @@ project: GoConsensus
 period: 2022-present
 link: https://goconsensus.com/
 location: USA, Lehi, Utah (remote)
-stack: [Go, GitLab, AWS, Terraform, Temporal]
+stack: [Go, GitLab, AWS, React, Temporal, Architecture]
 weight: 60
 ---
 
-- Developed a media content processing service utilizing Go and Temporal, which replaced the previous implementation written in Go/PHP and SWF. This upgrade resulted in reduced video processing time and lowered costs for cloud infrastructure
-- Streamlined the application building and delivery process by migrating it to Docker and utilizing GitLab CI/CD
-- Created Terraform Runbooks for deploying infrastructure on AWS
-- Conducted interviews for Go developer positions
-- Performed code reviews and provided assistance to colleagues with challenging tasks
+- I played a key role in rewriting a media content processing service (similar to YouTube) using Go and Temporal instead of the old one written in Go/PHP and SWF; this led to a reduction in video processing time and the cost of cloud infrastructure
+- Developed the frontend part (admin panel) for it in ReactJS (the prototype was developed in VueJS)
+- Optimized the application build and delivery process by migrating it to Docker and GitLab CI/CD
+- Participated in the development of Terraform Runbooks for infrastructure deployments to AWS
+- Conducted code reviews and assisted colleagues in solving complex architectural problems
