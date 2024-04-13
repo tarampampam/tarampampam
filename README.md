@@ -45,15 +45,15 @@
 
 
 - [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (2 weeks ago)
-- [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (3 weeks ago)
-- [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (3 weeks ago)
+- [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (4 weeks ago)
+- [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (4 weeks ago)
 - [Changed version of node runtime for action from node16 to node20](https://github.com/gacts/install-dnscontrol/pull/44) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (5 months ago)
 
 #### ⭐ Recent stars
 
 
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
-- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (2 weeks ago)
+- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (3 weeks ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (1 month ago)
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets (2 months ago)
 
