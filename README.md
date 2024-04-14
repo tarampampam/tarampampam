@@ -39,7 +39,7 @@
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 3 weeks ago) - 🦜 One more Go library for using colors in the terminal console
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 4 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
