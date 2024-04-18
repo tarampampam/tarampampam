@@ -21,10 +21,10 @@
 
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (3 weeks ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running zricethezav/gitleaks (4 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 weeks ago)
-- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (4 weeks ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 weeks ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running zricethezav/gitleaks (1 month ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (1 month ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 2 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 4 weeks ago) - 🦜 One more Go library for using colors in the terminal console
+- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.2.1](https://github.com/tarampampam/colors/releases/tag/v1.2.1), 1 month ago) - 🦜 One more Go library for using colors in the terminal console
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v2.27.0](https://github.com/tarampampam/error-pages/releases/tag/v2.27.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
