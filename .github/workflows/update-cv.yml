@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: peaceiris/actions-hugo@v2
+      - uses: peaceiris/actions-hugo@v3
         with: {hugo-version: 0.101.0, extended: true}
 
       - run: sudo apt update && sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
@@ -52,7 +52,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: peaceiris/actions-hugo@v2
+      - uses: peaceiris/actions-hugo@v3
         with: {hugo-version: 0.101.0, extended: true}
 
       - run: hugo --minify --baseURL "https://cv.tarampamp.am/" -d ./dist
