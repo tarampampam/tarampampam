@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (6 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 days ago)
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (3 weeks ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 month ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (5 days ago)
+- [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (6 days ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 weeks ago)
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (1 month ago)
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 months ago)
