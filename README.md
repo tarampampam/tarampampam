@@ -19,13 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
-- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (1 day ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 days ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [urfave/cli](https://github.com/urfave/cli) ([v2.27.2](https://github.com/urfave/cli/releases/tag/v2.27.2), 1 day ago) - A simple, fast, and fun package for building command line apps in Go
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 day ago) - 🚀 Installs hurl binary file into your actions workflow
+- [urfave/cli](https://github.com/urfave/cli) ([v2.27.2](https://github.com/urfave/cli/releases/tag/v2.27.2), 2 days ago) - A simple, fast, and fun package for building command line apps in Go
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 2 days ago) - 🚀 Installs hurl binary file into your actions workflow
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 3 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix the binary files path (resolves #78)](https://github.com/gacts/install-hurl/pull/79) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 day ago)
+- [Fix the binary files path (resolves #78)](https://github.com/gacts/install-hurl/pull/79) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 days ago)
 - [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 month ago)
 - [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
 - [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
@@ -53,10 +52,10 @@
 #### ⭐ Recent stars
 
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 day ago)
 - [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (1 week ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 weeks ago)
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (1 month ago)
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt (2 months ago)
 
 #### 💬 Feedback
 
