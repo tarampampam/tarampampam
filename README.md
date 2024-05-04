@@ -19,12 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (6 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (6 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (6 days ago)
-- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (6 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (6 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (6 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 3 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 6 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 4 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 month ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Fix the binary files path (resolves #78)](https://github.com/gacts/install-hurl/pull/79) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (6 days ago)
+- [Fix the binary files path (resolves #78)](https://github.com/gacts/install-hurl/pull/79) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 week ago)
 - [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 month ago)
 - [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
 - [fix: macOS dist URL](https://github.com/gacts/install-mmock/pull/75) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (5 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (6 days ago)
 - [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (1 week ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (4 weeks ago)
-- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (1 month ago)
 
 #### 💬 Feedback
 
