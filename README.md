@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 5 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 6 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 month ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.7.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.7.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 days ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
 - [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (2 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 month ago)
