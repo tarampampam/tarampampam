@@ -52,7 +52,7 @@
 #### ⭐ Recent stars
 
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 days ago)
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) - This repository contains compatibility data for Web technologies as displayed on MDN (1 week ago)
 - [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (2 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 month ago)
