@@ -19,8 +19,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 day ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 weeks ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
 - [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (2 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.0-alpha-1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.0-alpha-1), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.0-alpha-3](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.0-alpha-3), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 1 week ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 month ago) - :calling: Docker image with 3proxy - Tiny free proxy server
@@ -44,7 +44,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [New major version - v4.0.0](https://github.com/tarampampam/random-user-agent/pull/574) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
+- [New major version - v4.0.0](https://github.com/tarampampam/random-user-agent/pull/574) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
 - [Fix the binary files path (resolves #78)](https://github.com/gacts/install-hurl/pull/79) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 weeks ago)
 - [Domains cleanup 6 (resolves #386)](https://github.com/tarampampam/free-domains/pull/387) on [tarampampam/free-domains](https://github.com/tarampampam/free-domains) (1 month ago)
 - [fix: Fix the previous MR](https://github.com/gacts/install-mmock/pull/76) on [gacts/install-mmock](https://github.com/gacts/install-mmock) (1 month ago)
@@ -53,7 +53,7 @@
 
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
-- [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (2 weeks ago)
+- [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (3 weeks ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 month ago)
 - [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS (1 month ago)
 
