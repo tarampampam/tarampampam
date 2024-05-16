@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 day ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (5 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 weeks ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (6 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
 - [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (2 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
 
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.1), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.1), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 2 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 month ago) - :calling: Docker image with 3proxy - Tiny free proxy server
@@ -44,10 +44,10 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
-- [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
-- [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
-- [fix(firefox): Fix the Firefox error, when invalid IP addresses are in the whitelist](https://github.com/tarampampam/random-user-agent/pull/579) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
+- [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [fix(firefox): Fix the Firefox error, when invalid IP addresses are in the whitelist](https://github.com/tarampampam/random-user-agent/pull/579) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
 
 #### ⭐ Recent stars
 
