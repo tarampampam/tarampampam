@@ -21,9 +21,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-{{ range recentContributions 7 }}{{ if ne .Repo.Name "iddqd-uk/blog" }}{{ if ne .Repo.Name "Annsh21/portfolio" }}
+{{ range recentContributions 7 }}{{ if ne .Repo.Name "iddqd-uk/blog" }}{{ if ne .Repo.Name "Annsh21/portfolio" }}{{ if ne .Repo.Name "klassuk/klassuk" }}{{ if ne .Repo.Name "klassuk/klassuk.github.io" }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }} ({{ humanize .OccurredAt }})
-{{- end }}{{- end }}{{- end }}
+{{- end }}{{- end }}{{- end }}{{- end }}{{- end }}
 
 #### 🌱 My latest projects
 
