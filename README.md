@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 weeks ago)
@@ -34,15 +34,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.2](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.2), 6 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.2](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.2), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 3 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 3 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.9.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.9.1), 1 month ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 days ago)
 - [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
@@ -50,7 +50,7 @@
 #### ⭐ Recent stars
 
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (6 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [ExtensionNinja/extension-publish](https://github.com/ExtensionNinja/extension-publish) - Github action to automate Chrome extension upload and publishing to Chrome Web Store. (1 month ago)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 month ago)
