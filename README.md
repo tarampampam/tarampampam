@@ -19,10 +19,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 weeks ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 weeks ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -34,15 +34,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.0.2](https://github.com/tarampampam/random-user-agent/releases/tag/v4.0.2), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 3 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 4 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (6 days ago)
+- [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
