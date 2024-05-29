@@ -34,8 +34,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 4 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
 
