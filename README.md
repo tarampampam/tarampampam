@@ -34,9 +34,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 6 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.21.0](https://github.com/go-playground/validator/releases/tag/v10.21.0), 1 day ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.20.0](https://github.com/go-playground/validator/releases/tag/v10.20.0), 1 month ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
@@ -50,10 +50,10 @@
 #### ⭐ Recent stars
 
 
-- [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (3 days ago)
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (3 days ago)
+- [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (4 days ago)
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (4 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 weeks ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 #### 💬 Feedback
 
