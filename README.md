@@ -34,7 +34,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.21.0](https://github.com/go-playground/validator/releases/tag/v10.21.0), 4 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.21.0](https://github.com/go-playground/validator/releases/tag/v10.21.0), 5 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -52,7 +52,7 @@
 
 - [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (1 week ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (1 week ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (3 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 #### 💬 Feedback
