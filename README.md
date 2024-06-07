@@ -21,7 +21,7 @@
 
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 weeks ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (4 weeks ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.21.0](https://github.com/go-playground/validator/releases/tag/v10.21.0), 5 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+- [go-playground/validator](https://github.com/go-playground/validator) ([v10.21.0](https://github.com/go-playground/validator/releases/tag/v10.21.0), 6 days ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
