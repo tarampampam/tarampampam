@@ -20,9 +20,9 @@
 
 
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (4 weeks ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -43,9 +43,9 @@
 
 
 - [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
+- [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 weeks ago)
+- [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 weeks ago)
+- [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 weeks ago)
 
 #### ⭐ Recent stars
 
