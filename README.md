@@ -19,10 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 month ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (today)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (today)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (today)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
+- [gacts/.github](https://github.com/gacts/.github) - :octocat: Health files (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -34,26 +37,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) ([v10.22.0](https://github.com/go-playground/validator/releases/tag/v10.22.0), 1 week ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.8.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.8.0), 4 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.1.1](https://github.com/gacts/install-hurl/releases/tag/v1.1.1), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.2.1](https://github.com/gacts/gitleaks/releases/tag/v1.2.1), 1 day ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.1](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.1), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.2.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.2.1), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.3.1](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.3.1), 1 day ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Add option to disable stats collecting](https://github.com/tarampampam/random-user-agent/pull/585) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
-- [Revert &#34;fix: Storage availability checking method (use random string instead of null)&#34;](https://github.com/tarampampam/random-user-agent/pull/582) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
-- [fix: Storage availability checking method (use random string instead of null)](https://github.com/tarampampam/random-user-agent/pull/581) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
-- [fix: Default generator types were not set depending on the browser](https://github.com/tarampampam/random-user-agent/pull/580) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/gitleaks/pull/75) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/run-and-post-run/pull/34) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 day ago)
+- [Yarn to npm and refactoring](https://github.com/gacts/install-dnscontrol/pull/56) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
+- [Deprecate the action](https://github.com/gacts/setup-go-with-cache/pull/6) on [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) (1 day ago)
 
 #### ⭐ Recent stars
 
 
+- [imsnif/synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa (1 day ago)
 - [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (3 weeks ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 #### 💬 Feedback
 
