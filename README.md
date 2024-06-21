@@ -19,13 +19,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (today)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (today)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (today)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching (1 day ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
-- [gacts/.github](https://github.com/gacts/.github) - :octocat: Health files (1 day ago)
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -37,26 +37,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.2.1](https://github.com/gacts/gitleaks/releases/tag/v1.2.1), 1 day ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.1](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.1), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.2.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.2.1), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
-- [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) ([v1.3.1](https://github.com/gacts/setup-go-with-cache/releases/tag/v1.3.1), 1 day ago) - 🚀 Setup a Go environment, additionally enable the module &amp; build caching
+- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 1 day ago) - 🚀 Installs Podman into your actions workflow
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 1 day ago) - 🚀 Setup a Node environment, additionally enable caching
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.1](https://github.com/gacts/github-slug/releases/tag/v1.3.1), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/is-stargazer](https://github.com/gacts/is-stargazer) ([v1.1.1](https://github.com/gacts/is-stargazer/releases/tag/v1.1.1), 1 day ago) - 🚀 GitHub Action to check whether the user is a stargazer (starred a repo or not)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/gitleaks/pull/75) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/run-and-post-run/pull/34) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 day ago)
-- [Yarn to npm and refactoring](https://github.com/gacts/install-dnscontrol/pull/56) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
-- [Deprecate the action](https://github.com/gacts/setup-go-with-cache/pull/6) on [gacts/setup-go-with-cache](https://github.com/gacts/setup-go-with-cache) (1 day ago)
+- [Deprecate the action](https://github.com/gacts/install-podman/pull/4) on [gacts/install-podman](https://github.com/gacts/install-podman) (1 day ago)
+- [Refactoring](https://github.com/gacts/github-slug/pull/75) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 day ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/is-stargazer/pull/45) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (1 day ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/purge-jsdelivr-cache/pull/58) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (1 day ago)
 
 #### ⭐ Recent stars
 
 
-- [imsnif/synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa (1 day ago)
 - [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (3 weeks ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (3 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 #### 💬 Feedback
 
