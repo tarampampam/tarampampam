@@ -19,13 +19,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (3 days ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) - 🚀 Setup a Node environment, additionally enable caching (3 days ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 days ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (4 days ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,18 +36,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 1 day ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 3 days ago) - 🚀 Installs Podman into your actions workflow
-- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 3 days ago) - 🚀 Setup a Node environment, additionally enable caching
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.1](https://github.com/gacts/github-slug/releases/tag/v1.3.1), 3 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 2 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 4 days ago) - 🚀 Installs Podman into your actions workflow
+- [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 4 days ago) - 🚀 Setup a Node environment, additionally enable caching
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.1](https://github.com/gacts/github-slug/releases/tag/v1.3.1), 4 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Deprecate the action](https://github.com/gacts/install-podman/pull/4) on [gacts/install-podman](https://github.com/gacts/install-podman) (3 days ago)
-- [Refactoring](https://github.com/gacts/github-slug/pull/75) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 days ago)
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/is-stargazer/pull/45) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (3 days ago)
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/purge-jsdelivr-cache/pull/58) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (3 days ago)
+- [Deprecate the action](https://github.com/gacts/install-podman/pull/4) on [gacts/install-podman](https://github.com/gacts/install-podman) (4 days ago)
+- [Refactoring](https://github.com/gacts/github-slug/pull/75) on [gacts/github-slug](https://github.com/gacts/github-slug) (4 days ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/is-stargazer/pull/45) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (4 days ago)
+- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/purge-jsdelivr-cache/pull/58) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (4 days ago)
 
 #### ⭐ Recent stars
 
