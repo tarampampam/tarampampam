@@ -19,7 +19,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (5 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (6 days ago)
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
@@ -36,7 +36,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 5 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 6 days ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs Podman into your actions workflow
 - [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 1 week ago) - 🚀 Setup a Node environment, additionally enable caching
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.1](https://github.com/gacts/github-slug/releases/tag/v1.3.1), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
@@ -52,10 +52,10 @@
 #### ⭐ Recent stars
 
 
-- [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (4 weeks ago)
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (4 weeks ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (1 day ago)
+- [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (1 month ago)
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 #### 💬 Feedback
 
