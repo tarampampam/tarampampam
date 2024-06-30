@@ -19,9 +19,9 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
@@ -36,23 +36,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.0.0-alpha-1](https://github.com/tarampampam/error-pages/releases/tag/v3.0.0-alpha-1), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 1 week ago) - 🚀 Installs Podman into your actions workflow
 - [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 1 week ago) - 🚀 Setup a Node environment, additionally enable caching
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.1](https://github.com/gacts/github-slug/releases/tag/v1.3.1), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [V3](https://github.com/tarampampam/error-pages/pull/287) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
 - [Deprecate the action](https://github.com/gacts/install-podman/pull/4) on [gacts/install-podman](https://github.com/gacts/install-podman) (1 week ago)
 - [Refactoring](https://github.com/gacts/github-slug/pull/75) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 - [Switch from yarn to npm and refactor the action code](https://github.com/gacts/is-stargazer/pull/45) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (1 week ago)
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/purge-jsdelivr-cache/pull/58) on [gacts/purge-jsdelivr-cache](https://github.com/gacts/purge-jsdelivr-cache) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (2 days ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (3 days ago)
 - [grafana/xk6-ts](https://github.com/grafana/xk6-ts) - TypeScript support for k6 (1 month ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
