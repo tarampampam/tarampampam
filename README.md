@@ -1,3 +1,7 @@
+> [!NOTE]
+> Hello there! I'm available for hire. Whether you're looking for someone for an existing project or building a team for a startup,
+> feel free to email me at `github@tarampamp.am`. I'll be happy to send you my CV 🤝
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
 </p>
@@ -14,17 +18,15 @@
 
 <br clear="both"/>
 
-
-
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (today)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (today)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 weeks ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 weeks ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (2 weeks ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
+- [gacts/install-podman](https://github.com/gacts/install-podman) - 🚀 Installs Podman into your actions workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.0.0-beta-1](https://github.com/tarampampam/error-pages/releases/tag/v3.0.0-beta-1), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.1.0](https://github.com/tarampampam/error-pages/releases/tag/v3.1.0), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 2 weeks ago) - 🚀 Installs Podman into your actions workflow
 - [gacts/setup-node-with-cache](https://github.com/gacts/setup-node-with-cache) ([v1.2.2](https://github.com/gacts/setup-node-with-cache/releases/tag/v1.2.2), 2 weeks ago) - 🚀 Setup a Node environment, additionally enable caching
@@ -44,10 +46,10 @@
 #### 🔨 Latest Pull Requests I published
 
 
+- [feat: Add HTML/CSS/JS minification on the fly](https://github.com/tarampampam/error-pages/pull/293) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (today)
+- [Forgot to include the SSL certificates in the Docker image](https://github.com/tarampampam/error-pages/pull/292) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (today)
 - [V3](https://github.com/tarampampam/error-pages/pull/287) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (6 days ago)
 - [Deprecate the action](https://github.com/gacts/install-podman/pull/4) on [gacts/install-podman](https://github.com/gacts/install-podman) (2 weeks ago)
-- [Refactoring](https://github.com/gacts/github-slug/pull/75) on [gacts/github-slug](https://github.com/gacts/github-slug) (2 weeks ago)
-- [Switch from yarn to npm and refactor the action code](https://github.com/gacts/is-stargazer/pull/45) on [gacts/is-stargazer](https://github.com/gacts/is-stargazer) (2 weeks ago)
 
 #### ⭐ Recent stars
 
@@ -59,6 +61,4 @@
 
 #### 💬 Feedback
 
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
-
-
+If you use one of my projects, I'd love to hear from you! Please don't hesitate to share what you liked and what could be improved. Have an issue? Open a ticket—I don't bite and will do my best to help!
