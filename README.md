@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 weeks ago)
 - [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (2 weeks ago)
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.1), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.1.0](https://github.com/tarampampam/error-pages/releases/tag/v3.1.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.2.0](https://github.com/tarampampam/error-pages/releases/tag/v3.2.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.1.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.1.1), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 - [gacts/install-podman](https://github.com/gacts/install-podman) ([v1.1.1](https://github.com/gacts/install-podman/releases/tag/v1.1.1), 2 weeks ago) - 🚀 Installs Podman into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix: Unable to switch off the stats collecting](https://github.com/tarampampam/random-user-agent/pull/598) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
-- [feat: Add HTML/CSS/JS minification on the fly](https://github.com/tarampampam/error-pages/pull/293) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
-- [Forgot to include the SSL certificates in the Docker image](https://github.com/tarampampam/error-pages/pull/292) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
-- [V3](https://github.com/tarampampam/error-pages/pull/287) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
+- [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
+- [fix: Unable to switch off the stats collecting](https://github.com/tarampampam/random-user-agent/pull/598) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [feat: Add HTML/CSS/JS minification on the fly](https://github.com/tarampampam/error-pages/pull/293) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
+- [Forgot to include the SSL certificates in the Docker image](https://github.com/tarampampam/error-pages/pull/292) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
 
 #### ⭐ Recent stars
 
