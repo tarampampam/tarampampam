@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 weeks ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 month ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.0), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.2.0](https://github.com/tarampampam/error-pages/releases/tag/v3.2.0), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
