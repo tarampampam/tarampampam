@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.1), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.1), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.0), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.2.0](https://github.com/tarampampam/error-pages/releases/tag/v3.2.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (2 days ago)
+- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (3 days ago)
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg. (2 weeks ago)
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (2 weeks ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data. (1 month ago)
