@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (6 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 month ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (1 month ago)
+- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,8 +56,8 @@
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (1 week ago)
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (2 weeks ago)
-- [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg. (4 weeks ago)
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (4 weeks ago)
+- [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg. (1 month ago)
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing (1 month ago)
 
 #### 💬 Feedback
 
