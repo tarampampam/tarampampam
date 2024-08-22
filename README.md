@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 months ago)
-- [gacts/install-nomad](https://github.com/gacts/install-nomad) - 🚀 Installs nomad binary file into your actions workflow (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@
 
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.0](https://github.com/tarampampam/error-pages/releases/tag/v3.3.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.0), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 2 months ago) - 🚀 Installs hurl binary file into your actions workflow
 
