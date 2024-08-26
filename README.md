@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 week ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (5 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (5 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (2 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 months ago)
