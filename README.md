@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 months ago)
@@ -47,14 +47,14 @@
 
 
 - [Overload Navigator.maxTouchPoints property for Android and iOS devices](https://github.com/tarampampam/random-user-agent/pull/601) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
-- [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
+- [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 months ago)
 - [fix: Unable to switch off the stats collecting](https://github.com/tarampampam/random-user-agent/pull/598) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 months ago)
 - [feat: Add HTML/CSS/JS minification on the fly](https://github.com/tarampampam/error-pages/pull/293) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 months ago)
 
 #### ⭐ Recent stars
 
 
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (4 days ago)
+- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (5 days ago)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (3 weeks ago)
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (1 month ago)
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg. (1 month ago)
