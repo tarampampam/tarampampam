@@ -21,11 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (4 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (5 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (3 weeks ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (4 weeks ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 months ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.1), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.1), 4 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.0](https://github.com/tarampampam/error-pages/releases/tag/v3.3.0), 4 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.9.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.9.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.2.0](https://github.com/gacts/install-hurl/releases/tag/v1.2.0), 2 months ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -46,8 +46,8 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 days ago)
-- [Go updateing and refactoring](https://github.com/tarampampam/webhook-tester/pull/565) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 days ago)
+- [Go updateing and refactoring](https://github.com/tarampampam/webhook-tester/pull/565) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
 - [Overload Navigator.maxTouchPoints property for Android and iOS devices](https://github.com/tarampampam/random-user-agent/pull/601) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 - [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 months ago)
 
