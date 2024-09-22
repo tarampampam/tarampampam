@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 month ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.22.1](https://github.com/go-playground/validator/releases/tag/v10.22.1), 1 week ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.0](https://github.com/tarampampam/error-pages/releases/tag/v3.3.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
