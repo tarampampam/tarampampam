@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.2](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.2), 3 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.2.2](https://github.com/tarampampam/random-user-agent/releases/tag/v4.2.2), 4 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.22.1](https://github.com/go-playground/validator/releases/tag/v10.22.1), 2 weeks ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.0](https://github.com/tarampampam/error-pages/releases/tag/v3.3.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
