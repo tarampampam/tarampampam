@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (2 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (3 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (4 weeks ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 month ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 months ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
+- [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 weeks ago)
 - [Go updateing and refactoring](https://github.com/tarampampam/webhook-tester/pull/565) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
 - [Overload Navigator.maxTouchPoints property for Android and iOS devices](https://github.com/tarampampam/random-user-agent/pull/601) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 months ago)
 - [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 months ago)
@@ -56,7 +56,7 @@
 
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 month ago)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular &amp; Accessible UI Components for your React Applications (1 month ago)
-- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (1 month ago)
+- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. (2 months ago)
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg. (2 months ago)
 
 #### 💬 Feedback
