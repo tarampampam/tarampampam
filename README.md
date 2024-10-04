@@ -47,9 +47,9 @@
 
 
 - [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (4 weeks ago)
-- [Go updateing and refactoring](https://github.com/tarampampam/webhook-tester/pull/565) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
+- [Go updateing and refactoring](https://github.com/tarampampam/webhook-tester/pull/565) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [Overload Navigator.maxTouchPoints property for Android and iOS devices](https://github.com/tarampampam/random-user-agent/pull/601) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 months ago)
-- [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 months ago)
+- [Add env variable ADD_TEMPLATE &amp; set LOG_FORMAT to json be default](https://github.com/tarampampam/error-pages/pull/295) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 months ago)
 
 #### ⭐ Recent stars
 
