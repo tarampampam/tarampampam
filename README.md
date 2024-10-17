@@ -21,10 +21,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (5 days ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (3 weeks ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 month ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (2 months ago)
 
@@ -38,17 +38,17 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 2 days ago) - 💥 Domain names with valid SSL for your local docker containers
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 5 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 3 days ago) - 💥 Domain names with valid SSL for your local docker containers
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 6 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 4 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.22.1](https://github.com/go-playground/validator/releases/tag/v10.22.1), 1 month ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore(ci): Add app frontend tests](https://github.com/tarampampam/indocker-app/pull/52) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
-- [V2](https://github.com/tarampampam/indocker-app/pull/39) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 days ago)
-- [Remove stats collecting](https://github.com/tarampampam/random-user-agent/pull/620) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (5 days ago)
+- [chore(ci): Add app frontend tests](https://github.com/tarampampam/indocker-app/pull/52) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (3 days ago)
+- [V2](https://github.com/tarampampam/indocker-app/pull/39) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (3 days ago)
+- [Remove stats collecting](https://github.com/tarampampam/random-user-agent/pull/620) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (6 days ago)
 - [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 
 #### ⭐ Recent stars
