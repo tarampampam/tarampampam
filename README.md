@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 1 week ago) - 💥 Domain names with valid SSL for your local docker containers
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 2 weeks ago) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [go-playground/validator](https://github.com/go-playground/validator) ([v10.22.1](https://github.com/go-playground/validator/releases/tag/v10.22.1), 1 month ago) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
@@ -46,16 +46,16 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore(ci): Add app frontend tests](https://github.com/tarampampam/indocker-app/pull/52) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 week ago)
-- [V2](https://github.com/tarampampam/indocker-app/pull/39) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (1 week ago)
+- [chore(ci): Add app frontend tests](https://github.com/tarampampam/indocker-app/pull/52) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
+- [V2](https://github.com/tarampampam/indocker-app/pull/39) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [Remove stats collecting](https://github.com/tarampampam/random-user-agent/pull/620) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 weeks ago)
 - [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 day ago)
-- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 days ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (2 days ago)
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (3 days ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
 
