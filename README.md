@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (4 days ago)
-- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (5 days ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (5 days ago)
+- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (6 days ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
 
