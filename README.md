@@ -21,12 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 month ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 The powerful tool to test webhooks and not only (1 month ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (2 months ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -46,15 +47,15 @@
 #### 🔨 Latest Pull Requests I published
 
 
+- [V2](https://github.com/tarampampam/webhook-tester/pull/583) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
 - [chore(ci): Add app frontend tests](https://github.com/tarampampam/indocker-app/pull/52) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [V2](https://github.com/tarampampam/indocker-app/pull/39) on [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) (2 weeks ago)
 - [Remove stats collecting](https://github.com/tarampampam/random-user-agent/pull/620) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [Update default browser versions](https://github.com/tarampampam/random-user-agent/pull/613) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (6 days ago)
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 week ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 week ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (3 weeks ago)
