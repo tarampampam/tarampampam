@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (5 days ago)
 - [urfave/cli-docs](https://github.com/urfave/cli-docs) - Extended documentation library for use with urfave/cli/v3 (1 week ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0-alpha2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0-alpha2), 4 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0-alpha2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0-alpha2), 5 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 4 weeks ago) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.10.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.10.1), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Added the Tunnel feature, fixed several UI bugs, and updated the CI](https://github.com/tarampampam/webhook-tester/pull/590) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
+- [Added the Tunnel feature, fixed several UI bugs, and updated the CI](https://github.com/tarampampam/webhook-tester/pull/590) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (6 days ago)
 - [Fix the incompatibility that occurred after updating `urfave/cli` (v3.0.0-alpha9.2)](https://github.com/urfave/cli-docs/pull/6) on [urfave/cli-docs](https://github.com/urfave/cli-docs) (1 week ago)
 - [Add K6 e2e tests and improve the CI](https://github.com/tarampampam/webhook-tester/pull/588) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [v2](https://github.com/tarampampam/webhook-tester/pull/583) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (3 days ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (4 days ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (2 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (2 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
