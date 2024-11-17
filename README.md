@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (4 days ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (4 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (5 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (5 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [urfave/cli-docs](https://github.com/urfave/cli-docs) - Extended documentation library for use with urfave/cli/v3 (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.10.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.10.0), 4 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.10.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.10.0), 5 days ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0-alpha2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0-alpha2), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 1 month ago) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
@@ -46,8 +46,8 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
-- [Allow to configure log output and make CI great again](https://github.com/tarampampam/3proxy-docker/pull/60) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (4 days ago)
+- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
+- [Allow to configure log output and make CI great again](https://github.com/tarampampam/3proxy-docker/pull/60) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (5 days ago)
 - [Added the Tunnel feature, fixed several UI bugs, and updated the CI](https://github.com/tarampampam/webhook-tester/pull/590) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [Fix the incompatibility that occurred after updating `urfave/cli` (v3.0.0-alpha9.2)](https://github.com/urfave/cli-docs/pull/6) on [urfave/cli-docs](https://github.com/urfave/cli-docs) (1 week ago)
 
