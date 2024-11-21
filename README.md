@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (1 week ago)
 - [urfave/cli-docs](https://github.com/urfave/cli-docs) - Extended documentation library for use with urfave/cli/v3 (2 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,23 +38,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0-alpha4](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0-alpha4), 1 day ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.11.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.11.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0-alpha4](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0-alpha4), 2 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.10.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.10.0), 1 week ago) - :calling: Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 1 month ago) - 💥 Domain names with valid SSL for your local docker containers
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.0](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.0), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
+- [feat(storage): SQLite driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (6 days ago)
 - [Allow to configure log output and make CI great again](https://github.com/tarampampam/3proxy-docker/pull/60) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [Added the Tunnel feature, fixed several UI bugs, and updated the CI](https://github.com/tarampampam/webhook-tester/pull/590) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 weeks ago)
-- [Fix the incompatibility that occurred after updating `urfave/cli` (v3.0.0-alpha9.2)](https://github.com/urfave/cli-docs/pull/6) on [urfave/cli-docs](https://github.com/urfave/cli-docs) (2 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits. (3 days ago)
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits. (4 days ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (1 week ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (3 weeks ago)
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (3 weeks ago)
