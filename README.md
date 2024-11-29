@@ -47,17 +47,17 @@
 
 
 - [feat(storage): SQLite storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
-- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
+- [First review changes](https://github.com/tarampampam/webhook-tester/pull/595) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 weeks ago)
 - [Allow to configure log output and make CI great again](https://github.com/tarampampam/3proxy-docker/pull/60) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 weeks ago)
 - [Added the Tunnel feature, fixed several UI bugs, and updated the CI](https://github.com/tarampampam/webhook-tester/pull/590) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
 
 #### ⭐ Recent stars
 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (1 day ago)
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits. (1 week ago)
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (2 weeks ago)
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (3 weeks ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 month ago)
-- [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go (1 month ago)
 
 #### 💬 Feedback
 
