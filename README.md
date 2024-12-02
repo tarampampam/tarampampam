@@ -26,7 +26,7 @@
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
-- [urfave/cli-docs](https://github.com/urfave/cli-docs) - Extended documentation library for use with urfave/cli/v3 (3 weeks ago)
+- [urfave/cli-docs](https://github.com/urfave/cli-docs) - Extended documentation library for use with urfave/cli/v3 (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (3 days ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (4 days ago)
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits. (2 weeks ago)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. (3 weeks ago)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library (1 month ago)
