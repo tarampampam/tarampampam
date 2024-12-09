@@ -1,6 +1,6 @@
 > [!NOTE]
 > Hello there! I'm available for hire. Whether you're looking for someone for an existing project or building a team for a startup,
-> feel free to email me at `github@tarampamp.am`. I'll be happy to send you my CV 🤝
+> feel free to email me at [`github@tarampamp.am`](mailto:github@tarampamp.am). I'll be happy to send you my CV 🤝
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (today)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (5 days ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 weeks ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (3 weeks ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - :calling: Docker image with 3proxy - Tiny free proxy server (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.1](https://github.com/tarampampam/error-pages/releases/tag/v3.3.1), today) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.0), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.11.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.11.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.10.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.10.0), 3 weeks ago) - :calling: Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v2.0.0-alpha1](https://github.com/tarampampam/indocker-app/releases/tag/v2.0.0-alpha1), 1 month ago) - 💥 Domain names with valid SSL for your local docker containers
 
 #### 🔨 Latest Pull Requests I published
 
