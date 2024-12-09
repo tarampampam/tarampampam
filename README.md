@@ -61,4 +61,4 @@
 
 #### 💬 Feedback
 
-If you use one of my projects, I'd love to hear from you! Please don't hesitate to share what you liked and what could be improved. Have an issue? Open a ticket—I don't bite and will do my best to help!
+If you use one of my projects, I'd love to hear from you! Please don't hesitate to share what you liked and what could be improved. Have an issue? Open a ticket - I don't bite and will do my best to help!
