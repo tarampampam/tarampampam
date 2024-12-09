@@ -1,6 +1,6 @@
 > [!NOTE]
 > Hello there! I'm available for hire. Whether you're looking for someone for an existing project or building a team for a startup,
-> feel free to email me at `github@tarampamp.am`. I'll be happy to send you my CV 🤝
+> feel free to email me at [`github@tarampamp.am`](mailto:github@tarampamp.am). I'll be happy to send you my CV 🤝
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7326800/169659102-a2a08918-f296-4c9e-8182-625598c9ea35.png" alt="coding" width="100%" />
