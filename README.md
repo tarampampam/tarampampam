@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.13](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.13), 4 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.13](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.13), 5 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.1), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.11.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.11.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.1](https://github.com/tarampampam/error-pages/releases/tag/v3.3.1), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
@@ -54,10 +54,10 @@
 #### ⭐ Recent stars
 
 
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (2 days ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (2 weeks ago)
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (1 day ago)
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (3 days ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (4 weeks ago)
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits. (1 month ago)
 
 #### 💬 Feedback
 
