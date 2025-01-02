@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 weeks ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (6 days ago)
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (1 week ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 week ago)
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (1 month ago)
