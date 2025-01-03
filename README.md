@@ -21,12 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 weeks ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 weeks ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 weeks ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (4 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (today)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 day ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +39,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([2.0.0-alpha.13](https://github.com/tarampampam/rssbot-docker/releases/tag/2.0.0-alpha.13), 1 week ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.0.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.0.1), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.11.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.11.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.1](https://github.com/tarampampam/error-pages/releases/tag/v3.3.1), 3 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.2](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.2), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 1 day ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.2](https://github.com/gacts/github-slug/releases/tag/v1.3.2), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -56,7 +57,7 @@
 
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (1 week ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 week ago)
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (3 weeks ago)
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (4 weeks ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (1 month ago)
 
 #### 💬 Feedback
