@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (today)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 day ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 day ago)
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (1 day ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 day ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (2 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 days ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,10 +39,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.2](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.2), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 1 day ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.2](https://github.com/gacts/github-slug/releases/tag/v1.3.2), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.2](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.2), 2 days ago) - 💥 Domain names with valid SSL for your local docker containers
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 2 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 2 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.2](https://github.com/gacts/github-slug/releases/tag/v1.3.2), 2 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
