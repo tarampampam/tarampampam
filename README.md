@@ -21,13 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 days ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (3 days ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI client for images compressing using tinypng.com API (4 days ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (4 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 1 day ago) - 💥 Domain names with valid SSL for your local docker containers
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 3 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 3 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 2 days ago) - 💥 Domain names with valid SSL for your local docker containers
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 4 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 4 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
