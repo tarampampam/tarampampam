@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (6 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
@@ -46,17 +46,17 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (6 days ago)
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (6 days ago)
+- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
+- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
 - [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
 - [feat(storage): FS storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (5 days ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (5 days ago)
-- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (6 days ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (6 days ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
+- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (1 week ago)
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (2 weeks ago)
 
 #### 💬 Feedback
