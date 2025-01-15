@@ -48,7 +48,7 @@
 
 - [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
 - [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
-- [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
+- [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
 - [feat(storage): FS storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 
 #### ⭐ Recent stars
