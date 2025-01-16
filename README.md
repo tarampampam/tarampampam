@@ -24,9 +24,9 @@
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (1 week ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 week ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 weeks ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (2 weeks ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -40,8 +40,8 @@
 
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 1 week ago) - 💥 Domain names with valid SSL for your local docker containers
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 1 week ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 1 week ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 2 weeks ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 2 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
@@ -57,7 +57,7 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (1 week ago)
-- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (2 weeks ago)
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (3 weeks ago)
 
 #### 💬 Feedback
 
