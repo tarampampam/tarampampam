@@ -23,7 +23,7 @@
 
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 week ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 weeks ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 weeks ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (2 weeks ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 weeks ago)
@@ -48,7 +48,7 @@
 
 - [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
 - [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (1 week ago)
-- [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
+- [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [feat(storage): FS storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 
 #### ⭐ Recent stars
