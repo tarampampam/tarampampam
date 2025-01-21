@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 weeks ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (2 weeks ago)
 - [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (3 weeks ago)
 
