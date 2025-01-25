@@ -22,7 +22,7 @@
 
 
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (3 weeks ago)
 - [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 weeks ago)
@@ -38,8 +38,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 2 weeks ago) - 💥 Domain names with valid SSL for your local docker containers
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 3 weeks ago) - 💥 Domain names with valid SSL for your local docker containers
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.2](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.2), 3 weeks ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 - [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.2](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.2), 3 weeks ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
@@ -57,7 +57,7 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (2 weeks ago)
-- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (4 weeks ago)
+- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (1 month ago)
 
 #### 💬 Feedback
 
