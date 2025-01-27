@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 weeks ago)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (1 day ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (3 weeks ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 weeks ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (3 weeks ago)
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -46,18 +46,18 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (2 weeks ago)
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (2 weeks ago)
+- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (3 weeks ago)
+- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (3 weeks ago)
 - [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [feat(storage): FS storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
 
 #### ⭐ Recent stars
 
 
+- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (1 day ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
-- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (2 weeks ago)
-- [mathiasbynens/small](https://github.com/mathiasbynens/small) - Smallest possible syntactically valid files of different types (1 month ago)
+- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (3 weeks ago)
 
 #### 💬 Feedback
 
