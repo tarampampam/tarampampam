@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (1 day ago)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (2 days ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (3 weeks ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (3 weeks ago)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (3 weeks ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -54,9 +54,9 @@
 #### ⭐ Recent stars
 
 
-- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (1 day ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 weeks ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
+- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (2 days ago)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 weeks ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (3 weeks ago)
 
 #### 💬 Feedback
