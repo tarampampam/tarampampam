@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (2 days ago)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (3 days ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
@@ -54,10 +54,10 @@
 #### ⭐ Recent stars
 
 
-- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (2 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 day ago)
+- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (3 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
-- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. (3 weeks ago)
 
 #### 💬 Feedback
 
