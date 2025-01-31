@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (4 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (5 days ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (3 weeks ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (4 weeks ago)
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow (4 weeks ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -46,17 +46,17 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4335) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (3 weeks ago)
-- [Remove error-pages schemas](https://github.com/SchemaStore/schemastore/pull/4334) on [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) (3 weeks ago)
-- [ci: Add demo app instance](https://github.com/tarampampam/webhook-tester/pull/613) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
-- [feat(storage): FS storage driver](https://github.com/tarampampam/webhook-tester/pull/597) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
+- [feat: integrate doppler and docker &#43; makefile](https://github.com/iddqd-uk/infra/pull/3) on [iddqd-uk/infra](https://github.com/iddqd-uk/infra) (1 day ago)
+- [Add Codespace configuration for fast boot and Docker CLI](https://github.com/iddqd-uk/apps/pull/6) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (1 day ago)
+- [continuing with the helm](https://github.com/iddqd-uk/apps/pull/3) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (6 days ago)
+- [feat: Helm](https://github.com/iddqd-uk/apps/pull/2) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (2 weeks ago)
 
 #### ⭐ Recent stars
 
 
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (1 day ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (2 days ago)
-- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (4 days ago)
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (2 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (3 days ago)
+- [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks) (5 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (3 weeks ago)
 
 #### 💬 Feedback
