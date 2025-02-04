@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 day ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (1 day ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,26 +38,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.1.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.1.0), 1 day ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.11.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.11.0), 1 day ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.11.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.11.1), 1 day ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([v1.0.0](https://github.com/tarampampam/rssbot-docker/releases/tag/v1.0.0), 1 day ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.1.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.1.0), 2 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.1](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.1), 1 month ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) ([v1.2.3](https://github.com/tarampampam/indocker-app/releases/tag/v1.2.3), 1 month ago) - 💥 Domain names with valid SSL for your local docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [added helm chart](https://github.com/tarampampam/rssbot-docker/pull/13) on [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) (1 day ago)
-- [dockerfile improving](https://github.com/tarampampam/3proxy-docker/pull/66) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
-- [feat: Add app helm chart](https://github.com/tarampampam/3proxy-docker/pull/65) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
-- [feat: Add app helm chart](https://github.com/tarampampam/webhook-tester/pull/630) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 days ago)
+- [feat(ui): Requests counter added](https://github.com/tarampampam/webhook-tester/pull/633) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [fix(helm): Fix for values that supports templating](https://github.com/tarampampam/3proxy-docker/pull/67) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
+- [added helm chart](https://github.com/tarampampam/rssbot-docker/pull/13) on [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) (2 days ago)
+- [dockerfile improving](https://github.com/tarampampam/3proxy-docker/pull/66) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 days ago)
 
 #### ⭐ Recent stars
 
 
-- [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (1 day ago)
-- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (3 days ago)
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (5 days ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (6 days ago)
+- [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (2 days ago)
+- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (4 days ago)
+- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (6 days ago)
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 week ago)
 
 #### 💬 Feedback
 
