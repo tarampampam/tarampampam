@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (2 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (4 days ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (4 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) - docker image for buf with golang extensions (1 day ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (1 day ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 days ago)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (3 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,26 +39,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.11.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.11.1), 4 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) ([v1.0.0](https://github.com/tarampampam/rssbot-docker/releases/tag/v1.0.0), 4 days ago) - 🤖 Docker image with lightweight Telegram RSS notification bot
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 3 days ago) - docker image for buf with golang extensions
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 4 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.11.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.11.1), 5 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat(ui): Requests counter added](https://github.com/tarampampam/webhook-tester/pull/633) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
-- [fix(helm): Fix for values that supports templating](https://github.com/tarampampam/3proxy-docker/pull/67) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (4 days ago)
-- [added helm chart](https://github.com/tarampampam/rssbot-docker/pull/13) on [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) (5 days ago)
-- [dockerfile improving](https://github.com/tarampampam/3proxy-docker/pull/66) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (5 days ago)
+- [chore(ci,docker): Renovate config updated &#43; config linter added; CI uipdated](https://github.com/jetexe/gobuf-docker/pull/122) on [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) (1 day ago)
+- [chore(ci,docker): Renovate config updated &#43; config linter added; CI updated](https://github.com/jetexe/cookiecutter-docker/pull/81) on [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) (1 day ago)
+- [feat(ui): Requests counter added](https://github.com/tarampampam/webhook-tester/pull/633) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (5 days ago)
+- [fix(helm): Fix for values that supports templating](https://github.com/tarampampam/3proxy-docker/pull/67) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (5 days ago)
 
 #### ⭐ Recent stars
 
 
-- [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (5 days ago)
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (1 day ago)
+- [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (6 days ago)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (1 week ago)
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (1 week ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 week ago)
 
 #### 💬 Feedback
 
