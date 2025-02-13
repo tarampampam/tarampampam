@@ -21,19 +21,19 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 days ago)
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) - docker image for buf with golang extensions (5 days ago)
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (5 days ago)
-- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (1 week ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
+- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (1 day ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - Deep WIP (1 day ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (4 days ago)
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) - docker image for buf with golang extensions (6 days ago)
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (6 days ago)
 
 #### 🌱 My latest projects
 
 
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - Deep WIP
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console
 
 #### 🚀 Latest releases I've contributed to
 
@@ -46,15 +46,15 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore(ci,docker): Renovate config updated &#43; config linter added; CI uipdated](https://github.com/jetexe/gobuf-docker/pull/122) on [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) (5 days ago)
-- [chore(ci,docker): Renovate config updated &#43; config linter added; CI updated](https://github.com/jetexe/cookiecutter-docker/pull/81) on [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) (5 days ago)
+- [feat: Initial project setup with git hooks, linters, CI/CD](https://github.com/tarampampam/describe-commit/pull/1) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [chore(ci,docker): Renovate config updated &#43; config linter added; CI uipdated](https://github.com/jetexe/gobuf-docker/pull/122) on [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) (6 days ago)
+- [chore(ci,docker): Renovate config updated &#43; config linter added; CI updated](https://github.com/jetexe/cookiecutter-docker/pull/81) on [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) (6 days ago)
 - [feat(ui): Requests counter added](https://github.com/tarampampam/webhook-tester/pull/633) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
-- [fix(helm): Fix for values that supports templating](https://github.com/tarampampam/3proxy-docker/pull/67) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (5 days ago)
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (6 days ago)
 - [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (1 week ago)
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (2 weeks ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 month ago)
