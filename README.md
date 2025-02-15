@@ -21,35 +21,35 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - Deep WIP (1 day ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
-- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (2 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (5 days ago)
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (1 week ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
+- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (3 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (6 days ago)
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) - docker image for buf with golang extensions (1 week ago)
 
 #### 🌱 My latest projects
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - Deep WIP
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
 - [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains
 
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.2](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.2), 1 day ago) - CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 1 week ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.11.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.11.1), 1 week ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Initial project setup with git hooks, linters, CI/CD](https://github.com/tarampampam/describe-commit/pull/1) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
+- [feat: Support OpenAI provider](https://github.com/tarampampam/describe-commit/pull/4) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [feat: Initial project setup with git hooks, linters, CI/CD](https://github.com/tarampampam/describe-commit/pull/1) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (3 days ago)
 - [chore(ci,docker): Renovate config updated &#43; config linter added; CI uipdated](https://github.com/jetexe/gobuf-docker/pull/122) on [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) (1 week ago)
 - [chore(ci,docker): Renovate config updated &#43; config linter added; CI updated](https://github.com/jetexe/cookiecutter-docker/pull/81) on [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) (1 week ago)
-- [feat(ui): Requests counter added](https://github.com/tarampampam/webhook-tester/pull/633) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 
 #### ⭐ Recent stars
 
