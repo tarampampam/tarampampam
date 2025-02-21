@@ -22,11 +22,11 @@
 
 
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (3 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (4 days ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (1 week ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
-- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (1 week ago)
+- [jetexe/cookiecutter-docker](https://github.com/jetexe/cookiecutter-docker) - Unofficial docker image for Cookiecutter (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.4](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.4), 3 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.4](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.4), 4 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 2 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
@@ -46,16 +46,16 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [🔧 chore(git): Update environment variables for git commands](https://github.com/tarampampam/describe-commit/pull/6) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (3 days ago)
-- [✨ feat(config): Add commit history length option for AI context](https://github.com/tarampampam/describe-commit/pull/5) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (4 days ago)
-- [feat: Support OpenAI provider](https://github.com/tarampampam/describe-commit/pull/4) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (6 days ago)
-- [feat: Initial project setup with git hooks, linters, CI/CD](https://github.com/tarampampam/describe-commit/pull/1) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
+- [New cli iface](https://github.com/tarampampam/describe-commit/pull/7) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [🔧 chore(git): Update environment variables for git commands](https://github.com/tarampampam/describe-commit/pull/6) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (4 days ago)
+- [✨ feat(config): Add commit history length option for AI context](https://github.com/tarampampam/describe-commit/pull/5) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (5 days ago)
+- [feat: Support OpenAI provider](https://github.com/tarampampam/describe-commit/pull/4) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (3 days ago)
-- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (1 week ago)
+- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (4 days ago)
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (2 weeks ago)
 - [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (2 weeks ago)
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (3 weeks ago)
 
