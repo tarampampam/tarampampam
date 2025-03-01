@@ -22,11 +22,12 @@
 
 
 - [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 day ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 weeks ago)
-- [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net (2 weeks ago)
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) - docker image for buf with golang extensions (3 weeks ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [gacts/.github](https://github.com/gacts/.github) - :octocat: Health files (1 day ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 day ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +39,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.7](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.7), 1 day ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.8](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.8), 1 day ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 3 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 3 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
@@ -46,9 +47,9 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat(ai): Add OpenRouter support for AI provider integration](https://github.com/tarampampam/describe-commit/pull/11) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
-- [chore(ci): Enhance release process](https://github.com/tarampampam/describe-commit/pull/9) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (3 days ago)
-- [chore(ci): Migrate to Goreleaser for build and release process](https://github.com/tarampampam/describe-commit/pull/8) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (3 days ago)
+- [feat(ai): Add OpenRouter support for AI provider integration](https://github.com/tarampampam/describe-commit/pull/11) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
+- [chore(ci): Enhance release process](https://github.com/tarampampam/describe-commit/pull/9) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (4 days ago)
+- [chore(ci): Migrate to Goreleaser for build and release process](https://github.com/tarampampam/describe-commit/pull/8) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (4 days ago)
 - [New cli iface](https://github.com/tarampampam/describe-commit/pull/7) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 
 #### ⭐ Recent stars
