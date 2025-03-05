@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (4 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (4 days ago)
-- [gacts/.github](https://github.com/gacts/.github) - :octocat: Health files (4 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (4 days ago)
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (5 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (5 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (5 days ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,16 +38,16 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.8](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.8), 4 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.2](https://github.com/tarampampam/error-pages/releases/tag/v3.3.2), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.8](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.8), 5 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 3 weeks ago) - docker image for buf with golang extensions
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.0), 4 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 4 weeks ago) - docker image for buf with golang extensions
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Major update (v5)](https://github.com/tarampampam/tinifier/pull/177) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (3 days ago)
-- [feat(ai): Add OpenRouter support for AI provider integration](https://github.com/tarampampam/describe-commit/pull/11) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (5 days ago)
+- [Major update (v5)](https://github.com/tarampampam/tinifier/pull/177) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (4 days ago)
+- [feat(ai): Add OpenRouter support for AI provider integration](https://github.com/tarampampam/describe-commit/pull/11) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (6 days ago)
 - [chore(ci): Enhance release process](https://github.com/tarampampam/describe-commit/pull/9) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 - [chore(ci): Migrate to Goreleaser for build and release process](https://github.com/tarampampam/describe-commit/pull/8) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 
