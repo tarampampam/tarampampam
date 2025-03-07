@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (6 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (6 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (6 days ago)
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (6 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,15 +38,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.2](https://github.com/tarampampam/error-pages/releases/tag/v3.3.2), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.8](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.8), 6 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.2](https://github.com/tarampampam/error-pages/releases/tag/v3.3.2), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.1.8](https://github.com/tarampampam/describe-commit/releases/tag/v0.1.8), 1 week ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.12.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.12.1), 3 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 4 weeks ago) - docker image for buf with golang extensions
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.0), 1 month ago) - docker image for buf with golang extensions
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Major update (v5)](https://github.com/tarampampam/tinifier/pull/177) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (5 days ago)
+- [Major update (v5)](https://github.com/tarampampam/tinifier/pull/177) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (6 days ago)
 - [feat(ai): Add OpenRouter support for AI provider integration](https://github.com/tarampampam/describe-commit/pull/11) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 - [chore(ci): Enhance release process](https://github.com/tarampampam/describe-commit/pull/9) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 - [chore(ci): Migrate to Goreleaser for build and release process](https://github.com/tarampampam/describe-commit/pull/8) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
@@ -55,7 +55,7 @@
 
 
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (2 weeks ago)
-- [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration (3 weeks ago)
+- [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration (4 weeks ago)
 - [yKicchan/generate-directory-listing-action](https://github.com/yKicchan/generate-directory-listing-action) - GitHub Actions to generate directory listing (1 month ago)
 - [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (1 month ago)
 
