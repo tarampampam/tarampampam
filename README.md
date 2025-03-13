@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (1 day ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - GitHub Action to generate `index.html` files for directory listings (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (3 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 week ago)
@@ -38,17 +38,17 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.0.2](https://github.com/tarampampam/tinifier/releases/tag/v5.0.2), 1 day ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.2.3](https://github.com/gacts/install-dnscontrol/releases/tag/v1.2.3), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.0), 2 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.0.2](https://github.com/tarampampam/tinifier/releases/tag/v5.0.2), 2 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.2.3](https://github.com/gacts/install-dnscontrol/releases/tag/v1.2.3), 2 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.0), 3 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.2](https://github.com/tarampampam/error-pages/releases/tag/v3.3.2), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [♻️ fix: Improve spacing calculations in stats table](https://github.com/tarampampam/tinifier/pull/180) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (1 day ago)
-- [Bump 3proxy version to 0.9.5](https://github.com/tarampampam/3proxy-docker/pull/70) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 days ago)
-- [fix(errors): All the errors will be printed if any](https://github.com/tarampampam/tinifier/pull/178) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (3 days ago)
+- [♻️ fix: Improve spacing calculations in stats table](https://github.com/tarampampam/tinifier/pull/180) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (2 days ago)
+- [Bump 3proxy version to 0.9.5](https://github.com/tarampampam/3proxy-docker/pull/70) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (3 days ago)
+- [fix(errors): All the errors will be printed if any](https://github.com/tarampampam/tinifier/pull/178) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (4 days ago)
 - [Major update (v5)](https://github.com/tarampampam/tinifier/pull/177) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (1 week ago)
 
 #### ⭐ Recent stars
