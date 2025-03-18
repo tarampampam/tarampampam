@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (2 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (3 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
-- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (3 days ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (3 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (3 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (4 days ago)
+- [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (4 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (4 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,26 +38,26 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 3 days ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.0](https://github.com/gacts/install-hurl/releases/tag/v1.3.0), 4 days ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.4](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.4), 4 days ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 4 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 4 days ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.0](https://github.com/gacts/install-hurl/releases/tag/v1.3.0), 5 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) ([v1.2.4](https://github.com/gacts/install-geth-tools/releases/tag/v1.2.4), 5 days ago) - 🚀 Installs Geth (Go Ethereum) and tools (abigen, bootnode, clef, evm, rlpdump) into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 days ago)
-- [🔧 chore(ci): Add disable-cache option to GitHub Actions workflow](https://github.com/gacts/install-hurl/pull/95) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (4 days ago)
-- [🔧 chore(ci): Update test matrix versions in GitHub Actions](https://github.com/gacts/install-hurl/pull/94) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (4 days ago)
-- [♻️ fix: Improve spacing calculations in stats table](https://github.com/tarampampam/tinifier/pull/180) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (6 days ago)
+- [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 days ago)
+- [🔧 chore(ci): Add disable-cache option to GitHub Actions workflow](https://github.com/gacts/install-hurl/pull/95) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (5 days ago)
+- [🔧 chore(ci): Update test matrix versions in GitHub Actions](https://github.com/gacts/install-hurl/pull/94) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (5 days ago)
+- [♻️ fix: Improve spacing calculations in stats table](https://github.com/tarampampam/tinifier/pull/180) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (1 week ago)
 
 #### ⭐ Recent stars
 
 
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (4 days ago)
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (1 day ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (5 days ago)
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (4 weeks ago)
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration (1 month ago)
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works. (1 month ago)
 
 #### 💬 Feedback
 
