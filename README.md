@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) -  (1 day ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (5 days ago)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) -  (2 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (6 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [tarampampam/rssbot-docker](https://github.com/tarampampam/rssbot-docker) - 🤖 Docker image with lightweight Telegram RSS notification bot (1 week ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.1), 6 days ago) - docker image for buf with golang extensions
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.50.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.50.1), 1 week ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 1 week ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.0](https://github.com/gacts/install-hurl/releases/tag/v1.3.0), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -46,10 +46,10 @@
 #### 🔨 Latest Pull Requests I published
 
 
+- [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (1 day ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [🔧 chore(ci): Add disable-cache option to GitHub Actions workflow](https://github.com/gacts/install-hurl/pull/95) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 week ago)
 - [🔧 chore(ci): Update test matrix versions in GitHub Actions](https://github.com/gacts/install-hurl/pull/94) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (1 week ago)
-- [♻️ fix: Improve spacing calculations in stats table](https://github.com/tarampampam/tinifier/pull/180) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (2 weeks ago)
 
 #### ⭐ Recent stars
 
