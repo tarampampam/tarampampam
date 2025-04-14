@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (6 days ago)
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (6 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.51.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.51.0), 2 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 1 month ago) - 🔭 Powerful tool for testing WebHooks and more
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 1 month ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
@@ -56,7 +56,7 @@
 
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (2 weeks ago)
 - [tsndr/cloudflare-worker-router](https://github.com/tsndr/cloudflare-worker-router) - A super lightweight router (1.0K) with middleware support and ZERO dependencies for Cloudflare Workers. (3 weeks ago)
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (3 weeks ago)
+- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (4 weeks ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (1 month ago)
 
 #### 💬 Feedback
