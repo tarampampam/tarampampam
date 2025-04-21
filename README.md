@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (1 week ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 weeks ago)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 weeks ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 weeks ago)
@@ -38,8 +38,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.52.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.52.1), 6 days ago) - docker image for buf with golang extensions
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.52.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.52.1), 1 week ago) - docker image for buf with golang extensions
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 1 month ago) - 🔭 Powerful tool for testing WebHooks and more
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 1 month ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
 
