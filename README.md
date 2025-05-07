@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 weeks ago)
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (4 weeks ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (1 month ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 month ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
@@ -39,7 +39,7 @@
 
 
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.53.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.53.0), 2 weeks ago) - docker image for buf with golang extensions
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 4 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 1 month ago) - 🔭 Powerful tool for testing WebHooks and more
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 1 month ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
 
