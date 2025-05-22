@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
 - [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (1 month ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.53.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.53.0), 4 weeks ago) - docker image for buf with golang extensions
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.53.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.53.0), 1 month ago) - docker image for buf with golang extensions
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 2 months ago) - 🔭 Powerful tool for testing WebHooks and more
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.1](https://github.com/gacts/directory-listing/releases/tag/v1.0.1), 2 months ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (5 days ago)
+- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (6 days ago)
 - [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (1 month ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
 - [🔧 chore(ci): Add disable-cache option to GitHub Actions workflow](https://github.com/gacts/install-hurl/pull/95) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (2 months ago)
