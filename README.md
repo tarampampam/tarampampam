@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities (3 days ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities (4 days ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
@@ -38,8 +38,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 4 days ago) - docker image for buf with golang extensions
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.1), 2 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 5 days ago) - docker image for buf with golang extensions
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.1), 3 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.13.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.13.0), 1 month ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 2 months ago) - 🔭 Powerful tool for testing WebHooks and more
 
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (6 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 week ago)
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (2 months ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (2 months ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (2 months ago)
