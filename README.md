@@ -21,11 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (today)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (today)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (4 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 days ago)
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities (1 week ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 3 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 4 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 1 week ago) - docker image for buf with golang extensions
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.1), 3 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 2 months ago) - 🔭 Powerful tool for testing WebHooks and more
