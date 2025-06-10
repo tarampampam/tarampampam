@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (5 days ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (5 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (6 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (6 days ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 week ago)
@@ -38,9 +38,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.2](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.2), 1 day ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 1 week ago) - docker image for buf with golang extensions
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.1), 4 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 2 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 2 months ago) - 🔭 Powerful tool for testing WebHooks and more
 
 #### 🔨 Latest Pull Requests I published
