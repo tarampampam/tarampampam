@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 2 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 3 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 2 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 3 months ago) - 🔭 Powerful tool for testing WebHooks and more
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (3 weeks ago)
+- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (4 weeks ago)
 - [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (2 months ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
 - [🔧 chore(ci): Add disable-cache option to GitHub Actions workflow](https://github.com/gacts/install-hurl/pull/95) on [gacts/install-hurl](https://github.com/gacts/install-hurl) (3 months ago)
