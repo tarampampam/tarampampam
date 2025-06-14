@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 3 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 4 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.54.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.54.0), 2 weeks ago) - docker image for buf with golang extensions
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 3 months ago) - 🔭 Powerful tool for testing WebHooks and more
