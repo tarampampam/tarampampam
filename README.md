@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.55.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.55.1), 1 day ago) - docker image for buf with golang extensions
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.55.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.55.1), 2 days ago) - docker image for buf with golang extensions
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 1 week ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 3 months ago) - 🔭 Powerful tool for testing WebHooks and more
@@ -54,10 +54,10 @@
 #### ⭐ Recent stars
 
 
+- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (1 day ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (3 weeks ago)
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (2 months ago)
 - [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go (3 months ago)
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (3 months ago)
 
 #### 💬 Feedback
 
