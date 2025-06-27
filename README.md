@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (3 weeks ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 weeks ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 weeks ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 weeks ago)
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities (4 weeks ago)
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,9 +38,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.1), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.4](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.4), 1 day ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.14.1](https://github.com/tarampampam/curl-docker/releases/tag/v8.14.1), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.55.1](https://github.com/jetexe/gobuf-docker/releases/tag/v1.55.1), 1 week ago) - docker image for buf with golang extensions
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.0.3](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.0.3), 2 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.1](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.1), 3 months ago) - 🔭 Powerful tool for testing WebHooks and more
 
 #### 🔨 Latest Pull Requests I published
@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (2 days ago)
-- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (6 days ago)
+- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (3 days ago)
+- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (1 week ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 - [uber-go/mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language. (3 months ago)
 
