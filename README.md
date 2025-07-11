@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 day ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (1 day ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 day ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (2 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (2 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,15 +39,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 1 day ago) - 🦜 One more Go library for using colors in the terminal console
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.5](https://github.com/gacts/install-mmock/releases/tag/v1.1.5), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.1](https://github.com/gacts/install-hurl/releases/tag/v1.3.1), 1 day ago) - 🚀 Installs hurl binary file into your actions workflow
+- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 2 days ago) - 🦜 One more Go library for using colors in the terminal console
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.5](https://github.com/gacts/install-mmock/releases/tag/v1.1.5), 2 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.1](https://github.com/gacts/install-hurl/releases/tag/v1.3.1), 2 days ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
+- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
 - [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (1 month ago)
 - [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (3 months ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
@@ -55,9 +55,9 @@
 #### ⭐ Recent stars
 
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 days ago)
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (2 weeks ago)
-- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (2 weeks ago)
+- [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (3 weeks ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 
 #### 💬 Feedback
