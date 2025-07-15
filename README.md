@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (5 days ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (5 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (5 days ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (5 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (5 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (5 days ago)
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (6 days ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (6 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (6 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (6 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,16 +38,16 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 3 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 5 days ago) - 🦜 One more Go library for using colors in the terminal console
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 5 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.5](https://github.com/gacts/install-mmock/releases/tag/v1.1.5), 5 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 4 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 6 days ago) - 🦜 One more Go library for using colors in the terminal console
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 6 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.5](https://github.com/gacts/install-mmock/releases/tag/v1.1.5), 6 days ago) - 🚀 Installs mmock binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (5 days ago)
-- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (1 month ago)
+- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (6 days ago)
+- [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (2 months ago)
 - [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (3 months ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 months ago)
 
@@ -55,7 +55,7 @@
 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 week ago)
-- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (2 weeks ago)
+- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (3 weeks ago)
 - [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (3 weeks ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 
