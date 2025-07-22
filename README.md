@@ -21,10 +21,10 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 - [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
 - [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
 
@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 1 week ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.5](https://github.com/gacts/install-mmock/releases/tag/v1.1.5), 1 week ago) - 🚀 Installs mmock binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
@@ -55,7 +55,7 @@
 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 weeks ago)
-- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (3 weeks ago)
+- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (4 weeks ago)
 - [linkedin/goavro](https://github.com/linkedin/goavro) - Goavro is a library that encodes and decodes Avro data. (1 month ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 
