@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
-- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (1 week ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
+- [tarampampam/colors](https://github.com/tarampampam/colors) - 🦜 One more Go library for using colors in the terminal console (2 weeks ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 weeks ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,17 +38,17 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 2 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 1 week ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 1 week ago) - 🦜 One more Go library for using colors in the terminal console
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 2 weeks ago) - 🦜 One more Go library for using colors in the terminal console
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.3.3](https://github.com/tarampampam/error-pages/releases/tag/v3.3.3), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
+- [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 weeks ago)
 - [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (2 months ago)
-- [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (3 months ago)
+- [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (4 months ago)
 - [fix(storage): Make unlimited requests great again](https://github.com/tarampampam/webhook-tester/pull/646) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 months ago)
 
 #### ⭐ Recent stars
