@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (3 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (5 days ago)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (4 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (6 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 weeks ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 weeks ago)
@@ -38,15 +38,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.0](https://github.com/tarampampam/tinifier/releases/tag/v5.1.0), 3 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 5 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.0](https://github.com/tarampampam/tinifier/releases/tag/v5.1.0), 4 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 6 days ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 2 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 2 weeks ago) - 🦜 One more Go library for using colors in the terminal console
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat: Add option to keep original file after compression](https://github.com/tarampampam/tinifier/pull/183) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (3 days ago)
+- [✨ feat: Add option to keep original file after compression](https://github.com/tarampampam/tinifier/pull/183) on [tarampampam/tinifier](https://github.com/tarampampam/tinifier) (4 days ago)
 - [chore: Update browser versions for Chrome, Firefox, Opera, and Edge](https://github.com/tarampampam/random-user-agent/pull/678) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 weeks ago)
 - [✨ feat(glance): Update glance configuration and add new widgets](https://github.com/iddqd-uk/apps/pull/42) on [iddqd-uk/apps](https://github.com/iddqd-uk/apps) (2 months ago)
 - [feat(vite): Switch to vite to build the app more flexibly](https://github.com/tarampampam/url-shortener/pull/1) on [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) (4 months ago)
