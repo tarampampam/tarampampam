@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.56.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.56.0), 1 day ago) - docker image for buf with golang extensions
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.0](https://github.com/tarampampam/tinifier/releases/tag/v5.1.0), 1 week ago) - 🐼 CLI tool for compressing images using the TinyPNG
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.15.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.15.0), 2 weeks ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.1.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.1.0), 3 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/colors](https://github.com/tarampampam/colors) ([v1.3.0](https://github.com/tarampampam/colors/releases/tag/v1.3.0), 3 weeks ago) - 🦜 One more Go library for using colors in the terminal console
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (4 days ago)
+- [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (5 days ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 weeks ago)
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (1 month ago)
