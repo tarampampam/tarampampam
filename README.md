@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (3 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 weeks ago)
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 month ago)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) - 🚀 This GitHub action allows receiving the secrets from the doppler.com (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 2 days ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.4.1](https://github.com/tarampampam/error-pages/releases/tag/v3.4.1), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.5.0](https://github.com/tarampampam/error-pages/releases/tag/v3.5.0), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.0), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.56.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.56.0), 1 week ago) - docker image for buf with golang extensions
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.0](https://github.com/tarampampam/tinifier/releases/tag/v5.1.0), 3 weeks ago) - 🐼 CLI tool for compressing images using the TinyPNG
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
-- [🌐 feat(win98): Add localization support to description](https://github.com/tarampampam/error-pages/pull/359) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
-- [chore: Simplify Dockerfile and Makefile, improve CLI](https://github.com/tarampampam/error-pages/pull/357) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
-- [Remove `goatcounter` stats collecting &amp; add `--template` and `--theme` aliases for `--template-name` flag](https://github.com/tarampampam/error-pages/pull/356) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (2 days ago)
+- [🌐 feat(win98): Add localization support to description](https://github.com/tarampampam/error-pages/pull/359) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
+- [chore: Simplify Dockerfile and Makefile, improve CLI](https://github.com/tarampampam/error-pages/pull/357) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
+- [Remove `goatcounter` stats collecting &amp; add `--template` and `--theme` aliases for `--template-name` flag](https://github.com/tarampampam/error-pages/pull/356) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
 
 #### ⭐ Recent stars
 
