@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (5 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (4 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (6 days ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (3 weeks ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 weeks ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 month ago)
@@ -38,15 +38,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.5.0](https://github.com/tarampampam/error-pages/releases/tag/v3.5.0), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.0), 3 days ago) - 🚀 Installs DNSControl into your actions workflow
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 5 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.5.0](https://github.com/tarampampam/error-pages/releases/tag/v3.5.0), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.0), 4 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 6 days ago) - 🔭 Powerful tool for testing WebHooks and more
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.56.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.56.0), 2 weeks ago) - docker image for buf with golang extensions
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (4 days ago)
+- [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (5 days ago)
 - [🌐 feat(win98): Add localization support to description](https://github.com/tarampampam/error-pages/pull/359) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 - [chore: Simplify Dockerfile and Makefile, improve CLI](https://github.com/tarampampam/error-pages/pull/357) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 - [Remove `goatcounter` stats collecting &amp; add `--template` and `--theme` aliases for `--template-name` flag](https://github.com/tarampampam/error-pages/pull/356) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
