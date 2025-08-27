@@ -23,7 +23,7 @@
 
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 weeks ago)
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG (1 month ago)
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 month ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 month ago)
@@ -40,7 +40,7 @@
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.5.0](https://github.com/tarampampam/error-pages/releases/tag/v3.5.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.0), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.2](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.2), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
 - [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.56.0](https://github.com/jetexe/gobuf-docker/releases/tag/v1.56.0), 3 weeks ago) - docker image for buf with golang extensions
 
 #### 🔨 Latest Pull Requests I published
