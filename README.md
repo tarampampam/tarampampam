@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (6 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (1 day ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 days ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,16 +38,16 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.0](https://github.com/gacts/gitleaks/releases/tag/v1.3.0), 6 days ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) ([v1.0.0](https://github.com/iddqd-uk/mirotalk/releases/tag/v1.0.0), 1 day ago) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.0](https://github.com/gacts/gitleaks/releases/tag/v1.3.0), 1 week ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.6.0](https://github.com/tarampampam/error-pages/releases/tag/v3.6.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.3](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.3), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.0](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.0), 3 weeks ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (6 days ago)
-- [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (6 days ago)
+- [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
+- [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 week ago)
 - [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 week ago)
 - [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (3 weeks ago)
 
