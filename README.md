@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (6 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (6 days ago)
-- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (6 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
+- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (1 week ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 week ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) ([v1.0.0](https://github.com/iddqd-uk/mirotalk/releases/tag/v1.0.0), 6 days ago) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.16.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.16.0), 1 day ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
+- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) ([v1.0.0](https://github.com/iddqd-uk/mirotalk/releases/tag/v1.0.0), 1 week ago) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.0](https://github.com/gacts/gitleaks/releases/tag/v1.3.0), 1 week ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.6.0](https://github.com/tarampampam/error-pages/releases/tag/v3.6.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.3](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.3), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
 
 #### 🔨 Latest Pull Requests I published
 
