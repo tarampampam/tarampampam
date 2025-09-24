@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.57.2](https://github.com/jetexe/gobuf-docker/releases/tag/v1.57.2), 6 days ago) - docker image for buf with golang extensions
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.57.2](https://github.com/jetexe/gobuf-docker/releases/tag/v1.57.2), 1 week ago) - docker image for buf with golang extensions
 - [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) ([v8.16.0](https://github.com/tarampampam/curl-docker/releases/tag/v8.16.0), 1 week ago) - :mechanical_arm: curl (static binary file) in a scratch docker image
 - [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) ([v1.0.0](https://github.com/iddqd-uk/mirotalk/releases/tag/v1.0.0), 2 weeks ago) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.0](https://github.com/gacts/gitleaks/releases/tag/v1.3.0), 3 weeks ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
@@ -48,13 +48,13 @@
 
 - [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 weeks ago)
 - [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
+- [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
 - [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (6 days ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 week ago)
 - [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (1 month ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 months ago)
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (3 months ago)
