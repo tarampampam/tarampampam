@@ -48,7 +48,7 @@
 
 - [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (3 weeks ago)
 - [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
-- [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
+- [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 month ago)
 - [Remove github client dependency](https://github.com/gacts/install-dnscontrol/pull/73) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 month ago)
 
 #### ⭐ Recent stars
