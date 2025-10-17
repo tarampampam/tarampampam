@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 weeks ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (2 weeks ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
@@ -39,9 +39,9 @@
 
 
 - [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.3.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.3.0), 1 week ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.7.0](https://github.com/tarampampam/error-pages/releases/tag/v3.7.0), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [urfave/cli-docs](https://github.com/urfave/cli-docs) ([v3.1.0](https://github.com/urfave/cli-docs/releases/tag/v3.1.0), 2 weeks ago) - Extended documentation library for use with urfave/cli/v3
-- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.57.2](https://github.com/jetexe/gobuf-docker/releases/tag/v1.57.2), 4 weeks ago) - docker image for buf with golang extensions
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.7.0](https://github.com/tarampampam/error-pages/releases/tag/v3.7.0), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [urfave/cli-docs](https://github.com/urfave/cli-docs) ([v3.1.0](https://github.com/urfave/cli-docs/releases/tag/v3.1.0), 3 weeks ago) - Extended documentation library for use with urfave/cli/v3
+- [jetexe/gobuf-docker](https://github.com/jetexe/gobuf-docker) ([v1.57.2](https://github.com/jetexe/gobuf-docker/releases/tag/v1.57.2), 1 month ago) - docker image for buf with golang extensions
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (4 weeks ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (3 months ago)
