@@ -24,8 +24,8 @@
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 weeks ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 weeks ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (3 weeks ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
 - [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (1 month ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 month ago)
 
 #### 🌱 My latest projects
