@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (1 day ago)
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (2 days ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
