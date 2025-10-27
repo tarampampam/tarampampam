@@ -23,7 +23,7 @@
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 weeks ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 weeks ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (4 weeks ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (1 month ago)
 - [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (1 month ago)
 - [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 month ago)
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update yt-dlp version to 2025.09.26](https://github.com/tarampampam/video-dl-bot/pull/4) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (4 weeks ago)
+- [Update yt-dlp version to 2025.09.26](https://github.com/tarampampam/video-dl-bot/pull/4) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 month ago)
 - [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 month ago)
 - [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 - [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (6 days ago)
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (1 week ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
