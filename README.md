@@ -21,12 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (today)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP (6 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 month ago)
-- [iddqd-uk/mirotalk](https://github.com/iddqd-uk/mirotalk) - 🤙 Docker image with JavaScript-based project for real-time communication and collaboration (1 month ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 day ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 day ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 day ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +39,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.1](https://github.com/tarampampam/tinifier/releases/tag/v5.1.1), 1 day ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.3.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.3.0), 3 weeks ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.7.0](https://github.com/tarampampam/error-pages/releases/tag/v3.7.0), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [urfave/cli-docs](https://github.com/urfave/cli-docs) ([v3.1.0](https://github.com/urfave/cli-docs/releases/tag/v3.1.0), 1 month ago) - Extended documentation library for use with urfave/cli/v3
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.1](https://github.com/gacts/gitleaks/releases/tag/v1.3.1), 1 day ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.4](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.4), 1 day ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update yt-dlp version to 2025.09.26](https://github.com/tarampampam/video-dl-bot/pull/4) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 month ago)
-- [⬆️ chore: Upgrade dependencies and Node version to 24](https://github.com/gacts/github-slug/pull/83) on [gacts/github-slug](https://github.com/gacts/github-slug) (2 months ago)
-- [⬆️ chore: Upgrade to Node 24](https://github.com/tarampampam/random-user-agent/pull/690) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 months ago)
-- [Update Go up to 1.25 and improve Docker build process](https://github.com/tarampampam/webhook-tester/pull/694) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
+- [Upgrade to Node 24 and use module imports](https://github.com/gacts/run-and-post-run/pull/51) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 day ago)
+- [Upgrade Node to v24 and dependencies](https://github.com/gacts/install-dnscontrol/pull/79) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 day ago)
+- [Upgrade Node.js version to 24 and update dependencies](https://github.com/gacts/install-geth-tools/pull/86) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (1 day ago)
+- [Upgrade to Node 24](https://github.com/gacts/github-slug/pull/88) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 day ago)
 
 #### ⭐ Recent stars
 
@@ -57,7 +58,7 @@
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (2 weeks ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
 - [Daenges/Browser95-404](https://github.com/Daenges/Browser95-404) - A Windows 95 themed 404 page. (3 months ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 months ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 months ago)
 
 #### 💬 Feedback
 
