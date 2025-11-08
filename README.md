@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (4 days ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (4 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (4 days ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (4 days ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (4 days ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (4 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (5 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (5 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (5 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (5 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (5 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (5 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,18 +39,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 4 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 4 days ago) - 🚀 Installs DNSControl into your actions workflow
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.1](https://github.com/gacts/gitleaks/releases/tag/v1.3.1), 4 days ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.4](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.4), 4 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 5 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 5 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.1](https://github.com/gacts/gitleaks/releases/tag/v1.3.1), 5 days ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.4](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.4), 5 days ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Upgrade to Node 24 and use module imports](https://github.com/gacts/run-and-post-run/pull/51) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (4 days ago)
-- [Upgrade Node to v24 and dependencies](https://github.com/gacts/install-dnscontrol/pull/79) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (4 days ago)
-- [Upgrade Node.js version to 24 and update dependencies](https://github.com/gacts/install-geth-tools/pull/86) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (4 days ago)
-- [Upgrade to Node 24](https://github.com/gacts/github-slug/pull/88) on [gacts/github-slug](https://github.com/gacts/github-slug) (4 days ago)
+- [Upgrade to Node 24 and use module imports](https://github.com/gacts/run-and-post-run/pull/51) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (5 days ago)
+- [Upgrade Node to v24 and dependencies](https://github.com/gacts/install-dnscontrol/pull/79) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (5 days ago)
+- [Upgrade Node.js version to 24 and update dependencies](https://github.com/gacts/install-geth-tools/pull/86) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (5 days ago)
+- [Upgrade to Node 24](https://github.com/gacts/github-slug/pull/88) on [gacts/github-slug](https://github.com/gacts/github-slug) (5 days ago)
 
 #### ⭐ Recent stars
 
