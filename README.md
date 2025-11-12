@@ -21,35 +21,35 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 week ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 week ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (today)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (1 day ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 day ago)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 
 #### 🌱 My latest projects
 
 
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - WIP
 - [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 1 day ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 1 week ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.1](https://github.com/gacts/gitleaks/releases/tag/v1.3.1), 1 week ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
-- [gacts/fetch-doppler-secret](https://github.com/gacts/fetch-doppler-secret) ([v1.3.4](https://github.com/gacts/fetch-doppler-secret/releases/tag/v1.3.4), 1 week ago) - 🚀 This GitHub action allows receiving the secrets from the doppler.com
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [🔧 chore(ci): Update GitHub Actions workflow for Docker image build](https://github.com/tarampampam/microcheck/pull/1) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
+- [feat(ci): Enhance CI workflows for multi-platform Docker builds](https://github.com/tarampampam/3proxy-docker/pull/80) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
 - [Upgrade to Node 24 and use module imports](https://github.com/gacts/run-and-post-run/pull/51) on [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) (1 week ago)
 - [Upgrade Node to v24 and dependencies](https://github.com/gacts/install-dnscontrol/pull/79) on [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) (1 week ago)
-- [Upgrade Node.js version to 24 and update dependencies](https://github.com/gacts/install-geth-tools/pull/86) on [gacts/install-geth-tools](https://github.com/gacts/install-geth-tools) (1 week ago)
-- [Upgrade to Node 24](https://github.com/gacts/github-slug/pull/88) on [gacts/github-slug](https://github.com/gacts/github-slug) (1 week ago)
 
 #### ⭐ Recent stars
 
