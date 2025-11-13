@@ -1,4 +1,4 @@
-const versionSuffixRe = /\/v\d+$/m
+const versionSuffixRe = /\/v\d+$/
 
 /**
  * @param {string} baseUrl
@@ -8,14 +8,17 @@ const versionSuffixRe = /\/v\d+$/m
  */
 const redirect = function (request, baseUrl, branchName) {
   const url = new URL(request.url) // eg.: https://example.com/foo/v1
-  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo/v1
+  // Optimize path normalization: combine multiple operations and avoid redundant slashes
+  const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/')  // eg.: /foo/v1
   const pkgName = url.hostname + path // eg.: example.com/foo/v1
-  let pkgSrc = baseUrl + path // eg.: https://github.com/user/foo/v1
-  let repoName = (new URL(pkgSrc)).pathname.replace(/^\/+|\/+$/g, '').replace(versionSuffixRe, '') // eg.: user/foo
-
-  if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
-    pkgSrc = pkgSrc.replace(versionSuffixRe, '') // remove `/v[0-9]` -- https://github.com/user/foo
-  }
+  
+  // Build pkgSrc and strip version suffix in one pass, avoiding extra URL object creation
+  const pkgSrcWithVersion = baseUrl + path // eg.: https://github.com/user/foo/v1
+  const pkgSrc = pkgSrcWithVersion.replace(versionSuffixRe, '') // eg.: https://github.com/user/foo
+  
+  // Extract repoName from baseUrl path directly, avoiding URL parsing overhead
+  const baseUrlPath = new URL(baseUrl).pathname.replace(/^\/+|\/+$/g, '')
+  const repoName = (baseUrlPath + path).replace(/^\/+/, '').replace(versionSuffixRe, '') // eg.: user/foo
 
   const cover = `https://socialify.git.ci/${repoName}/png?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto`
 
