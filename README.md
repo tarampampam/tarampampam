@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (today)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (1 day ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 day ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (2 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (2 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 2 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 3 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 1 week ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
 - [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.1](https://github.com/gacts/gitleaks/releases/tag/v1.3.1), 1 week ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
@@ -46,10 +46,10 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(httpcheck): Enhance HTTP request handling with result types](https://github.com/tarampampam/microcheck/pull/4) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
-- [✨ feat(httpscheck): Add protocol auto-detection for health checks](https://github.com/tarampampam/microcheck/pull/3) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
-- [🔧 chore(ci): Update GitHub Actions workflow for Docker image build](https://github.com/tarampampam/microcheck/pull/1) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
-- [feat(ci): Enhance CI workflows for multi-platform Docker builds](https://github.com/tarampampam/3proxy-docker/pull/80) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 days ago)
+- [fix(httpcheck): Enhance HTTP request handling with result types](https://github.com/tarampampam/microcheck/pull/4) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
+- [✨ feat(httpscheck): Add protocol auto-detection for health checks](https://github.com/tarampampam/microcheck/pull/3) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
+- [🔧 chore(ci): Update GitHub Actions workflow for Docker image build](https://github.com/tarampampam/microcheck/pull/1) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 days ago)
+- [feat(ci): Enhance CI workflows for multi-platform Docker builds](https://github.com/tarampampam/3proxy-docker/pull/80) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (3 days ago)
 
 #### ⭐ Recent stars
 
