@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (3 days ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (3 days ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 days ago)
-- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (4 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (today)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (4 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (4 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (4 days ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (4 days ago)
+- [tarampampam/curl-docker](https://github.com/tarampampam/curl-docker) - :mechanical_arm: curl (static binary file) in a scratch docker image (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,24 +38,24 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.1.0](https://github.com/tarampampam/microcheck/releases/tag/v1.1.0), 1 day ago) - 🧪 Lightweight health check utilities for Docker containers
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 4 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.1.0](https://github.com/tarampampam/microcheck/releases/tag/v1.1.0), 2 days ago) - 🧪 Lightweight health check utilities for Docker containers
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 5 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.3](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.3), 1 week ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.1](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.1), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(parallel): Introduce parallel command execution utility](https://github.com/tarampampam/microcheck/pull/7) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
-- [🐛 fix: Prevent CRLF injection in HTTP headers and parameters](https://github.com/tarampampam/microcheck/pull/6) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
-- [fix(httpcheck): Enhance HTTP request handling with result types](https://github.com/tarampampam/microcheck/pull/4) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 days ago)
-- [✨ feat(httpscheck): Add protocol auto-detection for health checks](https://github.com/tarampampam/microcheck/pull/3) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 days ago)
+- [🔧 chore(ci): Enhance release workflow](https://github.com/tarampampam/microcheck/pull/8) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
+- [✨ feat(parallel): Introduce parallel command execution utility](https://github.com/tarampampam/microcheck/pull/7) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
+- [🐛 fix: Prevent CRLF injection in HTTP headers and parameters](https://github.com/tarampampam/microcheck/pull/6) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
+- [fix(httpcheck): Enhance HTTP request handling with result types](https://github.com/tarampampam/microcheck/pull/4) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 days ago)
 
 #### ⭐ Recent stars
 
 
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (3 weeks ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 month ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 months ago)
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl) - Command Line Tool for managing Apache Kafka (4 months ago)
 
