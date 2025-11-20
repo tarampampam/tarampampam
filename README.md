@@ -21,11 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 day ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 days ago)
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects (3 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (3 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (2 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (4 days ago)
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects (4 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (4 days ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
 
 #### 🌱 My latest projects
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.2.0](https://github.com/tarampampam/microcheck/releases/tag/v1.2.0), 1 day ago) - 🧪 Lightweight health check utilities for Docker containers
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.0.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.0.0), 1 day ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) ([v1.0.0](https://github.com/gacts/add-to-release-notes/releases/tag/v1.0.0), 3 days ago) - 🚀 This action allows you to add content to GitHub release notes programmatically
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.2.0](https://github.com/tarampampam/microcheck/releases/tag/v1.2.0), 2 days ago) - 🧪 Lightweight health check utilities for Docker containers
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.0.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.0.0), 2 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) ([v1.0.0](https://github.com/gacts/add-to-release-notes/releases/tag/v1.0.0), 4 days ago) - 🚀 This action allows you to add content to GitHub release notes programmatically
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.12.1](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.12.1), 1 week ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(pidcheck): Add new PID checking utility for process monitoring](https://github.com/tarampampam/microcheck/pull/9) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (1 day ago)
-- [Add microcheck utility to README](https://github.com/veggiemonk/awesome-docker/pull/1202) on [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) (3 days ago)
-- [🔧 chore(ci): Enhance release workflow](https://github.com/tarampampam/microcheck/pull/8) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 days ago)
-- [✨ feat(parallel): Introduce parallel command execution utility](https://github.com/tarampampam/microcheck/pull/7) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (5 days ago)
+- [✨ feat(pidcheck): Add new PID checking utility for process monitoring](https://github.com/tarampampam/microcheck/pull/9) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 days ago)
+- [Add microcheck utility to README](https://github.com/veggiemonk/awesome-docker/pull/1202) on [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) (4 days ago)
+- [🔧 chore(ci): Enhance release workflow](https://github.com/tarampampam/microcheck/pull/8) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (5 days ago)
+- [✨ feat(parallel): Introduce parallel command execution utility](https://github.com/tarampampam/microcheck/pull/7) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (6 days ago)
 
 #### ⭐ Recent stars
 
