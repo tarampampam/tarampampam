@@ -15,7 +15,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
