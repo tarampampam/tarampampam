@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [ZonD80/familycall](https://github.com/ZonD80/familycall) - Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника (1 week ago)
-- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (1 week ago)
+- [ZonD80/familycall](https://github.com/ZonD80/familycall) - Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника (2 weeks ago)
+- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (2 weeks ago)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (2 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (3 months ago)
 
