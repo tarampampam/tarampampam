@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (2 months ago)
 - [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 months ago)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 months ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 months ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 months ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 1 day ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.3.0](https://github.com/tarampampam/microcheck/releases/tag/v1.3.0), 2 months ago) - 🧪 Lightweight health check utilities for Docker containers
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.0](https://github.com/tarampampam/error-pages/releases/tag/v3.8.0), 2 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.5](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.5), 2 months ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.0.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.0.0), 2 months ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 
 #### 🔨 Latest Pull Requests I published
 
 
+- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 day ago)
 - [✨ feat(ci): Add macOS build support in GitHub Actions workflow](https://github.com/tarampampam/microcheck/pull/14) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 months ago)
 - [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 months ago)
 - [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 months ago)
-- [✨ feat(pidcheck): Add new PID checking utility for process monitoring](https://github.com/tarampampam/microcheck/pull/9) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 months ago)
 
 #### ⭐ Recent stars
 
