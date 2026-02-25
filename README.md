@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (2 months ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 months ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 months ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 months ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (today)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (today)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (today)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (today)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (today)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (today)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 1 day ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 1 day ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.3.0](https://github.com/tarampampam/microcheck/releases/tag/v1.3.0), 2 months ago) - 🧪 Lightweight health check utilities for Docker containers
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.0](https://github.com/tarampampam/error-pages/releases/tag/v3.8.0), 3 months ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.5](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.5), 3 months ago) - 🔭 Powerful tool for testing WebHooks and more
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [ZonD80/familycall](https://github.com/ZonD80/familycall) - Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника (1 month ago)
-- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (1 month ago)
+- [ZonD80/familycall](https://github.com/ZonD80/familycall) - Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника (2 months ago)
+- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (2 months ago)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (4 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (5 months ago)
 
