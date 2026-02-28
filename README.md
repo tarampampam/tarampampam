@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 days ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
-- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (2 days ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (2 days ago)
-- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (2 days ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (3 days ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 days ago)
+- [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,15 +38,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 3 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 4 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 4 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 2 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.3.0](https://github.com/tarampampam/microcheck/releases/tag/v1.3.0), 2 months ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 week ago)
+- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (2 weeks ago)
 - [✨ feat(ci): Add macOS build support in GitHub Actions workflow](https://github.com/tarampampam/microcheck/pull/14) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 months ago)
 - [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
 - [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 months ago)
