@@ -38,8 +38,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 1 week ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 3 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.3.0](https://github.com/tarampampam/microcheck/releases/tag/v1.3.0), 3 months ago) - 🧪 Lightweight health check utilities for Docker containers
 
