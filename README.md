@@ -40,13 +40,13 @@
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 2 weeks ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 3 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 4 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.3.0](https://github.com/tarampampam/microcheck/releases/tag/v1.3.0), 3 months ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (3 weeks ago)
+- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (4 weeks ago)
 - [✨ feat(ci): Add macOS build support in GitHub Actions workflow](https://github.com/tarampampam/microcheck/pull/14) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 months ago)
 - [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
 - [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 months ago)
