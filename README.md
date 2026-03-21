@@ -48,8 +48,8 @@
 
 - [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 month ago)
 - [✨ feat(ci): Add macOS build support in GitHub Actions workflow](https://github.com/tarampampam/microcheck/pull/14) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 months ago)
-- [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 months ago)
-- [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 months ago)
+- [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 months ago)
+- [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 months ago)
 
 #### ⭐ Recent stars
 
