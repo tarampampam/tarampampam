@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 weeks ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
-- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (3 weeks ago)
 - [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 weeks ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 weeks ago)
 - [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (3 weeks ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (3 weeks ago)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (3 weeks ago)
 
 #### 🌱 My latest projects
 
