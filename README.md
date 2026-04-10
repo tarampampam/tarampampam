@@ -22,11 +22,11 @@
 
 
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers (today)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (today)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (today)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (today)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (today)
 - [iddqd-uk/index](https://github.com/iddqd-uk/index) - :orange_book: Web index (1 month ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 month ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 month ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 month ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.3.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.3.1), 2 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.3.1](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.3.1), 3 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v3.8.1](https://github.com/tarampampam/error-pages/releases/tag/v3.8.1), 1 month ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.2.6](https://github.com/tarampampam/webhook-tester/releases/tag/v2.2.6), 1 month ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.2.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.2.0), 1 month ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
