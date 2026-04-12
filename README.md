@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (1 day ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 day ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 day ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (2 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (2 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (2 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,10 +39,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 1 day ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 1 day ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.5](https://github.com/gacts/github-slug/releases/tag/v1.3.5), 1 day ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.2](https://github.com/gacts/gitleaks/releases/tag/v1.3.2), 1 day ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 2 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 2 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.5](https://github.com/gacts/github-slug/releases/tag/v1.3.5), 2 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.2](https://github.com/gacts/gitleaks/releases/tag/v1.3.2), 2 days ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
 
 #### 🔨 Latest Pull Requests I published
 
