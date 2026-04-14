@@ -22,11 +22,11 @@
 
 
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 day ago)
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (3 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (3 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
+- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (4 days ago)
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,10 +38,10 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 3 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 3 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.5](https://github.com/gacts/github-slug/releases/tag/v1.3.5), 3 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.2](https://github.com/gacts/gitleaks/releases/tag/v1.3.2), 3 days ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 1 day ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 4 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 4 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.5](https://github.com/gacts/github-slug/releases/tag/v1.3.5), 4 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
