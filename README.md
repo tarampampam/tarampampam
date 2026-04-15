@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (1 day ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
-- [tarampampam/url-shortener](https://github.com/tarampampam/url-shortener) - 🌩 A simple URL shortener app built with Cloudflare Workers (4 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (4 days ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains (4 days ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 day ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,25 +38,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 1 day ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 4 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 4 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.5](https://github.com/gacts/github-slug/releases/tag/v1.3.5), 4 days ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 1 day ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 2 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 5 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 5 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(bot): Add support for JavaScript runtimes in yt-dlp](https://github.com/tarampampam/video-dl-bot/pull/12) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 month ago)
-- [✨ feat(ci): Add macOS build support in GitHub Actions workflow](https://github.com/tarampampam/microcheck/pull/14) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 months ago)
-- [fix(redis): Disable maintenance notifications for Redis client](https://github.com/tarampampam/webhook-tester/pull/714) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 months ago)
-- [refactor: Restructure CLI module and improve flag management ](https://github.com/tarampampam/microcheck/pull/10) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 months ago)
+- [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [✨ feat(config): Update AI provider model names and documentation links](https://github.com/tarampampam/describe-commit/pull/32) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [feat: Auto-retry on retryable provider errors](https://github.com/tarampampam/describe-commit/pull/31) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [⬆️ chore(deps): Upgrade Go version to 1.26](https://github.com/tarampampam/describe-commit/pull/30) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
 
 #### ⭐ Recent stars
 
 
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (3 months ago)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (5 months ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (6 months ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (7 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (9 months ago)
 
 #### 💬 Feedback
