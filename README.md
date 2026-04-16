@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 day ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (2 days ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 days ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (5 days ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (2 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (3 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (4 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 1 day ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 2 days ago) - 🔭 Powerful tool for testing WebHooks and more
-- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 5 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 5 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 2 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 3 days ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 6 days ago) - 🐼 CLI tool for compressing images using the TinyPNG
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) ([v1.4.4](https://github.com/gacts/run-and-post-run/releases/tag/v1.4.4), 6 days ago) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended.
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
-- [✨ feat(config): Update AI provider model names and documentation links](https://github.com/tarampampam/describe-commit/pull/32) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
-- [feat: Auto-retry on retryable provider errors](https://github.com/tarampampam/describe-commit/pull/31) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
-- [⬆️ chore(deps): Upgrade Go version to 1.26](https://github.com/tarampampam/describe-commit/pull/30) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 day ago)
+- [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
+- [✨ feat(config): Update AI provider model names and documentation links](https://github.com/tarampampam/describe-commit/pull/32) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
+- [feat: Auto-retry on retryable provider errors](https://github.com/tarampampam/describe-commit/pull/31) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
+- [⬆️ chore(deps): Upgrade Go version to 1.26](https://github.com/tarampampam/describe-commit/pull/30) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 days ago)
 
 #### ⭐ Recent stars
 
