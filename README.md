@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 days ago)
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (3 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (4 days ago)
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (4 days ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (6 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (4 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (4 days ago)
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (5 days ago)
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more (5 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0-rc1](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0-rc1), 3 days ago) - 🧪 Lightweight health check utilities for Docker containers
-- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 6 days ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0-rc1](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0-rc1), 4 days ago) - 🧪 Lightweight health check utilities for Docker containers
+- [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 1 week ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 1 week ago) - 🐼 CLI tool for compressing images using the TinyPNG
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Allow custom homepage URL in error pages](https://github.com/tarampampam/error-pages/pull/392) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
-- [feat: Add connection timeout flag for http(s)check](https://github.com/tarampampam/microcheck/pull/19) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (3 days ago)
-- [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (6 days ago)
-- [✨ feat(config): Update AI provider model names and documentation links](https://github.com/tarampampam/describe-commit/pull/32) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (6 days ago)
+- [Allow custom homepage URL in error pages](https://github.com/tarampampam/error-pages/pull/392) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [feat: Add connection timeout flag for http(s)check](https://github.com/tarampampam/microcheck/pull/19) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (4 days ago)
+- [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
+- [✨ feat(config): Update AI provider model names and documentation links](https://github.com/tarampampam/describe-commit/pull/32) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
 
 #### ⭐ Recent stars
 
