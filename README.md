@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (6 days ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (1 week ago)
 - [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository (1 week ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0-rc1](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0-rc1), 1 week ago) - 🧪 Lightweight health check utilities for Docker containers
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 1 day ago) - 🧪 Lightweight health check utilities for Docker containers
 - [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 1 week ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
 - [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 2 weeks ago) - 🐼 CLI tool for compressing images using the TinyPNG
