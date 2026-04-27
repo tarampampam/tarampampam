@@ -38,9 +38,9 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 2 days ago) - 🧪 Lightweight health check utilities for Docker containers
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 3 days ago) - 🧪 Lightweight health check utilities for Docker containers
 - [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) ([v0.2.0](https://github.com/tarampampam/describe-commit/releases/tag/v0.2.0), 1 week ago) - 🪇 CLI tool that leverages AI to generate commit messages based on changes made in a Git repository
-- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 1 week ago) - 🔭 Powerful tool for testing WebHooks and more
+- [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) ([v2.3.0](https://github.com/tarampampam/webhook-tester/releases/tag/v2.3.0), 2 weeks ago) - 🔭 Powerful tool for testing WebHooks and more
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) ([v5.1.2](https://github.com/tarampampam/tinifier/releases/tag/v5.1.2), 2 weeks ago) - 🐼 CLI tool for compressing images using the TinyPNG
 
 #### 🔨 Latest Pull Requests I published
@@ -54,7 +54,7 @@
 #### ⭐ Recent stars
 
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 day ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 days ago)
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (4 months ago)
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (6 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (7 months ago)
