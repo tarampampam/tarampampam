@@ -21,10 +21,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 day ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on) (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 days ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -37,15 +37,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.13.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.13.0), 1 day ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 1 day ago) - 🚀 Installs DNSControl into your actions workflow
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.0.0-alpha-11](https://github.com/tarampampam/error-pages/releases/tag/v4.0.0-alpha-11), 2 days ago) - 🚧 Pretty server&#39;s error pages in the docker image &amp; git repository (for traefik, k8s, nginx and so on)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.0.0](https://github.com/tarampampam/error-pages/releases/tag/v4.0.0), 1 day ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.13.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.13.0), 2 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 2 days ago) - 🚀 Installs DNSControl into your actions workflow
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 1 week ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [v4: new version](https://github.com/tarampampam/error-pages/pull/393) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [feat: v4 - complete rewrite (stdlib-only, two binaries, new template engine, Helm chart)](https://github.com/tarampampam/error-pages/pull/393) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
 - [Allow custom homepage URL in error pages](https://github.com/tarampampam/error-pages/pull/392) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [feat: Add connection timeout flag for http(s)check](https://github.com/tarampampam/microcheck/pull/19) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 weeks ago)
 - [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 weeks ago)
