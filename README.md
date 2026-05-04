@@ -22,9 +22,9 @@
 
 
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (2 days ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (3 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Docker image with 3proxy - Tiny free proxy server (3 days ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -37,15 +37,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.0.0](https://github.com/tarampampam/error-pages/releases/tag/v4.0.0), 1 day ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.13.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.13.0), 2 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 2 days ago) - 🚀 Installs DNSControl into your actions workflow
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.0.0](https://github.com/tarampampam/error-pages/releases/tag/v4.0.0), 2 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v1.13.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v1.13.0), 3 days ago) - 🥷 Docker image with 3proxy - Tiny free proxy server
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 3 days ago) - 🚀 Installs DNSControl into your actions workflow
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 1 week ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: v4 - complete rewrite (stdlib-only, two binaries, new template engine, Helm chart)](https://github.com/tarampampam/error-pages/pull/393) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [feat: v4 - complete rewrite (stdlib-only, two binaries, new template engine, Helm chart)](https://github.com/tarampampam/error-pages/pull/393) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (5 days ago)
 - [Allow custom homepage URL in error pages](https://github.com/tarampampam/error-pages/pull/392) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [feat: Add connection timeout flag for http(s)check](https://github.com/tarampampam/microcheck/pull/19) on [tarampampam/microcheck](https://github.com/tarampampam/microcheck) (2 weeks ago)
 - [✨ feat(config): Add support for custom AI provider base URLs](https://github.com/tarampampam/describe-commit/pull/33) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 weeks ago)
@@ -53,10 +53,10 @@
 #### ⭐ Recent stars
 
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
-- [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (4 months ago)
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt (6 months ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (7 months ago)
+- [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (1 day ago)
+- [MjavadH/4X4-Collection](https://github.com/MjavadH/4X4-Collection) - Simple 404 collection for use in personal and commercial projects (1 day ago)
+- [mah-shamim/premium-pack-of-7-creative-404-error-pages](https://github.com/mah-shamim/premium-pack-of-7-creative-404-error-pages) - A set of 7 unique, responsive 404 error pages built with HTML, CSS, and JavaScript – perfect for modern websites. (1 day ago)
+- [PecceG2/HTML_Template_http_codes](https://github.com/PecceG2/HTML_Template_http_codes) - HTML Templates for HTTP errors (404, 500, 503 and 504). (1 day ago)
 
 #### 💬 Feedback
 
