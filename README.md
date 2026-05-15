@@ -21,11 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (today)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (3 days ago)
-- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (6 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (4 days ago)
+- [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 week ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 week ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -37,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.0.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.0.0), 1 day ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
-- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.4.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.4.0), 1 day ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.0](https://github.com/tarampampam/error-pages/releases/tag/v4.2.0), 3 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.0.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.0.0), 2 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
+- [roadrunner-php/laravel-bridge](https://github.com/roadrunner-php/laravel-bridge) ([6.4.0](https://github.com/roadrunner-php/laravel-bridge/releases/tag/6.4.0), 2 days ago) - Complete Laravel integration for RoadRunner with support for HTTP, Jobs, gRPC, and Temporal plugins - going beyond Octane&#39;s capabilities
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.0](https://github.com/tarampampam/error-pages/releases/tag/v4.2.0), 4 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 2 weeks ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
-- [v2](https://github.com/tarampampam/3proxy-docker/pull/88) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (6 days ago)
+- [v3](https://github.com/tarampampam/webhook-tester/pull/761) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (1 day ago)
+- [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 days ago)
+- [v2](https://github.com/tarampampam/3proxy-docker/pull/88) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [Add error-pages link to Reverse Proxy section](https://github.com/veggiemonk/awesome-docker/pull/1422) on [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) (1 week ago)
-- [fix: Remove log-level escalation for 4xx/5xx in access log](https://github.com/tarampampam/error-pages/pull/400) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 
 #### ⭐ Recent stars
 
