@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 days ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (1 week ago)
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (3 weeks ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 weeks ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (3 weeks ago)
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (4 weeks ago)
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) - 🚀 Installs DNSControl into your actions workflow (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@
 
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.0.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.0.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.0](https://github.com/tarampampam/error-pages/releases/tag/v4.2.0), 2 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 4 weeks ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 1 month ago) - 🚀 Installs DNSControl into your actions workflow
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 1 month ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (3 days ago)
-- [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (3 weeks ago)
+- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (4 days ago)
+- [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (4 weeks ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (5 months ago)
 
