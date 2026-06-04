@@ -21,11 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (3 days ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (3 days ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (2 weeks ago)
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (3 weeks ago)
-- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (3 weeks ago)
+- [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (4 weeks ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
 
 #### 🌱 My latest projects
@@ -46,8 +46,8 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update README with alternative Docker image information](https://github.com/3proxy/3proxy/pull/1235) on [3proxy/3proxy](https://github.com/3proxy/3proxy) (1 day ago)
-- [v3](https://github.com/tarampampam/webhook-tester/pull/761) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (2 weeks ago)
+- [Update README with alternative Docker image information](https://github.com/3proxy/3proxy/pull/1235) on [3proxy/3proxy](https://github.com/3proxy/3proxy) (2 days ago)
+- [v3](https://github.com/tarampampam/webhook-tester/pull/761) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
 - [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 weeks ago)
 - [v2](https://github.com/tarampampam/3proxy-docker/pull/88) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (3 weeks ago)
 
