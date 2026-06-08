@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (6 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (6 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
+- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (2 weeks ago)
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) - 🧪 Lightweight health check utilities for Docker containers (1 month ago)
 - [tarampampam/mustpl](https://github.com/tarampampam/mustpl) - 🧰 Logic-less CLI templating tool (1 month ago)
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.1](https://github.com/tarampampam/error-pages/releases/tag/v4.2.1), 1 day ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.0.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.0.0), 3 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.0](https://github.com/tarampampam/error-pages/releases/tag/v4.2.0), 3 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.4](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.4), 1 month ago) - 🚀 Installs DNSControl into your actions workflow
 - [tarampampam/microcheck](https://github.com/tarampampam/microcheck) ([v1.4.0](https://github.com/tarampampam/microcheck/releases/tag/v1.4.0), 1 month ago) - 🧪 Lightweight health check utilities for Docker containers
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [Update README with alternative Docker image information](https://github.com/3proxy/3proxy/pull/1235) on [3proxy/3proxy](https://github.com/3proxy/3proxy) (5 days ago)
+- [[GHSA-h524-452v-82p9] Decoding a maliciously-crafted MIME header containing...](https://github.com/github/advisory-database/pull/7909) on [github/advisory-database](https://github.com/github/advisory-database) (1 day ago)
+- [Update README with alternative Docker image information](https://github.com/3proxy/3proxy/pull/1235) on [3proxy/3proxy](https://github.com/3proxy/3proxy) (6 days ago)
 - [v3](https://github.com/tarampampam/webhook-tester/pull/761) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (3 weeks ago)
-- [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 weeks ago)
-- [v2](https://github.com/tarampampam/3proxy-docker/pull/88) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 month ago)
+- [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (4 weeks ago)
 
 #### ⭐ Recent stars
 
