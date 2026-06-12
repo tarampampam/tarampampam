@@ -21,13 +21,13 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (1 day ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 day ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 day ago)
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (1 day ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (4 days ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (2 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (2 days ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 days ago)
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) - 🚀 Installs mmock binary file into your actions workflow (2 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,15 +39,15 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 1 day ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.8](https://github.com/gacts/install-mmock/releases/tag/v1.1.8), 1 day ago) - 🚀 Installs mmock binary file into your actions workflow
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.0), 1 day ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.1](https://github.com/tarampampam/error-pages/releases/tag/v4.2.1), 4 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 2 days ago) - 🚀 Installs hurl binary file into your actions workflow
+- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.8](https://github.com/gacts/install-mmock/releases/tag/v1.1.8), 2 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.0](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.0), 2 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.1](https://github.com/tarampampam/error-pages/releases/tag/v4.2.1), 5 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [[GHSA-h524-452v-82p9] Decoding a maliciously-crafted MIME header containing...](https://github.com/github/advisory-database/pull/7909) on [github/advisory-database](https://github.com/github/advisory-database) (4 days ago)
+- [[GHSA-h524-452v-82p9] Decoding a maliciously-crafted MIME header containing...](https://github.com/github/advisory-database/pull/7909) on [github/advisory-database](https://github.com/github/advisory-database) (5 days ago)
 - [Update README with alternative Docker image information](https://github.com/3proxy/3proxy/pull/1235) on [3proxy/3proxy](https://github.com/3proxy/3proxy) (1 week ago)
 - [v3](https://github.com/tarampampam/webhook-tester/pull/761) on [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) (4 weeks ago)
 - [fix: The Host header value has been reverted to the details data](https://github.com/tarampampam/error-pages/pull/404) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
