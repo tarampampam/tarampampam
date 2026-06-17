@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (2 days ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (3 days ago)
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (6 days ago)
-- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (6 days ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (6 days ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (today)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (4 days ago)
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
+- [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (1 week ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,23 +38,23 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.2](https://github.com/tarampampam/error-pages/releases/tag/v4.2.2), 2 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.1](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.1), 3 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
-- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 6 days ago) - 🚀 Installs hurl binary file into your actions workflow
-- [gacts/install-mmock](https://github.com/gacts/install-mmock) ([v1.1.8](https://github.com/gacts/install-mmock/releases/tag/v1.1.8), 6 days ago) - 🚀 Installs mmock binary file into your actions workflow
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.1.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.1.0), 1 day ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.2](https://github.com/tarampampam/error-pages/releases/tag/v4.2.2), 3 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.1](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.1), 4 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 1 week ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [refactor(l10n): Rewrite client-side localization script](https://github.com/tarampampam/error-pages/pull/413) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
-- [Update `&lt;html lang&gt;` attribute at runtime after page localization](https://github.com/tarampampam/error-pages/pull/412) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 days ago)
-- [⬆️ build(deps): Upgrade Node.js to version 24 in Dockerfile](https://github.com/tarampampam/video-dl-bot/pull/25) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (3 days ago)
-- [[GHSA-h524-452v-82p9] Decoding a maliciously-crafted MIME header containing...](https://github.com/github/advisory-database/pull/7909) on [github/advisory-database](https://github.com/github/advisory-database) (1 week ago)
+- [feat: Allow extra arguments for proxy and socks directives](https://github.com/tarampampam/3proxy-docker/pull/95) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 day ago)
+- [refactor(l10n): Rewrite client-side localization script](https://github.com/tarampampam/error-pages/pull/413) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [Update `&lt;html lang&gt;` attribute at runtime after page localization](https://github.com/tarampampam/error-pages/pull/412) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (3 days ago)
+- [⬆️ build(deps): Upgrade Node.js to version 24 in Dockerfile](https://github.com/tarampampam/video-dl-bot/pull/25) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (4 days ago)
 
 #### ⭐ Recent stars
 
 
-- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (2 weeks ago)
+- [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (3 weeks ago)
 - [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (1 month ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (5 months ago)
