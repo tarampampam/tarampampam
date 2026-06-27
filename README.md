@@ -24,7 +24,7 @@
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) - 🚀 Installs hurl binary file into your actions workflow (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (1 week ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 week ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 weeks ago)
 - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run) - 🚀 A simple GitHub action that allows you to execute commands on place and in post-run, once a workflow job has ended. (2 weeks ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 weeks ago)
 
@@ -40,7 +40,7 @@
 
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.1.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.1.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.2](https://github.com/tarampampam/error-pages/releases/tag/v4.2.2), 1 week ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.1](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.1), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.1](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.1), 2 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
@@ -49,7 +49,7 @@
 - [feat: Allow extra arguments for proxy and socks directives](https://github.com/tarampampam/3proxy-docker/pull/95) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [refactor(l10n): Rewrite client-side localization script](https://github.com/tarampampam/error-pages/pull/413) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
 - [Update `&lt;html lang&gt;` attribute at runtime after page localization](https://github.com/tarampampam/error-pages/pull/412) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
-- [⬆️ build(deps): Upgrade Node.js to version 24 in Dockerfile](https://github.com/tarampampam/video-dl-bot/pull/25) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (1 week ago)
+- [⬆️ build(deps): Upgrade Node.js to version 24 in Dockerfile](https://github.com/tarampampam/video-dl-bot/pull/25) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (2 weeks ago)
 
 #### ⭐ Recent stars
 
