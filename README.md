@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.1.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.1.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.1.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.1.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.2](https://github.com/tarampampam/error-pages/releases/tag/v4.2.2), 2 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.1](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.1), 2 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 2 weeks ago) - 🚀 Installs hurl binary file into your actions workflow
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Allow extra arguments for proxy and socks directives](https://github.com/tarampampam/3proxy-docker/pull/95) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
+- [feat: Allow extra arguments for proxy and socks directives](https://github.com/tarampampam/3proxy-docker/pull/95) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (2 weeks ago)
 - [refactor(l10n): Rewrite client-side localization script](https://github.com/tarampampam/error-pages/pull/413) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [Update `&lt;html lang&gt;` attribute at runtime after page localization](https://github.com/tarampampam/error-pages/pull/412) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [⬆️ build(deps): Upgrade Node.js to version 24 in Dockerfile](https://github.com/tarampampam/video-dl-bot/pull/25) on [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) (2 weeks ago)
