@@ -21,10 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (5 days ago)
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (6 days ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (6 days ago)
-- [iddqd-uk/apps](https://github.com/iddqd-uk/apps) - 💻 Charts &amp; configuration of the cluster (2 weeks ago)
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (today)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 day ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (1 week ago)
 - [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -37,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.3](https://github.com/tarampampam/error-pages/releases/tag/v4.2.3), 5 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.2.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.2.0), 6 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.2](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.2), 6 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 1 day ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.2.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.2.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.2](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.2), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [gacts/install-hurl](https://github.com/gacts/install-hurl) ([v1.3.4](https://github.com/gacts/install-hurl/releases/tag/v1.3.4), 1 month ago) - 🚀 Installs hurl binary file into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [chore(deps): Bump 3proxy to v0.9.7](https://github.com/tarampampam/3proxy-docker/pull/98) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (6 days ago)
+- [fix(l10n): treat `en/en-*` as the default language in locale resolution](https://github.com/tarampampam/error-pages/pull/417) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
+- [chore(deps): Bump 3proxy to v0.9.7](https://github.com/tarampampam/3proxy-docker/pull/98) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 week ago)
 - [feat: Allow extra arguments for proxy and socks directives](https://github.com/tarampampam/3proxy-docker/pull/95) on [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) (1 month ago)
 - [refactor(l10n): Rewrite client-side localization script](https://github.com/tarampampam/error-pages/pull/413) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
-- [Update `&lt;html lang&gt;` attribute at runtime after page localization](https://github.com/tarampampam/error-pages/pull/412) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 month ago)
 
 #### ⭐ Recent stars
 
