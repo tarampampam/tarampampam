@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (1 day ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (5 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (5 days ago)
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (2 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (6 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (6 days ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image (1 week ago)
 
@@ -37,18 +37,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.0.4](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.0.4), 1 day ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 5 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.0.4](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.0.4), 2 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 6 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.2.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.2.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a single minimal container image
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.2](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.2), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 day ago)
-- [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 days ago)
-- [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (3 days ago)
-- [🚀 ci: Set up GitHub Actions for CI/CD and Dependabot](https://github.com/alexzulu/dayz-stats-tg-bot/pull/1) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (4 days ago)
+- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 days ago)
+- [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (3 days ago)
+- [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (4 days ago)
+- [🚀 ci: Set up GitHub Actions for CI/CD and Dependabot](https://github.com/alexzulu/dayz-stats-tg-bot/pull/1) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (5 days ago)
 
 #### ⭐ Recent stars
 
