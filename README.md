@@ -22,8 +22,8 @@
 
 
 - [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (1 week ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 week ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 weeks ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 weeks ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image (2 weeks ago)
 
@@ -38,7 +38,7 @@
 
 
 - [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.0.4](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.0.4), 1 week ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 1 week ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 2 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.2.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.2.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.2](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.2), 2 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 
