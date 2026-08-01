@@ -47,14 +47,14 @@
 
 - [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 week ago)
 - [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 week ago)
-- [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 week ago)
+- [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 weeks ago)
 - [🚀 ci: Set up GitHub Actions for CI/CD and Dependabot](https://github.com/alexzulu/dayz-stats-tg-bot/pull/1) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 weeks ago)
 
 #### ⭐ Recent stars
 
 
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (2 months ago)
-- [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (2 months ago)
+- [bedimcode/responsive-404-page](https://github.com/bedimcode/responsive-404-page) - Responsive 404 Page Website Design Using HTML CSS &amp; JavaScript (3 months ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 months ago)
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. (7 months ago)
 
