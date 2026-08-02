@@ -46,7 +46,7 @@
 
 
 - [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 week ago)
-- [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 week ago)
+- [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 weeks ago)
 - [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 weeks ago)
 - [🚀 ci: Set up GitHub Actions for CI/CD and Dependabot](https://github.com/alexzulu/dayz-stats-tg-bot/pull/1) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 weeks ago)
 
