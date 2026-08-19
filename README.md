@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (4 weeks ago)
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (1 month ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 month ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 month ago)
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.0.4](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.0.4), 4 weeks ago)
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.0.4](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.0.4), 1 month ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.4](https://github.com/tarampampam/error-pages/releases/tag/v4.2.4), 1 month ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.2.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.2.0), 1 month ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.2](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.2), 1 month ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
@@ -46,7 +46,7 @@
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (4 weeks ago)
+- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
 - [fix: Refactor source code and improve A2C/RConn connections handling](https://github.com/alexzulu/dayz-stats-tg-bot/pull/5) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
 - [✨ feat: Add BattlEye RCon support for player names](https://github.com/alexzulu/dayz-stats-tg-bot/pull/4) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
 - [🚀 ci: Set up GitHub Actions for CI/CD and Dependabot](https://github.com/alexzulu/dayz-stats-tg-bot/pull/1) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
