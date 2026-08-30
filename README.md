@@ -26,7 +26,7 @@
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 month ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 month ago)
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image (1 month ago)
-- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (1 month ago)
+- [iddqd-uk/.github](https://github.com/iddqd-uk/.github) - :octocat: Health files (2 months ago)
 
 #### 🌱 My latest projects
 
