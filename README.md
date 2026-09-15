@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (1 week ago)
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 week ago)
-- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (1 week ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
-- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 week ago)
-- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 week ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (2 weeks ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (2 weeks ago)
+- [iddqd-uk/infra](https://github.com/iddqd-uk/infra) - 🏗 Infrastructure as a piece of shit/code (2 weeks ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 weeks ago)
+- [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (2 weeks ago)
+- [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,17 +38,17 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.6](https://github.com/gacts/github-slug/releases/tag/v1.3.6), 1 week ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
-- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.3](https://github.com/gacts/gitleaks/releases/tag/v1.3.3), 1 week ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.6](https://github.com/gacts/directory-listing/releases/tag/v1.0.6), 1 week ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
-- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.5](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.5), 1 week ago) - 🚀 Installs DNSControl into your actions workflow
+- [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.6](https://github.com/gacts/github-slug/releases/tag/v1.3.6), 2 weeks ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.3.3](https://github.com/gacts/gitleaks/releases/tag/v1.3.3), 2 weeks ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) ([v1.0.6](https://github.com/gacts/directory-listing/releases/tag/v1.0.6), 2 weeks ago) - 🚀 GitHub Action to generate `index.html` files for directory listings
+- [gacts/install-dnscontrol](https://github.com/gacts/install-dnscontrol) ([v1.3.5](https://github.com/gacts/install-dnscontrol/releases/tag/v1.3.5), 2 weeks ago) - 🚀 Installs DNSControl into your actions workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (1 week ago)
-- [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/describe-commit/pull/39) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 week ago)
-- [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/error-pages/pull/425) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 week ago)
+- [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (2 weeks ago)
+- [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/describe-commit/pull/39) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 weeks ago)
+- [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/error-pages/pull/425) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
 - [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
 
 #### ⭐ Recent stars
