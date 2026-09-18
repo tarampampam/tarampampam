@@ -49,7 +49,7 @@
 - [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (2 weeks ago)
 - [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/describe-commit/pull/39) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 weeks ago)
 - [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/error-pages/pull/425) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (2 weeks ago)
-- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (1 month ago)
+- [✨ feat(tgbot): Enhance player list display with emojis and sorting](https://github.com/alexzulu/dayz-stats-tg-bot/pull/6) on [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) (2 months ago)
 
 #### ⭐ Recent stars
 
