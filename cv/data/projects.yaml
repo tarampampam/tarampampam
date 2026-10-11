@@ -16,13 +16,10 @@ items:
     link: https://github.com/tarampampam/webhook-tester
     gitHubRepo: tarampampam/webhook-tester
     description: Allows you to easily test webhooks and other types of HTTP requests
-  - title: /c/mustpl
-    link: https://github.com/tarampampam/mustpl
-    gitHubRepo: tarampampam/mustpl
-    description: Logic-less CLI templating tool
+  - title: /c/microcheck
+    link: https://github.com/tarampampam/microcheck
+    gitHubRepo: tarampampam/microcheck
+    description: Lightweight health check utilities for Docker containers written in pure C
   - title: /gacts
     link: https://github.com/gacts
     description: GitHub actions for all occasions
-  - title: /iddqd-uk
-    link: https://github.com/iddqd-uk
-    description: Infrastructure as a game (pet projects' home)
