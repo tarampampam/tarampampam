@@ -1,7 +1,7 @@
 ---
 title: Техлид, Go разработчик
 project: GoConsensus
-period: 2022-настоящее время
+period: 2022-2026
 link: https://goconsensus.com/
 location: USA, Lehi, Utah (удаленно)
 stack: [Go, GitLab, AWS, React, Temporal, Architecture]

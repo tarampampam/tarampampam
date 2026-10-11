@@ -1,7 +1,7 @@
 ---
 title: Tech Lead, Go Dev
 project: GoConsensus
-period: 2022-present
+period: 2022-2026
 link: https://goconsensus.com/
 location: USA, Lehi, Utah (remote)
 stack: [Go, GitLab, AWS, React, Temporal, Architecture]
