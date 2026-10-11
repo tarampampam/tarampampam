@@ -65,11 +65,11 @@ jobs:
       - uses: actions/download-artifact@v8
         with: {name: cv-ru.pdf, path: ./cv/dist/ru}
 
-      - uses: cloudflare/pages-action@1
+      - uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: cv-tarampamp-am
-          directory: ./cv/dist
-          branch: main # aka CF "production" environment
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          # docs: https://developers.cloudflare.com/workers/wrangler/commands/pages/#pages-deploy
+          command: pages deploy ./cv/dist --project-name=cv-tarampamp-am --branch=main
+        env: {WRANGLER_SEND_METRICS: false}

@@ -17,11 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: cloudflare/pages-action@1
+      - uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: index-tarampamp-am
-          directory: ./index
-          branch: main # aka CF "production" environment
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          # docs: https://developers.cloudflare.com/workers/wrangler/commands/pages/#pages-deploy
+          command: pages deploy ./index --project-name=index-tarampamp-am --branch=main
+        env: {WRANGLER_SEND_METRICS: false}
