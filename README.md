@@ -21,10 +21,10 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 days ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 days ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (2 days ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 days ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (3 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (3 days ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 days ago)
 - [gacts/github-slug](https://github.com/gacts/github-slug) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow (1 month ago)
 - [tarampampam/.github](https://github.com/tarampampam/.github) - :octocat: Health files (1 month ago)
 
@@ -38,25 +38,25 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 1 day ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.6](https://github.com/tarampampam/error-pages/releases/tag/v4.2.6), 2 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.4.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.4.0), 2 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 2 days ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.6](https://github.com/tarampampam/error-pages/releases/tag/v4.2.6), 3 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.4.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.4.0), 3 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.6](https://github.com/gacts/github-slug/releases/tag/v1.3.6), 1 month ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix(versions): Update MDN browser data source to latest](https://github.com/tarampampam/random-user-agent/pull/812) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 day ago)
-- [fix(firefox): Remove the script type &#34;module&#34; to avoid issues with Firefox](https://github.com/tarampampam/random-user-agent/pull/811) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [fix(versions): Update MDN browser data source to latest](https://github.com/tarampampam/random-user-agent/pull/812) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 days ago)
+- [fix(firefox): Remove the script type &#34;module&#34; to avoid issues with Firefox](https://github.com/tarampampam/random-user-agent/pull/811) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 days ago)
 - [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (1 month ago)
 - [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/describe-commit/pull/39) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (1 month ago)
 
 #### ⭐ Recent stars
 
 
-- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin (2 days ago)
-- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (2 days ago)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) (2 days ago)
+- [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin (3 days ago)
+- [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server (3 days ago)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) (3 days ago)
 - [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage) - Upload code coverage report from your GitHub Actions workflow (4 months ago)
 
 #### 💬 Feedback
