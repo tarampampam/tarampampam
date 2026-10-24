@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 2 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 3 days ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 1 week ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.4.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.4.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [gacts/github-slug](https://github.com/gacts/github-slug) ([v1.3.6](https://github.com/gacts/github-slug/releases/tag/v1.3.6), 1 month ago) - 🚀 GitHub Action to expose slug values of branch/tag/version inside your GitHub workflow
@@ -54,8 +54,8 @@
 #### ⭐ Recent stars
 
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (2 days ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (5 days ago)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (3 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (6 days ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (1 week ago)
 
