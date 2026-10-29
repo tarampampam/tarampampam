@@ -21,7 +21,7 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 day ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 days ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) -  (1 week ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 weeks ago)
@@ -38,8 +38,8 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 1 day ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.5.0), 4 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 2 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.5.0), 5 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 1 week ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
@@ -57,7 +57,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (1 week ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. (1 week ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (1 week ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (2 weeks ago)
 
 #### 💬 Feedback
 
