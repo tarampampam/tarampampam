@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (4 days ago)
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (5 days ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) -  (2 weeks ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
-- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (2 weeks ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (2 weeks ago)
-- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (2 weeks ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (3 weeks ago)
+- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 weeks ago)
+- [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 4 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
+- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 5 days ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.5.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 1 week ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 2 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
@@ -47,7 +47,7 @@
 
 
 - [fix(versions): Update MDN browser data source to latest](https://github.com/tarampampam/random-user-agent/pull/812) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 weeks ago)
-- [fix(firefox): Remove the script type &#34;module&#34; to avoid issues with Firefox](https://github.com/tarampampam/random-user-agent/pull/811) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (2 weeks ago)
+- [fix(firefox): Remove the script type &#34;module&#34; to avoid issues with Firefox](https://github.com/tarampampam/random-user-agent/pull/811) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (3 weeks ago)
 - [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (2 months ago)
 - [📝 docs: Remove AI agent instructions and related files](https://github.com/tarampampam/describe-commit/pull/39) on [tarampampam/describe-commit](https://github.com/tarampampam/describe-commit) (2 months ago)
 
@@ -55,7 +55,7 @@
 
 
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (1 week ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (2 weeks ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. (2 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (2 weeks ago)
 
