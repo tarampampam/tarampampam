@@ -21,9 +21,9 @@
 #### 👷 Check out what I'm currently working on
 
 
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (1 day ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 week ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) -  (3 weeks ago)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (3 weeks ago)
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (3 weeks ago)
 - [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (3 weeks ago)
@@ -39,7 +39,7 @@
 
 
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 1 week ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.5.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.5.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.5.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 2 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) ([v4.3.5](https://github.com/tarampampam/random-user-agent/releases/tag/v4.3.5), 3 weeks ago) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 
