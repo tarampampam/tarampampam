@@ -21,8 +21,8 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (today)
-- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (5 days ago)
+- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (1 day ago)
+- [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (6 days ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (2 weeks ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) -  (3 weeks ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 month ago)
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) ([v0.0.1](https://github.com/tarampampam/dayz-statez/releases/tag/v0.0.1), 1 day ago) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.6.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.6.0), 2 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) ([v0.0.1](https://github.com/tarampampam/dayz-statez/releases/tag/v0.0.1), 2 days ago) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.6.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.6.0), 3 days ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 2 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 3 weeks ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [🔧 chore(ci): Add GitHub Actions workflows and repository configuration](https://github.com/tarampampam/dayz-statez/pull/2) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 day ago)
+- [✨ feat(world): Include server version in world snapshots](https://github.com/tarampampam/dayz-statez/pull/4) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 day ago)
+- [🔧 chore(ci): Add GitHub Actions workflows and repository configuration](https://github.com/tarampampam/dayz-statez/pull/2) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (2 days ago)
 - [fix(versions): Update MDN browser data source to latest](https://github.com/tarampampam/random-user-agent/pull/812) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 - [fix(firefox): Remove the script type &#34;module&#34; to avoid issues with Firefox](https://github.com/tarampampam/random-user-agent/pull/811) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
-- [feat: Support binary versions without a `v` prefix](https://github.com/golangci/golangci-lint-action/pull/1420) on [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) (2 months ago)
 
 #### ⭐ Recent stars
 
@@ -57,7 +57,7 @@
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (3 weeks ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources (3 weeks ago)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling. (3 weeks ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (3 weeks ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (4 weeks ago)
 
 #### 💬 Feedback
 
