@@ -9,8 +9,12 @@ const versionSuffixRe = /\/v\d+$/m
 const redirect = function (request, baseUrl, branchName) {
   const url = new URL(request.url) // eg.: https://example.com/foo/v1
   const path = '/' + url.pathname.replace(/^\/+|\/+$/g, '').replace(/\/\/+/g, '/') // eg.: /foo/v1
-  const pkgName = url.hostname + path // eg.: example.com/foo/v1
-  let pkgSrc = baseUrl + path // eg.: https://github.com/user/foo/v1
+
+  const seg = path.slice(1).split('/') // eg.: [foo, v1]
+  const root = seg.length === 1 || (seg.length === 2 && /^v\d+$/.test(seg[1])) ? path : '/' + seg[0]
+
+  const pkgName = url.hostname + root // eg.: example.com/foo/v1
+  let pkgSrc = baseUrl + root // eg.: https://github.com/user/foo/v1
   let repoName = (new URL(pkgSrc)).pathname.replace(/^\/+|\/+$/g, '').replace(versionSuffixRe, '') // eg.: user/foo
 
   if (versionSuffixRe.test(pkgSrc)) { // if ends with `/v[0-9]`
