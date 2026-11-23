@@ -20,7 +20,11 @@ jobs:
       - uses: peaceiris/actions-hugo@v3
         with: {hugo-version: 0.101.0, extended: true}
 
-      - run: sudo apt update && sudo apt install ghostscript wkhtmltopdf # https://wkhtmltopdf.org/
+      # wkhtmltopdf is no longer in the Ubuntu repos, so install the upstream build (https://wkhtmltopdf.org/)
+      - run: |
+          curl -fsSL -o /tmp/wkhtmltox.deb \
+            https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-3/wkhtmltox_0.12.6.1-3.jammy_amd64.deb
+          sudo apt update && sudo apt install -y ghostscript /tmp/wkhtmltox.deb
 
       - run: hugo --minify -d ./../4pdf
         env: {HUGO_RELATIVEURLS: true, HUGO_GOOGLEANALYTICS: '', GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'}
