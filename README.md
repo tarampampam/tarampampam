@@ -21,11 +21,11 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (5 days ago)
+- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (1 day ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (2 weeks ago)
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (3 weeks ago)
 - [tarampampam/domains](https://github.com/tarampampam/domains) -  (1 month ago)
-- [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes) - 🚀 This action allows you to add content to GitHub release notes programmatically (1 month ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 month ago)
 - [gacts/directory-listing](https://github.com/gacts/directory-listing) - 🚀 GitHub Action to generate `index.html` files for directory listings (1 month ago)
 
 #### 🌱 My latest projects
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) ([server/v0.0.2](https://github.com/tarampampam/dayz-statez/releases/tag/server/v0.0.2), 5 days ago) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.6.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.6.0), 1 week ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) ([server/v0.0.3](https://github.com/tarampampam/dayz-statez/releases/tag/server/v0.0.3), 1 day ago) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.6.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.6.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
 - [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) ([v1.4.4](https://github.com/tarampampam/video-dl-bot/releases/tag/v1.4.4), 3 weeks ago) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram
 - [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.7](https://github.com/tarampampam/error-pages/releases/tag/v4.2.7), 1 month ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [✨ feat(server): Public HTTP API client and public /status endpoint](https://github.com/tarampampam/dayz-statez/pull/5) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (6 days ago)
+- [♻️ refactor(api): Expose element types for list-shaped API models](https://github.com/tarampampam/dayz-statez/pull/7) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 day ago)
+- [✨ feat(mod/server): Track motorbikes in vehicle stats](https://github.com/tarampampam/dayz-statez/pull/6) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 day ago)
+- [✨ feat(server): Public HTTP API client and public /status endpoint](https://github.com/tarampampam/dayz-statez/pull/5) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 week ago)
 - [✨ feat(world): Include server version in world snapshots](https://github.com/tarampampam/dayz-statez/pull/4) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 week ago)
-- [🔧 chore(ci): Add GitHub Actions workflows and repository configuration](https://github.com/tarampampam/dayz-statez/pull/2) on [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) (1 week ago)
-- [fix(versions): Update MDN browser data source to latest](https://github.com/tarampampam/random-user-agent/pull/812) on [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) (1 month ago)
 
 #### ⭐ Recent stars
 
