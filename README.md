@@ -21,12 +21,12 @@
 #### 👷 Check out what I'm currently working on
 
 
-- [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) -  (2 days ago)
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (3 days ago)
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (5 days ago)
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more (1 day ago)
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required) (1 day ago)
+- [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) -  (3 days ago)
+- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) -  (4 days ago)
+- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON (6 days ago)
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one (3 weeks ago)
-- [tarampampam/video-dl-bot](https://github.com/tarampampam/video-dl-bot) - 🤖 A Telegram bot for downloading videos from various platforms directly within Telegram (1 month ago)
-- [tarampampam/domains](https://github.com/tarampampam/domains) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@
 #### 🚀 Latest releases I've contributed to
 
 
-- [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) ([v0.0.1](https://github.com/alexzulu/dayz-common-mod/releases/tag/v0.0.1), 2 days ago)
-- [alexzulu/dayz-stats-tg-bot](https://github.com/alexzulu/dayz-stats-tg-bot) ([v0.1.1](https://github.com/alexzulu/dayz-stats-tg-bot/releases/tag/v0.1.1), 3 days ago)
-- [tarampampam/dayz-statez](https://github.com/tarampampam/dayz-statez) ([server/v0.0.3](https://github.com/tarampampam/dayz-statez/releases/tag/server/v0.0.3), 5 days ago) - A lightweight DayZ server mod and HTTP server that expose live server state as JSON
-- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.6.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.6.0), 2 weeks ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/3proxy-docker](https://github.com/tarampampam/3proxy-docker) ([v2.7.0](https://github.com/tarampampam/3proxy-docker/releases/tag/v2.7.0), 1 day ago) - 🥷 Powerful and lightweight proxy server (3proxy) in a minimal docker image
+- [tarampampam/error-pages](https://github.com/tarampampam/error-pages) ([v4.2.8](https://github.com/tarampampam/error-pages/releases/tag/v4.2.8), 1 day ago) - 🪂 Tiny, zero-dep HTTP server &amp; Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
+- [gacts/gitleaks](https://github.com/gacts/gitleaks) ([v1.4.0](https://github.com/gacts/gitleaks/releases/tag/v1.4.0), 1 day ago) - 🚀 GitHub action for running gitleaks/gitleaks (no license key is required)
+- [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) ([v0.0.1](https://github.com/alexzulu/dayz-common-mod/releases/tag/v0.0.1), 3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
 
-- [fix: &#34;path&#34; input value](https://github.com/gacts/gitleaks/pull/130) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
-- [✨ feat: Help command implemented](https://github.com/alexzulu/dayz-common-mod/pull/6) on [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) (2 days ago)
-- [feat: Server rules implemented](https://github.com/alexzulu/dayz-common-mod/pull/5) on [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) (2 days ago)
-- [feat: PvP zone in-game alert implemented](https://github.com/alexzulu/dayz-common-mod/pull/4) on [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) (3 days ago)
+- [fix: Prevent panics for HTTP codes below 100](https://github.com/tarampampam/error-pages/pull/437) on [tarampampam/error-pages](https://github.com/tarampampam/error-pages) (1 day ago)
+- [Readme update](https://github.com/gacts/gitleaks/pull/131) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (1 day ago)
+- [fix: &#34;path&#34; input value](https://github.com/gacts/gitleaks/pull/130) on [gacts/gitleaks](https://github.com/gacts/gitleaks) (2 days ago)
+- [✨ feat: Help command implemented](https://github.com/alexzulu/dayz-common-mod/pull/6) on [alexzulu/dayz-common-mod](https://github.com/alexzulu/dayz-common-mod) (3 days ago)
 
 #### ⭐ Recent stars
 
